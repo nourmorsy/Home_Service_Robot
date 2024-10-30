@@ -15,7 +15,7 @@
 The **Home Service Robot** is a groundbreaking project aimed at assisting the elderly and individuals with limited mobility by autonomously performing daily tasks. This robot integrates cutting-edge **multi-vision models**, **natural language processing (NLP)**, and **language grounding techniques** to ensure seamless human-robot interaction in home environments.
 
 **Key components include:**
-- **Multi-Vision Models** for object recognition and detection
+- **Multi-Vision Models** for Enviroment recognition and detection
 - **Natural Language Understanding (NLU)** for command interpretation
 - **PDDL-based Planning** for decision-making and task execution
 - **MoveIt with 6DOF** for robotic arm manipulation
@@ -37,16 +37,44 @@ The **Home Service Robot** is a groundbreaking project aimed at assisting the el
 ```
 Home_Service_robot/
 ├── src/  # Source code directory
-│   ├── command_parsing.py  # Command classification and parsing
-│   ├── object_detection.py  # Object detection with GroundingDINO
-│   ├── pose_estimation.py  # Pose estimation with DOPE
-│   ├── navigation.py       # Navigation logic and control
-│   ├── teleop.py           # Teleoperation code for movement
-│   └── requirements.txt     # List of dependencies
-├── models/                   # Pre-trained models and weights
-├── data/                     # Datasets (e.g., HOPE)
+│   ├── Classification   # Classification package
+│   ├── detection        # GroundingDINO package
+│   ├── dope             # Deep Pose estimation package
+│   ├── navigation       # Navigation package
+│   ├── VQA              # Visual question answering package
+│   ├── LLM              # Large Language Model package
+│   ├── planning         # PDDLStream package
+│   ├── manipulation                # Manipulation package
+│   ├── Porject_environment.yml     # List of project dependencies for conda enviroment
+│   └── DOPE.yml                    # List of Dope package dependencies for conda enviroment                 
 └── README.md                 # Project README
 ```
 ---
+## Installation
+
+### 1. Pre-installation Requirements
+
+Ensure the following software is installed on your system:
+- **ROS (Robot Operating System)**: Required for robot control and navigation.
+  - Installation instructions: [ROS Installation Guide](http://wiki.ros.org/ROS/Installation)
+- **Python 3.x**: The project requires Python 3 for compatibility with various models and libraries.
+- **Anaconda**: Recommended for managing Python environments.
+  - Installation instructions: [Anaconda Installation Guide](https://docs.anaconda.com/anaconda/install/)
+
+### 2. Clone the Repository
+
+Start by cloning this repository to your local machine:
+```bash
+git clone https://github.com/yourusername/Home_Service_robot.git
+cd Home_Service_robot
+```
+### 3. Set Up the Conda Environments
+
+The project uses multiple Conda environments to manage dependencies for different modules.
+```bash
+conda env create -f Project_environment.yml #This file includes dependencies for NLP, navigation, and general utilities.
+conda env create -f dope.yml # This environment specifically handles the DOPE (Deep Object Pose Estimation) model dependencies.
+```
+### 4.  Download robot packages and AI Models
 
 
