@@ -67,6 +67,7 @@ Start by cloning this repository to your local machine:
 ```bash
 git clone https://github.com/yourusername/Home_Service_robot.git
 cd Home_Service_robot
+catkin make 
 ```
 ### 3. Set Up the Conda Environments
 
@@ -77,4 +78,26 @@ conda env create -f dope.yml # This environment specifically handles the DOPE (D
 ```
 ### 4.  Download robot packages and AI Models
 
+- **Turtlebot package**: Required for robot control and navigation.
+  - Installation instructions: [Turtlebot Installation Guide](https://github.com/turtlebot)
+  - Place the model in main directory: ``` src/ ```
+- **DOPE Model**: Required for Object Pose Estimation.
+  - Installation instructions: [DOPE Installation Guide](https://github.com/NVlabs/Deep_Object_Pose)
+  - Place the model in ``` src/dope/ ```
+- **VQA Model**: Required for Visual Question Answering.
+  - Installation instructions: [VQA Installation Guide](https://github.com/dandelin/ViLT)
+  - Place the model in ``` src/VQA/ ```
+- **GroundingDINO Model**: Required for Object Detection.
+  - Installation instructions: [GroundingDINO Installation Guide](https://github.com/IDEA-Research/GroundingDINO)
+  - Place the model in ``` src/detection/ ```
+- **LLM Model**: Required for human robot language interaction.
+  - Installation instructions: [LLM Installation Guide](https://github.com/tincans-ai/gazelle)
+  - Place the model in ``` src/LLM/ ```
+- **PPDLStream Model**: Required for decision-making and task execution .
+  - Installation instructions: [LLM Installation Guide](https://github.com/caelan/pddlstream)
+  - Place the package in ``` src/planning/ ```
+-  **Finally**: in the main directory : ```bash catkin make ```
 
+ 
+    
+    
