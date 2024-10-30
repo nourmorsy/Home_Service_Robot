@@ -30,7 +30,7 @@ The **Home Service Robot** is a groundbreaking project aimed at assisting the el
 - **Autonomous Navigation**: Leverages LiDAR and the ROS navigation stack for safe movement.
 - **Object Manipulation**: Uses MoveIt and a 5DOF robotic arm for complex object handling.
 
-![System Architecture](.png)
+![System Architecture](./System-arch.png)
 
 ---
 ## Directory Structure
