@@ -99,19 +99,17 @@ conda env create -f dope.yml # This environment specifically handles the DOPE (D
 -  **Finally**: in the main directory : ```catkin make ```
 
 ---
-
-## 6.  Future Improvements
+### 6.  Future Improvements
 
  - **Decision Trees for Improved Planning**: We plan to incorporate decision trees to enhance task-planning capabilities, allowing the       robot to make smarter choices when performing tasks.
  - **Additional Multi-Modal Models**: Adding other vision and language models for improved perception and interaction.
 
 ---
+### 7.  Acknowledgments
 
-## 7.  Acknowledgments
 
-  - This project is inspired by the work of [**Sebastian Castro**](https://github.com/sea-bass). His contributions and insightful blog post, [2020 Review: Service Robotics – MIT CSAIL](https://roboticseabass.com/2020/12/30/2020-review-service-robotics-mit-csail/), provided invaluable inspiration and guidance for our team.
-
-We extend our gratitude for his dedication to advancing the field of robotics, which has greatly influenced our approach and the development of this project.
+  - This project is inspired by the work of [**Sebastian Castro**](https://github.com/sea-bass). His contributions and insightful blog       post, [2020 Review: Service Robotics – MIT CSAIL](https://roboticseabass.com/2020/12/30/2020-review-service-robotics-mit-csail/),       provided invaluable inspiration and guidance for our team.
+  - We extend our gratitude for his dedication to advancing the field of robotics, which has greatly influenced our approach and the         development of this project.
 
  
     
