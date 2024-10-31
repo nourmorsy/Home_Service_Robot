@@ -38,15 +38,21 @@ The **Home Service Robot** is a groundbreaking project aimed at assisting the el
 
 ## Hardware Setup
 
+---
+<p align="left">
+  <img src="./robot.png" alt="Home Service Robot Hardware" width="150" align="right"/>
+</p>
+
+
+
 - **RGBD Camera**: Provides color (RGB) and depth information for object detection, and human-robot interaction.
-- **4DOF Arm**: A 4-degree-of-freedom robotic arm that allows for object manipulation and grasping tasks.
+- **4DOF Arm**: A 4-degree-of-freedom robotic arm that allows for object manipulation and grasping tasks.            
 - **RPLidar**: Used for precise environment mapping and obstacle avoidance, ensuring safe navigation.
 - **Mobile Base**: The mobile platform that enables movement across the environment.
-- **Onboard Computer**: Handles all processing tasks, running the robot's software stack, vision models, and navigation algorithms.
-
-![Hardware Setup](./robot.png)
+- **Onboard Computer**: Handles all processing tasks, running the robot's software stack, vision models, and navigation algorithms.  
 
 ---
+
 ## Directory Structure
 ```
 Home_Service_robot/
