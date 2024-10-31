@@ -163,7 +163,7 @@ conda env create -f dope.yml # This environment specifically handles the DOPE (D
    - Use this node for visual question answering with the vision-language model:
      ```bash
      conda activate Home_Service_robot
-     rosrun vqa vqa_unit_test_ros.py
+     rosrun vqa vqa_ros.py
      ```
 7. **Manipulation Setup:**
    - Set up the robotic arm and camera for manipulation tasks:
