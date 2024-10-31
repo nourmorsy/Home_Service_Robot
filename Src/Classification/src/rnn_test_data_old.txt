@@ -1,0 +1,501 @@
+Sentence,Action,Room,Object
+place a thing from the my room,store,bedroom,unknown
+fetch me the orange around the canteen,get,kitchen,orange
+move near the soda close to the my room,go,bedroom,soda
+drive by the soda inside the my room,go,bedroom,soda
+clean up a crackers,store,unknown,crackers
+bring some object close to the kitchen,get,kitchen,unknown
+head near the banana from the bedroom,go,bedroom,banana
+move by the banana in the kitchen,go,kitchen,banana
+grab a soda,get,unknown,soda
+identify a crackers,find,unknown,crackers
+throw away a water by the bedroom,store,bedroom,water
+bring me the crackers near the bath,get,bathroom,crackers
+bring a cookies near the bath,get,bathroom,cookies
+locate a water from the my room,find,bedroom,water
+clean a beverage near the canteen,store,kitchen,beverage
+grab me an item around the parlor,get,living room,unknown
+move over to the water near the bath,go,bathroom,water
+head to the crackers near the pantry,go,kitchen,crackers
+place a chips from the bedroom,store,bedroom,chips
+clear the banana inside the kitchen,store,kitchen,banana
+proceed by the soda inside the parlor,go,living room,soda
+get the banana,get,unknown,banana
+search for an orange from the canteen,find,kitchen,orange
+fetch the water by the bathroom,get,bathroom,water
+retrieve some soda close to the bath,get,bathroom,soda
+drive towards the chips,go,unknown,chips
+search for a beverage from the bath,find,bathroom,beverage
+tidy up the banana close to the my room,store,bedroom,banana
+take the water,store,unknown,water
+throw away an apple near the bathroom,store,bathroom,apple
+clean up a soda inside the pantry,store,kitchen,soda
+bring some beverage inside the canteen,get,kitchen,beverage
+find me the apple from the bathroom,find,bathroom,apple
+locate a chips by the my room,find,bedroom,chips
+throw away an apple,store,unknown,apple
+find me a beverage,find,unknown,beverage
+look for the object in the bedroom,find,bedroom,unknown
+find me some crackers near the canteen,find,kitchen,crackers
+head over by the kitchen,go,kitchen,unknown
+throw out a cookies around the parlor,store,living room,cookies
+take the beverage by the sitting room,store,living room,beverage
+put away the banana around the living room,store,living room,banana
+navigate to the banana near the bedroom,go,bedroom,banana
+move near the water,go,unknown,water
+search for a water near the canteen,find,kitchen,water
+throw out a beverage near the my room,store,bedroom,beverage
+identify a banana from the parlor,find,living room,banana
+pick up some banana from the sitting room,get,living room,banana
+fetch the orange near the living room,get,living room,orange
+navigate over to the cookies,go,unknown,cookies
+get me some thing around the my room,get,bedroom,unknown
+clean the apple around the kitchen,store,kitchen,apple
+head over to the chips from the parlor,go,living room,chips
+tidy up the apple inside the sitting room,store,living room,apple
+retrieve a chips,get,unknown,chips
+look for the cookies close to the pantry,find,kitchen,cookies
+find me some crackers inside the pantry,find,kitchen,crackers
+locate the chips close to the living room,find,living room,chips
+look for an apple,find,unknown,apple
+identify the soda by the bedroom,find,bedroom,soda
+clear away a soda from the bath,store,bathroom,soda
+throw away the chips around the my room,store,bedroom,chips
+navigate towards the orange in the kitchen,go,kitchen,orange
+drive by the bedroom,go,bedroom,unknown
+clear away an item around the bathroom,store,bathroom,unknown
+grab me the beverage near the bedroom,get,bedroom,beverage
+drive toward the crackers inside the sitting room,go,living room,crackers
+get me some orange around the parlor,get,living room,orange
+find me a crackers around the canteen,find,kitchen,crackers
+take the crackers close to the kitchen,store,kitchen,crackers
+find an apple by the living room,find,living room,apple
+proceed near the orange near the my room,go,bedroom,orange
+put away the banana from the living room,store,living room,banana
+retrieve some crackers in the sitting room,get,living room,crackers
+look for the banana around the sitting room,find,living room,banana
+put away an orange,store,unknown,orange
+take the cookies,store,unknown,cookies
+tidy up the object from the my room,store,bedroom,unknown
+head by the bathroom,go,bathroom,unknown
+take the item inside the pantry,store,kitchen,unknown
+go by the crackers,go,unknown,crackers
+search for a beverage near the parlor,find,living room,beverage
+tidy the chips in the pantry,store,kitchen,chips
+clear the orange inside the bathroom,store,bathroom,orange
+look for the soda by the living room,find,living room,soda
+grab me an object by the kitchen,get,kitchen,unknown
+navigate over to the cookies,go,unknown,cookies
+identify some water inside the bath,find,bathroom,water
+find the orange,find,unknown,orange
+find me some beverage around the canteen,find,kitchen,beverage
+locate a banana near the sitting room,find,living room,banana
+locate some chips from the parlor,find,living room,chips
+get me a water from the bath,get,bathroom,water
+move over to the soda around the bath,go,bathroom,soda
+put back the chips from the my room,store,bedroom,chips
+search for an orange,find,unknown,orange
+search for some crackers around the bedroom,find,bedroom,crackers
+bring me the banana,get,unknown,banana
+find me some soda close to the my room,find,bedroom,soda
+head near the crackers by the bedroom,go,bedroom,crackers
+bring me some apple around the living room,get,living room,apple
+find me the crackers near the parlor,find,living room,crackers
+move to the living room,go,living room,unknown
+throw out a beverage from the canteen,store,kitchen,beverage
+place a banana in the sitting room,store,living room,banana
+fetch me some soda by the pantry,get,kitchen,soda
+clear the banana near the pantry,store,kitchen,banana
+grab some apple inside the parlor,get,living room,apple
+look for some thing near the bedroom,find,bedroom,unknown
+proceed over to the crackers from the parlor,go,living room,crackers
+clean up a crackers,store,unknown,crackers
+drive toward the soda close to the sitting room,go,living room,soda
+bring me an object from the sitting room,get,living room,unknown
+get the water from the kitchen,get,kitchen,water
+search for the crackers around the sitting room,find,living room,crackers
+fetch me some beverage,get,unknown,beverage
+search for a thing by the bedroom,find,bedroom,unknown
+navigate near the cookies by the living room,go,living room,cookies
+find me an orange from the bath,find,bathroom,orange
+head near the apple close to the canteen,go,kitchen,apple
+take the water inside the pantry,store,kitchen,water
+locate some cookies,find,unknown,cookies
+put away the cookies inside the bathroom,store,bathroom,cookies
+fetch some orange from the kitchen,get,kitchen,orange
+find some orange by the pantry,find,kitchen,orange
+grab the water around the kitchen,get,kitchen,water
+throw away the cookies,store,unknown,cookies
+clear the thing by the bedroom,store,bedroom,unknown
+pick up a thing close to the bath,get,bathroom,unknown
+look for the chips inside the my room,find,bedroom,chips
+fetch me the item close to the parlor,get,living room,unknown
+grab me an orange from the bathroom,get,bathroom,orange
+find me a beverage,find,unknown,beverage
+navigate towards the pantry,go,kitchen,unknown
+put back an item close to the living room,store,living room,unknown
+drive toward the apple inside the living room,go,living room,apple
+drive towards the chips close to the sitting room,go,living room,chips
+tidy up a thing by the pantry,store,kitchen,unknown
+find a soda,find,unknown,soda
+fetch the chips close to the bedroom,get,bedroom,chips
+find me an orange in the bedroom,find,bedroom,orange
+locate some water in the bath,find,bathroom,water
+pick up the apple around the my room,get,bedroom,apple
+locate the beverage close to the kitchen,find,kitchen,beverage
+bring a soda from the bathroom,get,bathroom,soda
+fetch me some beverage from the kitchen,get,kitchen,beverage
+move near the cookies around the parlor,go,living room,cookies
+tidy the beverage by the bedroom,store,bedroom,beverage
+get some banana near the canteen,get,kitchen,banana
+store the thing by the living room,store,living room,unknown
+get an item inside the bath,get,bathroom,unknown
+clear an item around the living room,store,living room,unknown
+drive over to the chips around the living room,go,living room,chips
+navigate to the orange around the bath,go,bathroom,orange
+put away the cookies inside the kitchen,store,kitchen,cookies
+fetch a water around the bath,get,bathroom,water
+drive over to the chips from the living room,go,living room,chips
+drive to the cookies close to the bath,go,bathroom,cookies
+fetch me some thing inside the sitting room,get,living room,unknown
+drive near the banana,go,unknown,banana
+navigate by the beverage around the living room,go,living room,beverage
+search for a banana from the canteen,find,kitchen,banana
+find the beverage,find,unknown,beverage
+drive by the chips close to the bathroom,go,bathroom,chips
+find me an orange near the kitchen,find,kitchen,orange
+grab me an object close to the bedroom,get,bedroom,unknown
+locate the orange inside the kitchen,find,kitchen,orange
+search for the orange by the bathroom,find,bathroom,orange
+fetch some cookies near the my room,get,bedroom,cookies
+throw away the thing in the kitchen,store,kitchen,unknown
+identify some chips around the kitchen,find,kitchen,chips
+store a chips inside the pantry,store,kitchen,chips
+proceed near the orange,go,unknown,orange
+search for the item in the pantry,find,kitchen,unknown
+get the apple around the living room,get,living room,apple
+locate the soda from the living room,find,living room,soda
+drive toward the banana in the bath,go,bathroom,banana
+drive by the pantry,go,kitchen,unknown
+proceed near the soda from the canteen,go,kitchen,soda
+fetch me a crackers,get,unknown,crackers
+clean up a crackers close to the kitchen,store,kitchen,crackers
+clear away the orange inside the pantry,store,kitchen,orange
+bring some banana,get,unknown,banana
+look for the cookies around the bathroom,find,bathroom,cookies
+search for a soda close to the bedroom,find,bedroom,soda
+retrieve some thing inside the parlor,get,living room,unknown
+identify some object near the my room,find,bedroom,unknown
+bring the crackers near the canteen,get,kitchen,crackers
+clean the soda,store,unknown,soda
+go over by the chips inside the canteen,go,kitchen,chips
+locate some water from the pantry,find,kitchen,water
+head to the cookies by the pantry,go,kitchen,cookies
+identify a banana close to the bathroom,find,bathroom,banana
+look for an item around the bathroom,find,bathroom,unknown
+fetch an orange inside the living room,get,living room,orange
+clear away a chips from the my room,store,bedroom,chips
+clean a crackers near the bath,store,bathroom,crackers
+grab some banana inside the living room,get,living room,banana
+find me an item by the pantry,find,kitchen,unknown
+put away the item near the sitting room,store,living room,unknown
+put away a cookies near the bath,store,bathroom,cookies
+go over by the water close to the bath,go,bathroom,water
+tidy up the item inside the bedroom,store,bedroom,unknown
+clear away a banana from the my room,store,bedroom,banana
+retrieve the cookies by the bath,get,bathroom,cookies
+grab me some apple,get,unknown,apple
+find a chips,find,unknown,chips
+navigate near the beverage,go,unknown,beverage
+drive by the chips in the pantry,go,kitchen,chips
+get me a beverage inside the sitting room,get,living room,beverage
+go by the banana inside the bedroom,go,bedroom,banana
+clear away the cookies near the kitchen,store,kitchen,cookies
+pick up the object around the my room,get,bedroom,unknown
+look for the soda in the pantry,find,kitchen,soda
+proceed towards the beverage near the canteen,go,kitchen,beverage
+drive by the parlor,go,living room,unknown
+identify the object around the kitchen,find,kitchen,unknown
+find the thing by the bedroom,find,bedroom,unknown
+throw out an orange in the canteen,store,kitchen,orange
+clean up a crackers close to the canteen,store,kitchen,crackers
+grab me some orange around the pantry,get,kitchen,orange
+bring the thing by the sitting room,get,living room,unknown
+clean an orange,store,unknown,orange
+find me a chips close to the bedroom,find,bedroom,chips
+head over to the soda in the parlor,go,living room,soda
+find the crackers around the bedroom,find,bedroom,crackers
+throw away the orange from the pantry,store,kitchen,orange
+grab an apple near the bathroom,get,bathroom,apple
+fetch some cookies near the sitting room,get,living room,cookies
+proceed over by the apple,go,unknown,apple
+fetch the cookies in the pantry,get,kitchen,cookies
+tidy up a chips inside the bedroom,store,bedroom,chips
+throw away the object around the living room,store,living room,unknown
+drive towards the beverage around the pantry,go,kitchen,beverage
+clear away the orange near the living room,store,living room,orange
+go near the apple around the canteen,go,kitchen,apple
+fetch some object around the living room,get,living room,unknown
+grab me some item in the kitchen,get,kitchen,unknown
+find the cookies from the my room,find,bedroom,cookies
+store the object close to the sitting room,store,living room,unknown
+proceed towards the soda close to the bedroom,go,bedroom,soda
+search for the cookies from the my room,find,bedroom,cookies
+locate some water around the kitchen,find,kitchen,water
+clear an object inside the bedroom,store,bedroom,unknown
+fetch the object near the bathroom,get,bathroom,unknown
+move to the apple around the bath,go,bathroom,apple
+look for a crackers by the bath,find,bathroom,crackers
+clean the apple near the canteen,store,kitchen,apple
+look for some thing around the bedroom,find,bedroom,unknown
+head toward the orange close to the kitchen,go,kitchen,orange
+find me the object from the bedroom,find,bedroom,unknown
+find me an orange by the canteen,find,kitchen,orange
+tidy up the beverage around the living room,store,living room,beverage
+find me some thing from the living room,find,living room,unknown
+locate a banana close to the pantry,find,kitchen,banana
+locate some apple by the my room,find,bedroom,apple
+go over to the soda,go,unknown,soda
+look for the thing close to the kitchen,find,kitchen,unknown
+put away the water close to the bath,store,bathroom,water
+place the thing in the bath,store,bathroom,unknown
+locate the item around the bedroom,find,bedroom,unknown
+go over by the water near the kitchen,go,kitchen,water
+grab a crackers,get,unknown,crackers
+head toward the bathroom,go,bathroom,unknown
+identify the item around the bathroom,find,bathroom,unknown
+grab a water close to the bathroom,get,bathroom,water
+move over by the chips in the kitchen,go,kitchen,chips
+move near the apple by the bedroom,go,bedroom,apple
+navigate over by the kitchen,go,kitchen,unknown
+fetch me some crackers,get,unknown,crackers
+locate some water from the bedroom,find,bedroom,water
+head over by the sitting room,go,living room,unknown
+throw away the soda from the bedroom,store,bedroom,soda
+go toward the bedroom,go,bedroom,unknown
+get me some apple,get,unknown,apple
+locate the chips around the canteen,find,kitchen,chips
+head towards the bedroom,go,bedroom,unknown
+move over to the orange close to the parlor,go,living room,orange
+pick up some beverage from the kitchen,get,kitchen,beverage
+head over by the soda from the bathroom,go,bathroom,soda
+head over to the water in the pantry,go,kitchen,water
+pick up a thing from the living room,get,living room,unknown
+pick up some water inside the parlor,get,living room,water
+move by the beverage around the bath,go,bathroom,beverage
+tidy the orange close to the living room,store,living room,orange
+head toward the water by the kitchen,go,kitchen,water
+locate the cookies in the bath,find,bathroom,cookies
+throw away a chips around the my room,store,bedroom,chips
+bring me a beverage close to the bathroom,get,bathroom,beverage
+retrieve some water,get,unknown,water
+bring the orange by the bath,get,bathroom,orange
+go towards the canteen,go,kitchen,unknown
+drive to the crackers close to the canteen,go,kitchen,crackers
+retrieve the item by the bath,get,bathroom,unknown
+get me some water,get,unknown,water
+search for the orange in the kitchen,find,kitchen,orange
+head by the kitchen,go,kitchen,unknown
+drive to the bedroom,go,bedroom,unknown
+drive over by the orange in the bathroom,go,bathroom,orange
+store the apple,store,unknown,apple
+grab me some soda from the kitchen,get,kitchen,soda
+fetch me the cookies near the sitting room,get,living room,cookies
+bring some orange,get,unknown,orange
+proceed near the beverage from the bathroom,go,bathroom,beverage
+grab the banana near the pantry,get,kitchen,banana
+fetch some beverage inside the bathroom,get,bathroom,beverage
+retrieve a chips inside the sitting room,get,living room,chips
+look for some water,find,unknown,water
+proceed to the orange in the canteen,go,kitchen,orange
+clear the soda in the bathroom,store,bathroom,soda
+retrieve the soda by the living room,get,living room,soda
+locate the banana,find,unknown,banana
+find some beverage from the bedroom,find,bedroom,beverage
+fetch me a thing around the pantry,get,kitchen,unknown
+identify the water from the my room,find,bedroom,water
+move towards the crackers,go,unknown,crackers
+store the beverage close to the bathroom,store,bathroom,beverage
+proceed to the crackers by the kitchen,go,kitchen,crackers
+place a banana in the my room,store,bedroom,banana
+find me some soda inside the living room,find,living room,soda
+identify a chips in the bathroom,find,bathroom,chips
+fetch me the banana near the bathroom,get,bathroom,banana
+go by the orange by the living room,go,living room,orange
+store an object by the pantry,store,kitchen,unknown
+look for the apple,find,unknown,apple
+locate some water,find,unknown,water
+go toward the cookies,go,unknown,cookies
+put back the crackers inside the kitchen,store,kitchen,crackers
+clean the banana by the kitchen,store,kitchen,banana
+get me some cookies by the bathroom,get,bathroom,cookies
+move over to the bedroom,go,bedroom,unknown
+look for the orange around the canteen,find,kitchen,orange
+look for a chips,find,unknown,chips
+throw away the orange from the my room,store,bedroom,orange
+bring me a chips around the bedroom,get,bedroom,chips
+fetch some orange near the pantry,get,kitchen,orange
+go by the apple close to the canteen,go,kitchen,apple
+grab me a cookies inside the bath,get,bathroom,cookies
+place the crackers close to the living room,store,living room,crackers
+find a banana close to the canteen,find,kitchen,banana
+find some soda near the canteen,find,kitchen,soda
+drive toward the water close to the canteen,go,kitchen,water
+find me some chips from the bathroom,find,bathroom,chips
+clean a beverage,store,unknown,beverage
+identify a chips from the bathroom,find,bathroom,chips
+proceed towards the parlor,go,living room,unknown
+head toward the crackers around the bedroom,go,bedroom,crackers
+get me a beverage,get,unknown,beverage
+bring the chips inside the bathroom,get,bathroom,chips
+store a banana,store,unknown,banana
+store the orange around the kitchen,store,kitchen,orange
+head toward the water inside the parlor,go,living room,water
+fetch me a soda,get,unknown,soda
+clean up the water close to the pantry,store,kitchen,water
+place the cookies from the pantry,store,kitchen,cookies
+throw away the orange,store,unknown,orange
+pick up a cookies around the canteen,get,kitchen,cookies
+find the apple from the my room,find,bedroom,apple
+bring some water by the pantry,get,kitchen,water
+take a cookies,store,unknown,cookies
+drive to the apple,go,unknown,apple
+put away an item near the bath,store,bathroom,unknown
+clean the chips,store,unknown,chips
+fetch some banana in the canteen,get,kitchen,banana
+locate an apple by the bath,find,bathroom,apple
+tidy up the water,store,unknown,water
+place the banana by the bathroom,store,bathroom,banana
+proceed toward the apple inside the sitting room,go,living room,apple
+proceed over by the apple in the living room,go,living room,apple
+get an apple,get,unknown,apple
+throw out a thing in the sitting room,store,living room,unknown
+find some soda close to the bathroom,find,bathroom,soda
+move toward the orange around the living room,go,living room,orange
+go toward the crackers from the parlor,go,living room,crackers
+find a soda from the bath,find,bathroom,soda
+bring a banana from the sitting room,get,living room,banana
+find the soda close to the bath,find,bathroom,soda
+drive towards the my room,go,bedroom,unknown
+navigate over to the sitting room,go,living room,unknown
+pick up some cookies by the parlor,get,living room,cookies
+bring me the beverage in the bathroom,get,bathroom,beverage
+find me an apple from the bathroom,find,bathroom,apple
+pick up some thing from the pantry,get,kitchen,unknown
+put away a thing from the bedroom,store,bedroom,unknown
+grab me a water,get,unknown,water
+bring me a chips,get,unknown,chips
+find me some object close to the canteen,find,kitchen,unknown
+navigate toward the banana inside the canteen,go,kitchen,banana
+look for some apple by the bathroom,find,bathroom,apple
+place a water from the sitting room,store,living room,water
+clean up the water,store,unknown,water
+clean up the cookies,store,unknown,cookies
+throw out a thing by the pantry,store,kitchen,unknown
+grab the apple inside the canteen,get,kitchen,apple
+move to the water,go,unknown,water
+look for the soda around the canteen,find,kitchen,soda
+head near the cookies around the sitting room,go,living room,cookies
+drive over to the bedroom,go,bedroom,unknown
+navigate to the apple by the bedroom,go,bedroom,apple
+bring me some crackers by the parlor,get,living room,crackers
+grab some apple,get,unknown,apple
+throw away the beverage by the bedroom,store,bedroom,beverage
+find some cookies by the my room,find,bedroom,cookies
+go toward the bedroom,go,bedroom,unknown
+head towards the cookies inside the pantry,go,kitchen,cookies
+find me some thing from the kitchen,find,kitchen,unknown
+put back the soda around the bathroom,store,bathroom,soda
+bring me some cookies close to the bath,get,bathroom,cookies
+grab some cookies inside the living room,get,living room,cookies
+move toward the crackers inside the bath,go,bathroom,crackers
+store a banana,store,unknown,banana
+drive over to the crackers,go,unknown,crackers
+go over to the beverage in the canteen,go,kitchen,beverage
+head over to the beverage by the pantry,go,kitchen,beverage
+pick up an apple from the my room,get,bedroom,apple
+clear away an apple around the bath,store,bathroom,apple
+navigate near the cookies around the kitchen,go,kitchen,cookies
+fetch me an item close to the bathroom,get,bathroom,unknown
+bring an object from the living room,get,living room,unknown
+throw out the apple by the bedroom,store,bedroom,apple
+head over to the water from the bathroom,go,bathroom,water
+get me the water,get,unknown,water
+clean a chips close to the pantry,store,kitchen,chips
+grab some orange,get,unknown,orange
+bring me some beverage,get,unknown,beverage
+bring the crackers by the bath,get,bathroom,crackers
+bring me the thing from the bedroom,get,bedroom,unknown
+move over to the beverage from the bath,go,bathroom,beverage
+go toward the my room,go,bedroom,unknown
+search for the apple,find,unknown,apple
+proceed over to the cookies close to the bathroom,go,bathroom,cookies
+put away an orange around the pantry,store,kitchen,orange
+locate some water around the bathroom,find,bathroom,water
+grab the apple in the parlor,get,living room,apple
+head to the crackers near the parlor,go,living room,crackers
+tidy up an item near the sitting room,store,living room,unknown
+bring me a thing inside the my room,get,bedroom,unknown
+proceed over by the soda inside the bath,go,bathroom,soda
+find some soda around the pantry,find,kitchen,soda
+throw away a cookies by the bathroom,store,bathroom,cookies
+find some crackers by the sitting room,find,living room,crackers
+go over by the water in the sitting room,go,living room,water
+navigate towards the canteen,go,kitchen,unknown
+bring me a banana by the bedroom,get,bedroom,banana
+search for an item inside the my room,find,bedroom,unknown
+find me some orange inside the parlor,find,living room,orange
+get me the item by the bath,get,bathroom,unknown
+put away a water inside the parlor,store,living room,water
+look for some banana by the living room,find,living room,banana
+drive toward the chips around the my room,go,bedroom,chips
+pick up a water from the bath,get,bathroom,water
+clear away a water around the bathroom,store,bathroom,water
+clean up a banana around the my room,store,bedroom,banana
+grab some soda in the canteen,get,kitchen,soda
+get some banana,get,unknown,banana
+locate the water from the bath,find,bathroom,water
+look for some object near the pantry,find,kitchen,unknown
+navigate by the water in the kitchen,go,kitchen,water
+navigate near the chips around the living room,go,living room,chips
+find some soda around the pantry,find,kitchen,soda
+go over to the chips in the bath,go,bathroom,chips
+get me the orange by the sitting room,get,living room,orange
+fetch a soda from the kitchen,get,kitchen,soda
+grab a banana by the bathroom,get,bathroom,banana
+get me some apple in the bathroom,get,bathroom,apple
+clean up a water from the parlor,store,living room,water
+place the banana,store,unknown,banana
+clean the orange in the bedroom,store,bedroom,orange
+fetch me the item near the bathroom,get,bathroom,unknown
+drive over to the beverage from the my room,go,bedroom,beverage
+look for some object close to the living room,find,living room,unknown
+clean up a cookies by the canteen,store,kitchen,cookies
+pick up the item by the bath,get,bathroom,unknown
+head towards the chips from the pantry,go,kitchen,chips
+locate the apple in the bath,find,bathroom,apple
+tidy up the chips in the my room,store,bedroom,chips
+move by the canteen,go,kitchen,unknown
+get me an apple inside the my room,get,bedroom,apple
+clean the soda,store,unknown,soda
+find the object by the canteen,find,kitchen,unknown
+drive over by the apple around the bath,go,bathroom,apple
+clean up a beverage from the bath,store,bathroom,beverage
+go over to the my room,go,bedroom,unknown
+head over to the crackers near the my room,go,bedroom,crackers
+get me the thing by the bath,get,bathroom,unknown
+tidy up the beverage near the sitting room,store,living room,beverage
+proceed toward the bedroom,go,bedroom,unknown
+fetch me some cookies near the parlor,get,living room,cookies
+clear a soda close to the pantry,store,kitchen,soda
+move over by the bath,go,bathroom,unknown
+throw away the soda around the bath,store,bathroom,soda
+get me the soda around the parlor,get,living room,soda
+head near the water from the my room,go,bedroom,water
+clear a beverage,store,unknown,beverage
+go by the water close to the bathroom,go,bathroom,water
+head toward the beverage in the bedroom,go,bedroom,beverage
+move to the soda in the bathroom,go,bathroom,soda
+retrieve some chips,get,unknown,chips
+identify a chips from the my room,find,bedroom,chips
+put back the water from the parlor,store,living room,water

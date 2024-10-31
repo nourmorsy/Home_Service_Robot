@@ -1,0 +1,3001 @@
+Sentence,Action,Room,Object
+what is you tell item around the kitchen,question,kitchen,unknown
+place the object in the sitting room,place,living room,unknown
+head by the cookies inside the bath,go,bathroom,cookies
+how are the cookies,question,unknown,cookies
+report what you see corn,describe,unknown,corn
+question you do beverage around the bath,question,bathroom,beverage
+find me the water near the pantry,get,kitchen,water
+proceed towards the peas close to the my room,go,bedroom,peas
+express in details thing by the my room,describe,bedroom,unknown
+tell what's there chips close to the bath,describe,bathroom,chips
+question you do apple in the parlor,question,living room,apple
+present every detail cookies around the bathroom,describe,bathroom,cookies
+go near the banana inside the living room,go,living room,banana
+clear a soda inside the bedroom,place,bedroom,soda
+put away an orange by the canteen,place,kitchen,orange
+look for some crackers around the kitchen,get,kitchen,crackers
+would you tell crackers near the parlor,question,living room,crackers
+navigate over to the tuna close to the pantry,go,kitchen,tuna
+proceed over by the orange in the living room,go,living room,orange
+find the beverage in the bath,get,bathroom,beverage
+retrieve a crackers,get,unknown,crackers
+could you do item around the bath,question,bathroom,unknown
+proceed by the peas inside the bath,go,bathroom,peas
+question are the orange around the canteen,question,kitchen,orange
+specify what you see beverage around the pantry,describe,kitchen,beverage
+clear away the apple,place,unknown,apple
+store an orange near the my room,place,bedroom,orange
+get a soda,get,unknown,soda
+question you do apple near the bath,question,bathroom,apple
+question is the tomato,question,unknown,tomato
+express what you see carrots by the sitting room,describe,living room,carrots
+clean up the beverage close to the sitting room,place,living room,beverage
+where you tell object by the kitchen,question,kitchen,unknown
+where are the soda near the canteen,question,kitchen,soda
+grab me a chips by the bathroom,get,bathroom,chips
+how you do tomato in the sitting room,question,living room,tomato
+find the thing from the bathroom,get,bathroom,unknown
+what are is the banana,question,unknown,banana
+report what you see water from the sitting room,describe,living room,water
+drive over by the soda inside the bath,go,bathroom,soda
+tell every detail item inside the my room,describe,bedroom,unknown
+explain what's there vegetables,describe,unknown,vegetables
+drive by the sitting room,go,living room,unknown
+grab the beverage,get,unknown,beverage
+explain in details crackers around the sitting room,describe,living room,crackers
+put back the carrots inside the kitchen,place,kitchen,carrots
+throw away the beverage inside the my room,place,bedroom,beverage
+get me the soda near the parlor,get,living room,soda
+store a tuna inside the canteen,place,kitchen,tuna
+could is the beverage inside the bedroom,question,bedroom,beverage
+tell what you see object inside the my room,describe,bedroom,unknown
+grab a beverage around the parlor,get,living room,beverage
+navigate over by the bathroom,go,bathroom,unknown
+get me the tuna around the bath,get,bathroom,tuna
+throw out the chips in the bedroom,place,bedroom,chips
+tell every detail beverage,describe,unknown,beverage
+clear the chips from the bedroom,place,bedroom,chips
+proceed towards the peas from the my room,go,bedroom,peas
+move over to the bedroom,go,bedroom,unknown
+explain what you see thing from the bedroom,describe,bedroom,unknown
+clear away a chips,place,unknown,chips
+question is the item in the parlor,question,living room,unknown
+proceed towards the chips near the bathroom,go,bathroom,chips
+how are the item around the living room,question,living room,unknown
+would you do chips,question,unknown,chips
+clear the orange from the living room,place,living room,orange
+clean the peas in the bathroom,place,bathroom,peas
+throw out a water,place,unknown,water
+describe everything you see peas by the sitting room,describe,living room,peas
+identify the crackers inside the my room,get,bedroom,crackers
+question are the water inside the my room,question,bedroom,water
+how you do beverage in the bathroom,question,bathroom,beverage
+clean up a soda inside the bath,place,bathroom,soda
+what is are the apple inside the bath,question,bathroom,apple
+where you do tomato around the bath,question,bathroom,tomato
+clear away a beverage from the bathroom,place,bathroom,beverage
+throw out the object close to the bathroom,place,bathroom,unknown
+proceed over to the apple inside the bathroom,go,bathroom,apple
+bring the crackers close to the bath,get,bathroom,crackers
+go by the crackers by the canteen,go,kitchen,crackers
+could is the peas near the bedroom,question,bedroom,peas
+go over by the apple around the pantry,go,kitchen,apple
+retrieve the chips by the pantry,get,kitchen,chips
+tidy up a soda around the bedroom,place,bedroom,soda
+how are the beverage from the my room,question,bedroom,beverage
+clear the banana,place,unknown,banana
+explain every detail object in the my room,describe,bedroom,unknown
+drive over to the orange in the my room,go,bedroom,orange
+express every detail thing from the kitchen,describe,kitchen,unknown
+proceed to the water near the my room,go,bedroom,water
+store an apple by the my room,place,bedroom,apple
+what are you tell tomato by the living room,question,living room,tomato
+retrieve some chips close to the bathroom,get,bathroom,chips
+navigate over to the chips inside the pantry,go,kitchen,chips
+put back the object near the living room,place,living room,unknown
+navigate by the apple by the living room,go,living room,apple
+where you tell tuna,question,unknown,tuna
+get me the water by the bedroom,get,bedroom,water
+move towards the beverage,go,unknown,beverage
+bring the thing inside the canteen,get,kitchen,unknown
+what is are the apple in the bathroom,question,bathroom,apple
+could is the chips by the canteen,question,kitchen,chips
+go to the banana from the bedroom,go,bedroom,banana
+drive by the carrots by the sitting room,go,living room,carrots
+find me some object in the my room,get,bedroom,unknown
+search for an orange by the living room,get,living room,orange
+tell what's there peas from the bath,describe,bathroom,peas
+explain in details orange around the sitting room,describe,living room,orange
+clear an apple in the bathroom,place,bathroom,apple
+how you do object inside the canteen,question,kitchen,unknown
+specify every detail cookies,describe,unknown,cookies
+move over by the soda around the bath,go,bathroom,soda
+clean up a banana in the kitchen,place,kitchen,banana
+question you do soda,question,unknown,soda
+express every detail orange,describe,unknown,orange
+head toward the chips in the sitting room,go,living room,chips
+proceed near the vegetables inside the sitting room,go,living room,vegetables
+find some object by the bath,get,bathroom,unknown
+put away a beverage by the bath,place,bathroom,beverage
+fetch me some item close to the canteen,get,kitchen,unknown
+express everything you see orange near the bathroom,describe,bathroom,orange
+could are the soda inside the pantry,question,kitchen,soda
+head by the bath,go,bathroom,unknown
+tell every detail orange inside the my room,describe,bedroom,orange
+what is you do carrots by the sitting room,question,living room,carrots
+place the tuna inside the bedroom,place,bedroom,tuna
+throw away the cookies,place,unknown,cookies
+take the peas inside the my room,place,bedroom,peas
+proceed near the peas inside the kitchen,go,kitchen,peas
+proceed by the crackers near the bathroom,go,bathroom,crackers
+navigate toward the chips inside the kitchen,go,kitchen,chips
+store a soda from the canteen,place,kitchen,soda
+locate the vegetables by the pantry,get,kitchen,vegetables
+bring me some banana close to the sitting room,get,living room,banana
+question you tell water,question,unknown,water
+tell in details chips near the living room,describe,living room,chips
+fetch me some corn near the bathroom,get,bathroom,corn
+bring the apple inside the kitchen,get,kitchen,apple
+find the crackers,get,unknown,crackers
+would you tell thing in the bath,question,bathroom,unknown
+store a vegetables in the pantry,place,kitchen,vegetables
+move to the water inside the canteen,go,kitchen,water
+drive toward the tomato from the pantry,go,kitchen,tomato
+head towards the cookies,go,unknown,cookies
+throw out a cookies around the living room,place,living room,cookies
+retrieve a water close to the my room,get,bedroom,water
+would is the corn by the bath,question,bathroom,corn
+navigate over to the orange by the sitting room,go,living room,orange
+what is are the apple from the parlor,question,living room,apple
+grab me some orange,get,unknown,orange
+take a vegetables,place,unknown,vegetables
+what are is the banana by the parlor,question,living room,banana
+clear away the cookies around the living room,place,living room,cookies
+grab some orange near the bedroom,get,bedroom,orange
+throw out the banana,place,unknown,banana
+what is you do banana from the kitchen,question,kitchen,banana
+would are the item around the parlor,question,living room,unknown
+store the beverage,place,unknown,beverage
+drive to the crackers,go,unknown,crackers
+how is the tomato,question,unknown,tomato
+head towards the bath,go,bathroom,unknown
+what are are the corn,question,unknown,corn
+clear away a soda close to the canteen,place,kitchen,soda
+go toward the water from the my room,go,bedroom,water
+get me a carrots by the bathroom,get,bathroom,carrots
+proceed over to the beverage in the sitting room,go,living room,beverage
+describe every detail banana,describe,unknown,banana
+find me the item inside the living room,get,living room,unknown
+drive over to the carrots near the kitchen,go,kitchen,carrots
+find the banana close to the sitting room,get,living room,banana
+proceed near the soda near the bedroom,go,bedroom,soda
+question are the cookies close to the living room,question,living room,cookies
+locate some banana,get,unknown,banana
+throw out the beverage in the bathroom,place,bathroom,beverage
+search for a cookies by the my room,get,bedroom,cookies
+present everything you see tomato in the pantry,describe,kitchen,tomato
+get me the crackers by the canteen,get,kitchen,crackers
+how you do beverage,question,unknown,beverage
+express what's there crackers,describe,unknown,crackers
+go towards the chips,go,unknown,chips
+grab me the soda,get,unknown,soda
+get me a cookies near the kitchen,get,kitchen,cookies
+what are are the cookies from the living room,question,living room,cookies
+clean up the crackers close to the living room,place,living room,crackers
+drive over by the cookies near the parlor,go,living room,cookies
+answer you tell orange from the canteen,question,kitchen,orange
+get some apple in the bath,get,bathroom,apple
+clean up the cookies close to the kitchen,place,kitchen,cookies
+how is the tuna near the kitchen,question,kitchen,tuna
+fetch me the object inside the bath,get,bathroom,unknown
+question you do orange by the canteen,question,kitchen,orange
+drive over by the crackers near the sitting room,go,living room,crackers
+look for the corn by the kitchen,get,kitchen,corn
+how is the beverage around the bedroom,question,bedroom,beverage
+look for some beverage,get,unknown,beverage
+where is the soda in the bedroom,question,bedroom,soda
+tidy an apple,place,unknown,apple
+bring some orange from the bath,get,bathroom,orange
+express in details soda around the bedroom,describe,bedroom,soda
+navigate toward the cookies by the sitting room,go,living room,cookies
+would are the apple inside the kitchen,question,kitchen,apple
+tidy up the beverage from the sitting room,place,living room,beverage
+navigate by the sitting room,go,living room,unknown
+navigate over to the soda inside the sitting room,go,living room,soda
+present in details soda close to the bathroom,describe,bathroom,soda
+clear away the object near the sitting room,place,living room,unknown
+what is is the tuna,question,unknown,tuna
+would is the apple by the bath,question,bathroom,apple
+express what's there thing from the bedroom,describe,bedroom,unknown
+what are is the beverage,question,unknown,beverage
+drive over by the tomato from the sitting room,go,living room,tomato
+throw out the soda,place,unknown,soda
+would are the cookies in the bath,question,bathroom,cookies
+get the apple near the bathroom,get,bathroom,apple
+what is is the beverage,question,unknown,beverage
+question is the apple near the canteen,question,kitchen,apple
+present what's there item by the living room,describe,living room,unknown
+could you tell water close to the living room,question,living room,water
+clean a corn from the bedroom,place,bedroom,corn
+how you do item by the pantry,question,kitchen,unknown
+take a vegetables from the sitting room,place,living room,vegetables
+express in details carrots by the bathroom,describe,bathroom,carrots
+go over by the corn in the bedroom,go,bedroom,corn
+specify what you see item by the my room,describe,bedroom,unknown
+fetch me a tomato near the my room,get,bedroom,tomato
+tidy a crackers,place,unknown,crackers
+retrieve an orange in the sitting room,get,living room,orange
+specify every detail chips,describe,unknown,chips
+question are the thing inside the bath,question,bathroom,unknown
+proceed near the soda around the parlor,go,living room,soda
+explain in details water close to the kitchen,describe,kitchen,water
+locate the beverage,get,unknown,beverage
+move towards the beverage close to the parlor,go,living room,beverage
+store the tuna by the sitting room,place,living room,tuna
+search for a thing from the my room,get,bedroom,unknown
+drive toward the chips by the my room,go,bedroom,chips
+grab some crackers inside the kitchen,get,kitchen,crackers
+specify what you see tuna,describe,unknown,tuna
+question you tell apple around the bath,question,bathroom,apple
+tidy the soda from the bathroom,place,bathroom,soda
+find me some apple around the my room,get,bedroom,apple
+throw away a beverage around the parlor,place,living room,beverage
+clear away an item inside the living room,place,living room,unknown
+pick up some cookies around the my room,get,bedroom,cookies
+answer you do banana around the canteen,question,kitchen,banana
+navigate by the chips near the living room,go,living room,chips
+clear a banana in the sitting room,place,living room,banana
+place an apple,place,unknown,apple
+search for some orange from the my room,get,bedroom,orange
+place the banana in the bathroom,place,bathroom,banana
+how you do peas by the bath,question,bathroom,peas
+specify in details item inside the parlor,describe,living room,unknown
+would is the beverage from the pantry,question,kitchen,beverage
+take a corn from the living room,place,living room,corn
+fetch me an item near the bedroom,get,bedroom,unknown
+grab me some chips near the sitting room,get,living room,chips
+clean up the chips around the bath,place,bathroom,chips
+move towards the chips around the pantry,go,kitchen,chips
+where you tell peas in the my room,question,bedroom,peas
+bring me a tuna in the canteen,get,kitchen,tuna
+tell every detail thing by the parlor,describe,living room,unknown
+bring me a cookies from the my room,get,bedroom,cookies
+describe what you see banana around the sitting room,describe,living room,banana
+identify the item inside the my room,get,bedroom,unknown
+what are you tell thing by the bathroom,question,bathroom,unknown
+find me a banana in the living room,get,living room,banana
+head near the chips from the bathroom,go,bathroom,chips
+report every detail crackers close to the kitchen,describe,kitchen,crackers
+fetch me a banana,get,unknown,banana
+specify what's there apple from the my room,describe,bedroom,apple
+clear a chips,place,unknown,chips
+search for a peas,get,unknown,peas
+drive toward the crackers,go,unknown,crackers
+look for a chips in the parlor,get,living room,chips
+tell what you see chips by the parlor,describe,living room,chips
+go towards the banana in the pantry,go,kitchen,banana
+navigate by the kitchen,go,kitchen,unknown
+get me an item from the bathroom,get,bathroom,unknown
+clear away an object near the canteen,place,kitchen,unknown
+look for the chips in the my room,get,bedroom,chips
+pick up the soda,get,unknown,soda
+drive near the chips,go,unknown,chips
+fetch me some beverage near the sitting room,get,living room,beverage
+go over by the orange close to the pantry,go,kitchen,orange
+locate a carrots by the sitting room,get,living room,carrots
+proceed by the bath,go,bathroom,unknown
+answer are the chips by the bedroom,question,bedroom,chips
+locate the cookies,get,unknown,cookies
+go to the tomato,go,unknown,tomato
+move to the water by the kitchen,go,kitchen,water
+navigate over to the orange around the parlor,go,living room,orange
+throw out the banana around the bath,place,bathroom,banana
+move over to the cookies by the bedroom,go,bedroom,cookies
+describe every detail chips inside the pantry,describe,kitchen,chips
+move near the tuna around the bedroom,go,bedroom,tuna
+retrieve a soda in the parlor,get,living room,soda
+throw away a carrots by the bathroom,place,bathroom,carrots
+how is the apple in the bedroom,question,bedroom,apple
+tidy an object inside the bathroom,place,bathroom,unknown
+find me the crackers near the canteen,get,kitchen,crackers
+clear away a cookies near the living room,place,living room,cookies
+present what you see banana by the canteen,describe,kitchen,banana
+specify every detail crackers in the bedroom,describe,bedroom,crackers
+throw away the chips,place,unknown,chips
+report what you see soda by the bedroom,describe,bedroom,soda
+clear the banana inside the kitchen,place,kitchen,banana
+could are the banana in the sitting room,question,living room,banana
+would are the object by the my room,question,bedroom,unknown
+drive towards the banana by the sitting room,go,living room,banana
+go near the beverage from the pantry,go,kitchen,beverage
+get a banana in the sitting room,get,living room,banana
+tidy up the vegetables around the bedroom,place,bedroom,vegetables
+find me some cookies from the parlor,get,living room,cookies
+clear a banana near the parlor,place,living room,banana
+head over by the tuna near the canteen,go,kitchen,tuna
+store the corn close to the my room,place,bedroom,corn
+could is the tomato by the bathroom,question,bathroom,tomato
+drive over by the tuna by the living room,go,living room,tuna
+navigate over by the soda,go,unknown,soda
+question is the object inside the bath,question,bathroom,unknown
+would are the carrots inside the canteen,question,kitchen,carrots
+store a cookies around the kitchen,place,kitchen,cookies
+go near the cookies around the bath,go,bathroom,cookies
+identify some beverage inside the parlor,get,living room,beverage
+proceed by the vegetables in the canteen,go,kitchen,vegetables
+express every detail orange from the bath,describe,bathroom,orange
+move over to the water,go,unknown,water
+retrieve some crackers around the pantry,get,kitchen,crackers
+put away the cookies in the sitting room,place,living room,cookies
+clean a beverage around the sitting room,place,living room,beverage
+tell every detail banana inside the canteen,describe,kitchen,banana
+get a carrots near the bathroom,get,bathroom,carrots
+locate some chips,get,unknown,chips
+throw out the thing close to the canteen,place,kitchen,unknown
+go towards the my room,go,bedroom,unknown
+bring me some peas inside the kitchen,get,kitchen,peas
+explain every detail banana,describe,unknown,banana
+clean the chips,place,unknown,chips
+get the tuna close to the bedroom,get,bedroom,tuna
+get me the vegetables around the bedroom,get,bedroom,vegetables
+describe in details apple from the parlor,describe,living room,apple
+place a water,place,unknown,water
+find me a vegetables around the sitting room,get,living room,vegetables
+head toward the corn near the sitting room,go,living room,corn
+drive towards the chips near the bedroom,go,bedroom,chips
+head over to the orange close to the canteen,go,kitchen,orange
+present every detail item inside the bath,describe,bathroom,unknown
+proceed to the carrots close to the canteen,go,kitchen,carrots
+fetch some beverage,get,unknown,beverage
+navigate toward the corn in the my room,go,bedroom,corn
+move over by the carrots around the parlor,go,living room,carrots
+go by the my room,go,bedroom,unknown
+place a beverage close to the bathroom,place,bathroom,beverage
+put away a water in the canteen,place,kitchen,water
+put back a tuna inside the living room,place,living room,tuna
+present what you see tomato around the my room,describe,bedroom,tomato
+what are is the vegetables,question,unknown,vegetables
+question you tell crackers,question,unknown,crackers
+place a thing close to the bath,place,bathroom,unknown
+clear away an item close to the parlor,place,living room,unknown
+would are the item from the living room,question,living room,unknown
+what is you tell orange in the living room,question,living room,orange
+go towards the living room,go,living room,unknown
+tidy the banana from the living room,place,living room,banana
+how you tell water around the bath,question,bathroom,water
+what are you tell orange close to the sitting room,question,living room,orange
+could you do apple around the pantry,question,kitchen,apple
+clear away the apple inside the pantry,place,kitchen,apple
+describe what you see banana near the sitting room,describe,living room,banana
+move over by the beverage,go,unknown,beverage
+locate some tuna close to the sitting room,get,living room,tuna
+throw out an apple inside the my room,place,bedroom,apple
+tidy up the water in the bath,place,bathroom,water
+put away the banana inside the pantry,place,kitchen,banana
+get some banana around the sitting room,get,living room,banana
+report everything you see water near the bath,describe,bathroom,water
+bring the vegetables close to the bathroom,get,bathroom,vegetables
+could are the soda close to the parlor,question,living room,soda
+identify a thing close to the parlor,get,living room,unknown
+specify every detail item close to the pantry,describe,kitchen,unknown
+present what you see crackers close to the my room,describe,bedroom,crackers
+bring a beverage around the bath,get,bathroom,beverage
+clear an apple by the kitchen,place,kitchen,apple
+drive by the banana,go,unknown,banana
+answer you tell thing around the living room,question,living room,unknown
+express in details object around the pantry,describe,kitchen,unknown
+navigate towards the kitchen,go,kitchen,unknown
+clean a cookies,place,unknown,cookies
+where is the corn close to the parlor,question,living room,corn
+what are you tell apple inside the my room,question,bedroom,apple
+clear away an object close to the bath,place,bathroom,unknown
+question are the apple around the bathroom,question,bathroom,apple
+throw out the vegetables near the parlor,place,living room,vegetables
+store the chips near the my room,place,bedroom,chips
+move toward the soda from the parlor,go,living room,soda
+explain in details cookies close to the parlor,describe,living room,cookies
+proceed by the orange,go,unknown,orange
+tell what you see soda,describe,unknown,soda
+specify what's there soda,describe,unknown,soda
+find an apple around the pantry,get,kitchen,apple
+bring me some carrots,get,unknown,carrots
+locate some item by the parlor,get,living room,unknown
+go over to the carrots from the bath,go,bathroom,carrots
+explain what's there vegetables,describe,unknown,vegetables
+explain what's there cookies inside the parlor,describe,living room,cookies
+look for the soda from the sitting room,get,living room,soda
+search for an item in the bath,get,bathroom,unknown
+explain everything you see orange,describe,unknown,orange
+retrieve a soda,get,unknown,soda
+navigate over to the orange,go,unknown,orange
+put back a thing from the my room,place,bedroom,unknown
+navigate by the beverage from the pantry,go,kitchen,beverage
+drive near the peas,go,unknown,peas
+throw out a tomato by the living room,place,living room,tomato
+specify what you see carrots,describe,unknown,carrots
+describe everything you see item inside the my room,describe,bedroom,unknown
+take a water in the bathroom,place,bathroom,water
+place the beverage from the living room,place,living room,beverage
+bring me a soda around the bathroom,get,bathroom,soda
+explain everything you see object near the bath,describe,bathroom,unknown
+throw away the beverage inside the living room,place,living room,beverage
+describe what's there corn in the parlor,describe,living room,corn
+put away the soda close to the living room,place,living room,soda
+clear the tomato from the my room,place,bedroom,tomato
+clean a banana inside the bathroom,place,bathroom,banana
+fetch some banana,get,unknown,banana
+what is you tell soda inside the bath,question,bathroom,soda
+go towards the chips inside the pantry,go,kitchen,chips
+navigate near the sitting room,go,living room,unknown
+head toward the bedroom,go,bedroom,unknown
+describe what's there crackers,describe,unknown,crackers
+navigate towards the bedroom,go,bedroom,unknown
+throw away a soda close to the parlor,place,living room,soda
+present every detail corn by the pantry,describe,kitchen,corn
+throw out an orange,place,unknown,orange
+what are is the chips inside the bathroom,question,bathroom,chips
+clean up a carrots,place,unknown,carrots
+get me an apple from the my room,get,bedroom,apple
+go by the orange near the my room,go,bedroom,orange
+question you tell beverage inside the bedroom,question,bedroom,beverage
+fetch an orange near the canteen,get,kitchen,orange
+proceed near the water in the my room,go,bedroom,water
+question are the object inside the sitting room,question,living room,unknown
+where you do chips,question,unknown,chips
+look for some crackers near the canteen,get,kitchen,crackers
+could you do beverage from the canteen,question,kitchen,beverage
+tidy the object inside the canteen,place,kitchen,unknown
+place the beverage close to the kitchen,place,kitchen,beverage
+explain in details soda near the bedroom,describe,bedroom,soda
+how are the banana,question,unknown,banana
+proceed over by the carrots close to the bath,go,bathroom,carrots
+report what's there item around the bath,describe,bathroom,unknown
+put away the thing close to the my room,place,bedroom,unknown
+question you tell chips inside the bedroom,question,bedroom,chips
+proceed to the chips,go,unknown,chips
+could you do thing inside the parlor,question,living room,unknown
+question you tell crackers inside the pantry,question,kitchen,crackers
+bring me some apple,get,unknown,apple
+tidy the peas inside the canteen,place,kitchen,peas
+what are you tell corn near the bath,question,bathroom,corn
+fetch me a banana in the pantry,get,kitchen,banana
+could are the cookies close to the kitchen,question,kitchen,cookies
+navigate near the banana by the parlor,go,living room,banana
+tidy up the vegetables in the bedroom,place,bedroom,vegetables
+drive near the sitting room,go,living room,unknown
+fetch me a vegetables around the bath,get,bathroom,vegetables
+describe in details vegetables near the kitchen,describe,kitchen,vegetables
+grab an orange near the parlor,get,living room,orange
+tell what's there tuna,describe,unknown,tuna
+throw out the chips near the sitting room,place,living room,chips
+report what you see banana near the bathroom,describe,bathroom,banana
+what are are the chips inside the pantry,question,kitchen,chips
+question you tell tomato close to the kitchen,question,kitchen,tomato
+could you tell object inside the bath,question,bathroom,unknown
+identify the soda in the my room,get,bedroom,soda
+what are are the chips from the living room,question,living room,chips
+fetch a soda near the bathroom,get,bathroom,soda
+report in details soda,describe,unknown,soda
+throw out the corn around the my room,place,bedroom,corn
+how you tell orange from the parlor,question,living room,orange
+search for the apple by the kitchen,get,kitchen,apple
+get me some tomato close to the kitchen,get,kitchen,tomato
+move by the crackers close to the kitchen,go,kitchen,crackers
+throw out the apple in the living room,place,living room,apple
+head over by the bedroom,go,bedroom,unknown
+locate a chips from the bedroom,get,bedroom,chips
+answer are the tuna by the kitchen,question,kitchen,tuna
+would you tell crackers from the canteen,question,kitchen,crackers
+throw away a cookies,place,unknown,cookies
+question you tell water inside the canteen,question,kitchen,water
+navigate to the chips in the parlor,go,living room,chips
+proceed over to the apple from the my room,go,bedroom,apple
+could you do cookies close to the bath,question,bathroom,cookies
+clean the soda close to the my room,place,bedroom,soda
+head towards the crackers by the bath,go,bathroom,crackers
+report everything you see object close to the my room,describe,bedroom,unknown
+store a thing near the bath,place,bathroom,unknown
+put away the banana near the bedroom,place,bedroom,banana
+navigate by the peas close to the kitchen,go,kitchen,peas
+go over to the beverage in the my room,go,bedroom,beverage
+put away the corn close to the my room,place,bedroom,corn
+find the thing around the canteen,get,kitchen,unknown
+go over by the crackers close to the bedroom,go,bedroom,crackers
+go toward the apple in the sitting room,go,living room,apple
+put back the apple in the bathroom,place,bathroom,apple
+go by the soda inside the bath,go,bathroom,soda
+what is you do peas around the kitchen,question,kitchen,peas
+put back a tomato inside the my room,place,bedroom,tomato
+tell everything you see object near the sitting room,describe,living room,unknown
+answer are the object inside the pantry,question,kitchen,unknown
+get me the carrots in the bathroom,get,bathroom,carrots
+what is you tell beverage inside the parlor,question,living room,beverage
+report every detail soda close to the parlor,describe,living room,soda
+bring the cookies,get,unknown,cookies
+proceed over by the water around the my room,go,bedroom,water
+specify what's there item inside the bedroom,describe,bedroom,unknown
+how you do corn,question,unknown,corn
+specify everything you see water near the bathroom,describe,bathroom,water
+tell every detail peas close to the bath,describe,bathroom,peas
+where is the item by the canteen,question,kitchen,unknown
+throw out a soda,place,unknown,soda
+go near the apple in the canteen,go,kitchen,apple
+what is you do beverage,question,unknown,beverage
+throw out an object around the my room,place,bedroom,unknown
+question you do apple close to the canteen,question,kitchen,apple
+move to the crackers from the bathroom,go,bathroom,crackers
+move by the tomato around the parlor,go,living room,tomato
+clean up the chips by the bath,place,bathroom,chips
+place an orange around the sitting room,place,living room,orange
+would you do thing near the parlor,question,living room,unknown
+identify a soda in the my room,get,bedroom,soda
+proceed toward the tomato around the bathroom,go,bathroom,tomato
+how is the object inside the bath,question,bathroom,unknown
+tidy up the apple around the canteen,place,kitchen,apple
+move to the carrots from the pantry,go,kitchen,carrots
+where is the soda in the living room,question,living room,soda
+throw away the orange close to the sitting room,place,living room,orange
+answer you do banana inside the canteen,question,kitchen,banana
+tidy up an item close to the living room,place,living room,unknown
+clear a beverage by the living room,place,living room,beverage
+go to the banana,go,unknown,banana
+identify the banana close to the my room,get,bedroom,banana
+present what's there banana near the parlor,describe,living room,banana
+find the item in the bathroom,get,bathroom,unknown
+report in details soda around the sitting room,describe,living room,soda
+head toward the kitchen,go,kitchen,unknown
+clear the soda close to the my room,place,bedroom,soda
+proceed by the cookies,go,unknown,cookies
+navigate near the beverage around the canteen,go,kitchen,beverage
+head toward the apple from the bath,go,bathroom,apple
+clean a peas inside the canteen,place,kitchen,peas
+present in details object in the kitchen,describe,kitchen,unknown
+how you do item from the kitchen,question,kitchen,unknown
+drive near the chips,go,unknown,chips
+identify a tuna from the kitchen,get,kitchen,tuna
+express everything you see cookies by the bath,describe,bathroom,cookies
+express every detail crackers in the my room,describe,bedroom,crackers
+retrieve the crackers from the bathroom,get,bathroom,crackers
+clear away the orange,place,unknown,orange
+where you tell orange close to the pantry,question,kitchen,orange
+question is the banana close to the my room,question,bedroom,banana
+drive towards the peas near the my room,go,bedroom,peas
+identify an object by the my room,get,bedroom,unknown
+clean up a carrots inside the pantry,place,kitchen,carrots
+find the banana from the my room,get,bedroom,banana
+retrieve some cookies around the parlor,get,living room,cookies
+fetch me some corn around the bath,get,bathroom,corn
+store a corn close to the bathroom,place,bathroom,corn
+grab some vegetables close to the my room,get,bedroom,vegetables
+go near the bath,go,bathroom,unknown
+identify a vegetables around the bathroom,get,bathroom,vegetables
+question you tell soda around the pantry,question,kitchen,soda
+identify some beverage around the parlor,get,living room,beverage
+grab me the thing near the pantry,get,kitchen,unknown
+describe what's there corn from the my room,describe,bedroom,corn
+tell every detail apple near the parlor,describe,living room,apple
+identify some orange from the bathroom,get,bathroom,orange
+proceed toward the water,go,unknown,water
+report what's there orange around the pantry,describe,kitchen,orange
+drive toward the peas,go,unknown,peas
+question are the banana close to the sitting room,question,living room,banana
+pick up the apple from the parlor,get,living room,apple
+tidy a chips around the bathroom,place,bathroom,chips
+what are is the tuna inside the pantry,question,kitchen,tuna
+clean up a carrots inside the bathroom,place,bathroom,carrots
+move near the cookies,go,unknown,cookies
+fetch me some cookies by the pantry,get,kitchen,cookies
+get me the object in the canteen,get,kitchen,unknown
+answer are the water close to the pantry,question,kitchen,water
+tidy a beverage in the canteen,place,kitchen,beverage
+what are you do thing inside the pantry,question,kitchen,unknown
+bring me some crackers around the canteen,get,kitchen,crackers
+present everything you see banana close to the sitting room,describe,living room,banana
+clear a thing inside the bedroom,place,bedroom,unknown
+navigate over to the chips,go,unknown,chips
+report what you see orange close to the bedroom,describe,bedroom,orange
+throw out the carrots,place,unknown,carrots
+retrieve a chips inside the bath,get,bathroom,chips
+what are is the water from the kitchen,question,kitchen,water
+describe what you see water,describe,unknown,water
+place the tuna by the living room,place,living room,tuna
+get a soda in the bathroom,get,bathroom,soda
+put away the vegetables in the kitchen,place,kitchen,vegetables
+grab me some chips,get,unknown,chips
+describe what's there apple,describe,unknown,apple
+tell what you see banana around the pantry,describe,kitchen,banana
+fetch me the beverage,get,unknown,beverage
+specify every detail thing close to the living room,describe,living room,unknown
+what are you tell chips around the living room,question,living room,chips
+find me an item from the bath,get,bathroom,unknown
+clean the item in the my room,place,bedroom,unknown
+throw out the apple close to the sitting room,place,living room,apple
+answer you do crackers,question,unknown,crackers
+clean up a peas near the sitting room,place,living room,peas
+proceed toward the parlor,go,living room,unknown
+how you do cookies around the kitchen,question,kitchen,cookies
+drive over to the bedroom,go,bedroom,unknown
+what is you tell chips close to the bathroom,question,bathroom,chips
+head toward the soda around the bathroom,go,bathroom,soda
+identify the cookies in the sitting room,get,living room,cookies
+drive over to the apple inside the canteen,go,kitchen,apple
+question you do apple near the living room,question,living room,apple
+bring the beverage inside the living room,get,living room,beverage
+tell what you see orange inside the bathroom,describe,bathroom,orange
+could you tell tuna by the bedroom,question,bedroom,tuna
+put back the water close to the bathroom,place,bathroom,water
+grab me some beverage from the parlor,get,living room,beverage
+describe in details orange by the bath,describe,bathroom,orange
+go towards the beverage in the sitting room,go,living room,beverage
+put back the item by the canteen,place,kitchen,unknown
+drive toward the chips,go,unknown,chips
+head toward the soda inside the kitchen,go,kitchen,soda
+where are the peas around the my room,question,bedroom,peas
+navigate near the banana,go,unknown,banana
+describe in details apple,describe,unknown,apple
+fetch me an item from the kitchen,get,kitchen,unknown
+where you do vegetables near the canteen,question,kitchen,vegetables
+answer are the apple near the bath,question,bathroom,apple
+place a chips around the bathroom,place,bathroom,chips
+search for the carrots close to the bathroom,get,bathroom,carrots
+put back a crackers around the bedroom,place,bedroom,crackers
+navigate near the cookies,go,unknown,cookies
+where is the beverage from the pantry,question,kitchen,beverage
+grab the object around the sitting room,get,living room,unknown
+what is you do item near the pantry,question,kitchen,unknown
+get me the crackers by the sitting room,get,living room,crackers
+locate an apple in the pantry,get,kitchen,apple
+express in details chips from the kitchen,describe,kitchen,chips
+put back the carrots by the parlor,place,living room,carrots
+question you tell beverage by the bath,question,bathroom,beverage
+bring me the soda around the bathroom,get,bathroom,soda
+specify what you see object near the parlor,describe,living room,unknown
+specify what you see tomato near the bathroom,describe,bathroom,tomato
+explain every detail orange in the my room,describe,bedroom,orange
+move by the carrots around the my room,go,bedroom,carrots
+tidy the object around the parlor,place,living room,unknown
+tidy up the carrots close to the canteen,place,kitchen,carrots
+would is the cookies,question,unknown,cookies
+question you do apple around the bath,question,bathroom,apple
+retrieve an object around the kitchen,get,kitchen,unknown
+drive to the soda,go,unknown,soda
+pick up the item around the sitting room,get,living room,unknown
+describe what's there item near the living room,describe,living room,unknown
+move toward the orange,go,unknown,orange
+clear away an item by the bedroom,place,bedroom,unknown
+clear away the crackers in the bedroom,place,bedroom,crackers
+specify what you see item in the bedroom,describe,bedroom,unknown
+report everything you see orange inside the sitting room,describe,living room,orange
+what are you tell object in the bath,question,bathroom,unknown
+get some object close to the kitchen,get,kitchen,unknown
+put back the banana in the canteen,place,kitchen,banana
+proceed toward the banana in the living room,go,living room,banana
+specify everything you see tuna by the bedroom,describe,bedroom,tuna
+look for a peas around the bathroom,get,bathroom,peas
+look for the cookies in the bath,get,bathroom,cookies
+place the apple,place,unknown,apple
+grab me the item near the bedroom,get,bedroom,unknown
+express what's there carrots,describe,unknown,carrots
+tell in details water close to the bathroom,describe,bathroom,water
+throw out the peas in the bedroom,place,bedroom,peas
+tidy the water from the bedroom,place,bedroom,water
+drive toward the beverage,go,unknown,beverage
+drive over by the carrots close to the bathroom,go,bathroom,carrots
+what is you tell vegetables by the parlor,question,living room,vegetables
+proceed near the sitting room,go,living room,unknown
+would you do chips,question,unknown,chips
+tell every detail item in the parlor,describe,living room,unknown
+express everything you see soda close to the pantry,describe,kitchen,soda
+could is the chips,question,unknown,chips
+search for the thing from the bath,get,bathroom,unknown
+get me some cookies close to the parlor,get,living room,cookies
+proceed to the crackers around the living room,go,living room,crackers
+describe everything you see object around the pantry,describe,kitchen,unknown
+fetch a beverage by the my room,get,bedroom,beverage
+could is the thing near the kitchen,question,kitchen,unknown
+drive toward the water,go,unknown,water
+get me the soda by the pantry,get,kitchen,soda
+present what you see vegetables from the pantry,describe,kitchen,vegetables
+move over by the banana close to the kitchen,go,kitchen,banana
+retrieve some corn around the pantry,get,kitchen,corn
+clean up the carrots inside the kitchen,place,kitchen,carrots
+pick up an apple near the bath,get,bathroom,apple
+question is the water in the canteen,question,kitchen,water
+fetch the soda inside the bedroom,get,bedroom,soda
+what are is the object inside the canteen,question,kitchen,unknown
+explain in details peas around the kitchen,describe,kitchen,peas
+drive near the bath,go,bathroom,unknown
+head by the chips inside the my room,go,bedroom,chips
+could is the chips,question,unknown,chips
+tell every detail tomato from the living room,describe,living room,tomato
+move towards the apple,go,unknown,apple
+explain everything you see water from the my room,describe,bedroom,water
+answer you tell carrots around the bedroom,question,bedroom,carrots
+go to the peas by the my room,go,bedroom,peas
+how is the soda,question,unknown,soda
+bring an apple close to the bath,get,bathroom,apple
+tell everything you see peas near the pantry,describe,kitchen,peas
+look for some thing around the parlor,get,living room,unknown
+tell every detail object close to the bath,describe,bathroom,unknown
+take a carrots by the bedroom,place,bedroom,carrots
+drive over to the apple,go,unknown,apple
+navigate to the bathroom,go,bathroom,unknown
+bring me a carrots by the canteen,get,kitchen,carrots
+would are the item close to the kitchen,question,kitchen,unknown
+go over by the soda by the parlor,go,living room,soda
+head near the beverage near the bath,go,bathroom,beverage
+navigate over to the cookies from the bathroom,go,bathroom,cookies
+bring me the beverage inside the bath,get,bathroom,beverage
+get an object inside the bathroom,get,bathroom,unknown
+fetch me a thing around the sitting room,get,living room,unknown
+head to the soda,go,unknown,soda
+grab me a cookies,get,unknown,cookies
+retrieve some water close to the pantry,get,kitchen,water
+search for some apple inside the my room,get,bedroom,apple
+find me the chips around the bath,get,bathroom,chips
+pick up some thing close to the bath,get,bathroom,unknown
+move toward the water near the canteen,go,kitchen,water
+clean the item around the pantry,place,kitchen,unknown
+express everything you see beverage around the bath,describe,bathroom,beverage
+search for the soda by the bath,get,bathroom,soda
+head over to the chips,go,unknown,chips
+head to the banana from the living room,go,living room,banana
+move over to the soda inside the sitting room,go,living room,soda
+answer is the cookies close to the sitting room,question,living room,cookies
+could you tell banana by the pantry,question,kitchen,banana
+move towards the kitchen,go,kitchen,unknown
+search for the tomato by the pantry,get,kitchen,tomato
+could you tell beverage by the bedroom,question,bedroom,beverage
+throw out the soda in the bathroom,place,bathroom,soda
+would you tell object near the bathroom,question,bathroom,unknown
+put away the banana near the bedroom,place,bedroom,banana
+where are the vegetables in the parlor,question,living room,vegetables
+question you tell corn from the pantry,question,kitchen,corn
+proceed towards the tuna in the kitchen,go,kitchen,tuna
+answer you tell vegetables,question,unknown,vegetables
+express every detail cookies,describe,unknown,cookies
+find the crackers in the canteen,get,kitchen,crackers
+identify some orange,get,unknown,orange
+express everything you see apple,describe,unknown,apple
+tidy the soda near the my room,place,bedroom,soda
+would you do water near the bedroom,question,bedroom,water
+question is the beverage close to the my room,question,bedroom,beverage
+describe every detail cookies near the my room,describe,bedroom,cookies
+express what you see crackers,describe,unknown,crackers
+would is the banana near the living room,question,living room,banana
+answer you tell peas around the parlor,question,living room,peas
+tidy a beverage near the bath,place,bathroom,beverage
+drive near the chips,go,unknown,chips
+search for the tuna,get,unknown,tuna
+retrieve the chips close to the sitting room,get,living room,chips
+proceed to the crackers,go,unknown,crackers
+move toward the beverage inside the canteen,go,kitchen,beverage
+tidy up a crackers close to the parlor,place,living room,crackers
+what is you do thing by the bathroom,question,bathroom,unknown
+fetch some object in the canteen,get,kitchen,unknown
+go by the carrots from the my room,go,bedroom,carrots
+could are the object inside the bathroom,question,bathroom,unknown
+could is the cookies from the my room,question,bedroom,cookies
+explain what you see apple from the kitchen,describe,kitchen,apple
+go over by the soda by the bathroom,go,bathroom,soda
+proceed to the tuna,go,unknown,tuna
+retrieve a banana around the kitchen,get,kitchen,banana
+specify in details tomato inside the bathroom,describe,bathroom,tomato
+get a banana from the bedroom,get,bedroom,banana
+retrieve the cookies inside the canteen,get,kitchen,cookies
+drive over to the carrots,go,unknown,carrots
+look for some object in the bathroom,get,bathroom,unknown
+tell what's there object by the my room,describe,bedroom,unknown
+express everything you see vegetables,describe,unknown,vegetables
+tidy an item close to the kitchen,place,kitchen,unknown
+what is are the cookies around the sitting room,question,living room,cookies
+tidy the item near the kitchen,place,kitchen,unknown
+drive toward the canteen,go,kitchen,unknown
+specify every detail apple from the bedroom,describe,bedroom,apple
+explain in details object by the bathroom,describe,bathroom,unknown
+report what you see tomato,describe,unknown,tomato
+look for some soda close to the pantry,get,kitchen,soda
+would you do apple near the living room,question,living room,apple
+explain in details object near the kitchen,describe,kitchen,unknown
+drive by the tuna inside the sitting room,go,living room,tuna
+describe everything you see object from the pantry,describe,kitchen,unknown
+bring me a soda near the my room,get,bedroom,soda
+report everything you see carrots,describe,unknown,carrots
+get the corn,get,unknown,corn
+could is the water inside the pantry,question,kitchen,water
+move over to the bedroom,go,bedroom,unknown
+find the object by the bathroom,get,bathroom,unknown
+throw away a banana,place,unknown,banana
+get the apple inside the sitting room,get,living room,apple
+how you tell object close to the my room,question,bedroom,unknown
+would you tell corn around the bathroom,question,bathroom,corn
+clean up the cookies from the living room,place,living room,cookies
+proceed near the my room,go,bedroom,unknown
+tidy the tomato in the sitting room,place,living room,tomato
+fetch the peas by the my room,get,bedroom,peas
+pick up a corn near the bathroom,get,bathroom,corn
+express every detail soda from the pantry,describe,kitchen,soda
+store a vegetables around the pantry,place,kitchen,vegetables
+clear away the cookies close to the sitting room,place,living room,cookies
+tell in details carrots by the bathroom,describe,bathroom,carrots
+pick up a chips,get,unknown,chips
+drive by the chips close to the parlor,go,living room,chips
+proceed by the banana,go,unknown,banana
+tidy the chips close to the pantry,place,kitchen,chips
+present every detail item inside the kitchen,describe,kitchen,unknown
+drive near the beverage in the kitchen,go,kitchen,beverage
+get me an object close to the bedroom,get,bedroom,unknown
+present what's there carrots in the pantry,describe,kitchen,carrots
+express every detail banana near the bedroom,describe,bedroom,banana
+express what you see orange inside the bathroom,describe,bathroom,orange
+specify what's there cookies near the living room,describe,living room,cookies
+express every detail vegetables,describe,unknown,vegetables
+look for the crackers near the sitting room,get,living room,crackers
+move towards the vegetables close to the pantry,go,kitchen,vegetables
+report everything you see soda near the bathroom,describe,bathroom,soda
+report what you see chips,describe,unknown,chips
+throw out the soda near the sitting room,place,living room,soda
+how is the chips around the parlor,question,living room,chips
+describe everything you see soda near the bathroom,describe,bathroom,soda
+clear a tuna inside the canteen,place,kitchen,tuna
+bring me some chips near the bedroom,get,bedroom,chips
+describe what you see soda around the my room,describe,bedroom,soda
+throw away the soda inside the living room,place,living room,soda
+report in details chips from the bathroom,describe,bathroom,chips
+look for the vegetables near the bedroom,get,bedroom,vegetables
+report what you see crackers,describe,unknown,crackers
+tidy up a tomato close to the pantry,place,kitchen,tomato
+locate some chips in the my room,get,bedroom,chips
+answer are the beverage near the parlor,question,living room,beverage
+would you tell cookies around the parlor,question,living room,cookies
+clean up a soda in the living room,place,living room,soda
+proceed towards the kitchen,go,kitchen,unknown
+bring the item near the bedroom,get,bedroom,unknown
+place a beverage near the my room,place,bedroom,beverage
+take a tomato in the bath,place,bathroom,tomato
+take the apple near the parlor,place,living room,apple
+explain in details apple in the my room,describe,bedroom,apple
+tell what you see beverage near the bathroom,describe,bathroom,beverage
+specify everything you see chips by the my room,describe,bedroom,chips
+navigate near the banana near the my room,go,bedroom,banana
+clear the banana close to the my room,place,bedroom,banana
+pick up the apple from the kitchen,get,kitchen,apple
+tidy up an object inside the canteen,place,kitchen,unknown
+bring me some chips around the pantry,get,kitchen,chips
+where is the crackers around the kitchen,question,kitchen,crackers
+move near the soda from the bathroom,go,bathroom,soda
+clear away a water inside the bath,place,bathroom,water
+what is is the apple in the sitting room,question,living room,apple
+what are are the thing from the bathroom,question,bathroom,unknown
+question is the peas around the kitchen,question,kitchen,peas
+express in details thing by the sitting room,describe,living room,unknown
+bring some soda inside the bedroom,get,bedroom,soda
+fetch a chips by the kitchen,get,kitchen,chips
+express every detail banana close to the bath,describe,bathroom,banana
+go to the banana from the parlor,go,living room,banana
+head over to the orange,go,unknown,orange
+describe everything you see thing from the bathroom,describe,bathroom,unknown
+look for the water by the living room,get,living room,water
+would is the chips in the pantry,question,kitchen,chips
+place the object around the pantry,place,kitchen,unknown
+store the carrots around the bedroom,place,bedroom,carrots
+where is the cookies in the my room,question,bedroom,cookies
+clear away a cookies,place,unknown,cookies
+tell every detail soda close to the bedroom,describe,bedroom,soda
+navigate toward the tuna in the bath,go,bathroom,tuna
+express in details tuna,describe,unknown,tuna
+present what's there banana close to the bedroom,describe,bedroom,banana
+take an object close to the kitchen,place,kitchen,unknown
+express what's there beverage by the kitchen,describe,kitchen,beverage
+report every detail tomato,describe,unknown,tomato
+clean up a corn from the bedroom,place,bedroom,corn
+fetch some banana,get,unknown,banana
+clear a cookies by the bath,place,bathroom,cookies
+search for some tuna by the bath,get,bathroom,tuna
+question you do crackers,question,unknown,crackers
+specify what you see carrots,describe,unknown,carrots
+bring the carrots by the canteen,get,kitchen,carrots
+store an item inside the bathroom,place,bathroom,unknown
+go by the water close to the bedroom,go,bedroom,water
+identify some crackers by the bath,get,bathroom,crackers
+go to the corn inside the parlor,go,living room,corn
+would is the orange,question,unknown,orange
+take the cookies by the sitting room,place,living room,cookies
+present every detail item near the pantry,describe,kitchen,unknown
+go by the banana near the sitting room,go,living room,banana
+take the tomato from the bedroom,place,bedroom,tomato
+where you tell cookies from the bedroom,question,bedroom,cookies
+locate some beverage from the bathroom,get,bathroom,beverage
+specify in details water,describe,unknown,water
+what is you do orange near the bedroom,question,bedroom,orange
+bring a peas from the parlor,get,living room,peas
+drive toward the carrots by the kitchen,go,kitchen,carrots
+could you do thing around the parlor,question,living room,unknown
+head near the vegetables in the canteen,go,kitchen,vegetables
+put away the soda around the bathroom,place,bathroom,soda
+could you tell orange around the parlor,question,living room,orange
+clean the orange inside the living room,place,living room,orange
+where you tell crackers from the kitchen,question,kitchen,crackers
+get some beverage inside the my room,get,bedroom,beverage
+fetch me some item in the parlor,get,living room,unknown
+drive to the sitting room,go,living room,unknown
+tell what's there crackers,describe,unknown,crackers
+fetch me some crackers around the bathroom,get,bathroom,crackers
+get me some chips around the kitchen,get,kitchen,chips
+describe what you see water inside the bathroom,describe,bathroom,water
+present in details apple,describe,unknown,apple
+could you do item by the living room,question,living room,unknown
+throw away the carrots,place,unknown,carrots
+bring the peas by the bath,get,bathroom,peas
+find me a peas from the kitchen,get,kitchen,peas
+clean up a cookies in the bathroom,place,bathroom,cookies
+go towards the chips inside the bathroom,go,bathroom,chips
+what are are the crackers from the kitchen,question,kitchen,crackers
+look for the cookies in the pantry,get,kitchen,cookies
+would is the soda inside the bathroom,question,bathroom,soda
+how are the banana,question,unknown,banana
+question is the apple,question,unknown,apple
+navigate towards the sitting room,go,living room,unknown
+place an orange near the living room,place,living room,orange
+find me the crackers around the bathroom,get,bathroom,crackers
+clean up a cookies near the bath,place,bathroom,cookies
+drive over by the pantry,go,kitchen,unknown
+go over by the apple inside the pantry,go,kitchen,apple
+move toward the apple near the living room,go,living room,apple
+fetch some orange,get,unknown,orange
+what are are the crackers in the bathroom,question,bathroom,crackers
+tidy up a tuna inside the bedroom,place,bedroom,tuna
+locate a chips,get,unknown,chips
+throw out a carrots,place,unknown,carrots
+navigate toward the water by the bathroom,go,bathroom,water
+navigate near the orange close to the kitchen,go,kitchen,orange
+find me the beverage around the bedroom,get,bedroom,beverage
+proceed towards the water,go,unknown,water
+tidy up a soda,place,unknown,soda
+search for some cookies around the bathroom,get,bathroom,cookies
+fetch me a crackers near the bath,get,bathroom,crackers
+clean up a cookies in the living room,place,living room,cookies
+put back an object close to the my room,place,bedroom,unknown
+specify everything you see crackers by the bedroom,describe,bedroom,crackers
+what is is the banana around the parlor,question,living room,banana
+what is you tell banana around the sitting room,question,living room,banana
+where are the apple,question,unknown,apple
+what is are the object from the bedroom,question,bedroom,unknown
+report every detail beverage in the sitting room,describe,living room,beverage
+search for an object close to the bathroom,get,bathroom,unknown
+head over to the tomato around the canteen,go,kitchen,tomato
+what is are the soda near the my room,question,bedroom,soda
+clear away the item inside the bathroom,place,bathroom,unknown
+specify what's there beverage,describe,unknown,beverage
+find me some banana around the kitchen,get,kitchen,banana
+tidy up the apple near the sitting room,place,living room,apple
+find a banana near the bedroom,get,bedroom,banana
+head towards the my room,go,bedroom,unknown
+would is the apple by the bathroom,question,bathroom,apple
+report everything you see chips,describe,unknown,chips
+place a vegetables around the kitchen,place,kitchen,vegetables
+clean up a crackers from the sitting room,place,living room,crackers
+search for the soda in the kitchen,get,kitchen,soda
+locate some thing around the bedroom,get,bedroom,unknown
+what is is the chips in the bathroom,question,bathroom,chips
+locate some thing close to the living room,get,living room,unknown
+tell everything you see crackers near the canteen,describe,kitchen,crackers
+express everything you see water in the kitchen,describe,kitchen,water
+present every detail tuna near the bathroom,describe,bathroom,tuna
+clean a chips close to the my room,place,bedroom,chips
+move to the cookies near the living room,go,living room,cookies
+question is the carrots,question,unknown,carrots
+find me an orange by the pantry,get,kitchen,orange
+go over by the peas near the bedroom,go,bedroom,peas
+throw out an orange by the my room,place,bedroom,orange
+bring a banana by the my room,get,bedroom,banana
+clear away the item by the canteen,place,kitchen,unknown
+fetch me a banana by the canteen,get,kitchen,banana
+bring me a chips around the bath,get,bathroom,chips
+present every detail cookies inside the pantry,describe,kitchen,cookies
+clean up an item near the parlor,place,living room,unknown
+tell everything you see beverage from the pantry,describe,kitchen,beverage
+describe in details banana in the bedroom,describe,bedroom,banana
+proceed to the corn,go,unknown,corn
+how you tell beverage by the my room,question,bedroom,beverage
+proceed by the chips by the living room,go,living room,chips
+tidy up the crackers,place,unknown,crackers
+would are the crackers from the pantry,question,kitchen,crackers
+navigate to the pantry,go,kitchen,unknown
+would are the crackers in the bath,question,bathroom,crackers
+would are the banana in the bedroom,question,bedroom,banana
+report every detail item close to the bathroom,describe,bathroom,unknown
+answer is the cookies by the pantry,question,kitchen,cookies
+would is the orange around the my room,question,bedroom,orange
+go near the tomato by the living room,go,living room,tomato
+place the corn,place,unknown,corn
+grab a beverage inside the kitchen,get,kitchen,beverage
+head near the peas from the bedroom,go,bedroom,peas
+where are the soda around the my room,question,bedroom,soda
+tidy up a crackers,place,unknown,crackers
+where you tell cookies near the sitting room,question,living room,cookies
+proceed to the peas in the pantry,go,kitchen,peas
+search for the peas inside the my room,get,bedroom,peas
+report what's there cookies,describe,unknown,cookies
+move to the chips inside the bedroom,go,bedroom,chips
+move towards the beverage by the bathroom,go,bathroom,beverage
+what are is the orange near the parlor,question,living room,orange
+search for the cookies from the bedroom,get,bedroom,cookies
+describe in details item close to the pantry,describe,kitchen,unknown
+grab me some object by the bedroom,get,bedroom,unknown
+drive over to the apple near the bathroom,go,bathroom,apple
+would are the apple close to the parlor,question,living room,apple
+head over by the water in the living room,go,living room,water
+move over by the orange near the living room,go,living room,orange
+explain every detail banana inside the bathroom,describe,bathroom,banana
+navigate towards the orange in the sitting room,go,living room,orange
+report every detail tomato close to the bath,describe,bathroom,tomato
+go toward the apple close to the my room,go,bedroom,apple
+grab me some crackers around the bathroom,get,bathroom,crackers
+proceed over to the sitting room,go,living room,unknown
+specify what's there orange close to the my room,describe,bedroom,orange
+drive by the crackers,go,unknown,crackers
+express what you see apple around the bathroom,describe,bathroom,apple
+get the peas in the bath,get,bathroom,peas
+proceed towards the tuna by the bathroom,go,bathroom,tuna
+clean a crackers,place,unknown,crackers
+fetch me an apple,get,unknown,apple
+locate a crackers by the parlor,get,living room,crackers
+express in details corn near the kitchen,describe,kitchen,corn
+get the cookies near the kitchen,get,kitchen,cookies
+clean up a chips,place,unknown,chips
+bring me a soda near the bathroom,get,bathroom,soda
+what is you do object around the bath,question,bathroom,unknown
+what are you do carrots in the bathroom,question,bathroom,carrots
+place the tuna from the my room,place,bedroom,tuna
+explain every detail item from the bedroom,describe,bedroom,unknown
+find the peas around the bathroom,get,bathroom,peas
+throw away the soda around the pantry,place,kitchen,soda
+grab a thing close to the bathroom,get,bathroom,unknown
+get a thing inside the bathroom,get,bathroom,unknown
+what are you do chips by the parlor,question,living room,chips
+answer you do orange from the sitting room,question,living room,orange
+express every detail item in the sitting room,describe,living room,unknown
+navigate over by the apple,go,unknown,apple
+look for the banana in the kitchen,get,kitchen,banana
+clean up a chips around the bath,place,bathroom,chips
+tell in details soda in the kitchen,describe,kitchen,soda
+throw away the vegetables near the kitchen,place,kitchen,vegetables
+head over to the soda,go,unknown,soda
+could are the beverage near the bathroom,question,bathroom,beverage
+put away the vegetables from the living room,place,living room,vegetables
+express everything you see peas,describe,unknown,peas
+head over by the water by the bedroom,go,bedroom,water
+bring some soda by the canteen,get,kitchen,soda
+move over by the orange,go,unknown,orange
+head by the soda in the bedroom,go,bedroom,soda
+express everything you see water by the bathroom,describe,bathroom,water
+navigate over to the living room,go,living room,unknown
+place the water in the bathroom,place,bathroom,water
+tidy up the orange,place,unknown,orange
+clear away an item around the pantry,place,kitchen,unknown
+fetch me a soda close to the living room,get,living room,soda
+find an object by the pantry,get,kitchen,unknown
+bring some banana,get,unknown,banana
+search for the peas around the bath,get,bathroom,peas
+clear an apple,place,unknown,apple
+what is is the beverage,question,unknown,beverage
+specify what's there item close to the kitchen,describe,kitchen,unknown
+describe what you see item inside the bathroom,describe,bathroom,unknown
+drive to the canteen,go,kitchen,unknown
+tell in details banana from the bathroom,describe,bathroom,banana
+where you do item in the pantry,question,kitchen,unknown
+express every detail chips inside the sitting room,describe,living room,chips
+throw out the thing near the bedroom,place,bedroom,unknown
+could you tell beverage close to the sitting room,question,living room,beverage
+search for the soda,get,unknown,soda
+retrieve an item in the bath,get,bathroom,unknown
+put away the soda,place,unknown,soda
+head by the banana close to the pantry,go,kitchen,banana
+where you do banana from the my room,question,bedroom,banana
+where are the crackers from the sitting room,question,living room,crackers
+clear away a water,place,unknown,water
+put away the vegetables around the bedroom,place,bedroom,vegetables
+specify in details carrots around the bath,describe,bathroom,carrots
+move over by the banana inside the my room,go,bedroom,banana
+grab the chips in the kitchen,get,kitchen,chips
+retrieve a thing near the bedroom,get,bedroom,unknown
+clean up a corn close to the bathroom,place,bathroom,corn
+fetch me the chips inside the bathroom,get,bathroom,chips
+search for the cookies close to the bathroom,get,bathroom,cookies
+tidy an orange from the kitchen,place,kitchen,orange
+what is is the item close to the my room,question,bedroom,unknown
+how you do apple by the living room,question,living room,apple
+find me a tomato around the living room,get,living room,tomato
+put away an item inside the bathroom,place,bathroom,unknown
+head over by the chips by the living room,go,living room,chips
+proceed near the water inside the parlor,go,living room,water
+navigate over to the water near the living room,go,living room,water
+find me the tuna near the canteen,get,kitchen,tuna
+clear a beverage,place,unknown,beverage
+explain in details orange around the living room,describe,living room,orange
+place an orange close to the sitting room,place,living room,orange
+report in details chips,describe,unknown,chips
+specify every detail crackers inside the my room,describe,bedroom,crackers
+get me some peas around the canteen,get,kitchen,peas
+could are the orange around the sitting room,question,living room,orange
+report what's there peas close to the parlor,describe,living room,peas
+where is the beverage around the parlor,question,living room,beverage
+clear the corn from the my room,place,bedroom,corn
+tidy the chips in the sitting room,place,living room,chips
+grab a beverage,get,unknown,beverage
+find me a crackers in the sitting room,get,living room,crackers
+move over to the peas inside the canteen,go,kitchen,peas
+express everything you see beverage by the bath,describe,bathroom,beverage
+go to the corn,go,unknown,corn
+move near the vegetables inside the pantry,go,kitchen,vegetables
+put back a water close to the bath,place,bathroom,water
+tell what you see orange near the parlor,describe,living room,orange
+store the beverage near the kitchen,place,kitchen,beverage
+move towards the carrots by the kitchen,go,kitchen,carrots
+bring me the peas close to the bath,get,bathroom,peas
+present everything you see beverage close to the bathroom,describe,bathroom,beverage
+proceed toward the water near the my room,go,bedroom,water
+report what's there crackers by the bedroom,describe,bedroom,crackers
+tell in details soda near the bedroom,describe,bedroom,soda
+throw out the soda by the kitchen,place,kitchen,soda
+tell what you see tuna from the my room,describe,bedroom,tuna
+fetch the object close to the bedroom,get,bedroom,unknown
+what is you do corn from the sitting room,question,living room,corn
+pick up some item near the living room,get,living room,unknown
+specify in details carrots around the parlor,describe,living room,carrots
+move toward the living room,go,living room,unknown
+proceed over by the kitchen,go,kitchen,unknown
+search for a beverage in the bathroom,get,bathroom,beverage
+head over by the peas around the sitting room,go,living room,peas
+retrieve the beverage,get,unknown,beverage
+find an orange by the pantry,get,kitchen,orange
+head over to the chips in the canteen,go,kitchen,chips
+go to the banana,go,unknown,banana
+find the vegetables inside the my room,get,bedroom,vegetables
+could is the beverage,question,unknown,beverage
+report what's there crackers from the pantry,describe,kitchen,crackers
+search for a thing around the bathroom,get,bathroom,unknown
+question are the beverage in the my room,question,bedroom,beverage
+put away an orange,place,unknown,orange
+could you tell chips close to the pantry,question,kitchen,chips
+search for the chips,get,unknown,chips
+what are you tell item around the pantry,question,kitchen,unknown
+specify everything you see beverage,describe,unknown,beverage
+locate some water around the sitting room,get,living room,water
+go toward the beverage inside the bath,go,bathroom,beverage
+bring me the object inside the parlor,get,living room,unknown
+what are is the chips,question,unknown,chips
+present every detail chips,describe,unknown,chips
+could is the banana around the pantry,question,kitchen,banana
+head over to the orange in the parlor,go,living room,orange
+place the water by the kitchen,place,kitchen,water
+look for the thing close to the living room,get,living room,unknown
+identify an object by the bedroom,get,bedroom,unknown
+pick up an orange from the my room,get,bedroom,orange
+clear away the soda close to the living room,place,living room,soda
+fetch some item around the bathroom,get,bathroom,unknown
+throw away a tuna by the bath,place,bathroom,tuna
+would is the object around the my room,question,bedroom,unknown
+question you tell peas close to the bedroom,question,bedroom,peas
+question is the tuna inside the parlor,question,living room,tuna
+how you tell beverage in the parlor,question,living room,beverage
+what is is the beverage inside the living room,question,living room,beverage
+how you do soda by the living room,question,living room,soda
+navigate near the bath,go,bathroom,unknown
+take an orange by the canteen,place,kitchen,orange
+look for some carrots,get,unknown,carrots
+tidy up the cookies from the kitchen,place,kitchen,cookies
+describe every detail beverage close to the bedroom,describe,bedroom,beverage
+get me a peas inside the parlor,get,living room,peas
+move towards the cookies from the living room,go,living room,cookies
+tidy a chips by the bath,place,bathroom,chips
+how is the thing near the bedroom,question,bedroom,unknown
+go over by the carrots near the sitting room,go,living room,carrots
+question you do peas inside the kitchen,question,kitchen,peas
+clean up the tomato close to the pantry,place,kitchen,tomato
+fetch an object in the bath,get,bathroom,unknown
+grab me some water,get,unknown,water
+could is the beverage inside the living room,question,living room,beverage
+put back the cookies,place,unknown,cookies
+drive over to the corn,go,unknown,corn
+what are you tell crackers,question,unknown,crackers
+store a vegetables,place,unknown,vegetables
+go towards the orange,go,unknown,orange
+drive to the banana near the living room,go,living room,banana
+proceed towards the pantry,go,kitchen,unknown
+grab me some item by the sitting room,get,living room,unknown
+question are the item around the parlor,question,living room,unknown
+what is are the water close to the pantry,question,kitchen,water
+present in details chips in the bedroom,describe,bedroom,chips
+tell everything you see apple around the my room,describe,bedroom,apple
+tell what's there thing inside the my room,describe,bedroom,unknown
+express what you see item inside the bath,describe,bathroom,unknown
+specify what you see banana around the kitchen,describe,kitchen,banana
+tell what you see object close to the bedroom,describe,bedroom,unknown
+report what you see orange,describe,unknown,orange
+express everything you see chips,describe,unknown,chips
+would is the apple,question,unknown,apple
+navigate over by the cookies,go,unknown,cookies
+locate a beverage near the my room,get,bedroom,beverage
+tidy a banana from the bath,place,bathroom,banana
+go over to the tuna by the bedroom,go,bedroom,tuna
+drive over to the banana near the bath,go,bathroom,banana
+search for some soda by the bath,get,bathroom,soda
+question you tell chips by the sitting room,question,living room,chips
+where are the chips near the kitchen,question,kitchen,chips
+put back a corn by the my room,place,bedroom,corn
+clear away a carrots,place,unknown,carrots
+describe what's there orange by the kitchen,describe,kitchen,orange
+report what you see banana inside the bath,describe,bathroom,banana
+question you tell crackers around the sitting room,question,living room,crackers
+look for the tomato,get,unknown,tomato
+tidy a peas in the living room,place,living room,peas
+explain every detail thing from the bedroom,describe,bedroom,unknown
+grab me some banana in the bedroom,get,bedroom,banana
+explain what's there tuna,describe,unknown,tuna
+describe what you see apple around the bath,describe,bathroom,apple
+place a peas near the parlor,place,living room,peas
+locate a chips inside the bedroom,get,bedroom,chips
+search for the water near the kitchen,get,kitchen,water
+proceed toward the water in the living room,go,living room,water
+go near the pantry,go,kitchen,unknown
+head toward the living room,go,living room,unknown
+could you do vegetables around the living room,question,living room,vegetables
+clean the object close to the bath,place,bathroom,unknown
+go near the apple near the canteen,go,kitchen,apple
+find me a crackers close to the living room,get,living room,crackers
+clean up the banana near the canteen,place,kitchen,banana
+specify what's there tomato in the parlor,describe,living room,tomato
+navigate to the tomato,go,unknown,tomato
+move by the peas around the sitting room,go,living room,peas
+drive over by the canteen,go,kitchen,unknown
+describe in details apple by the bath,describe,bathroom,apple
+throw out a cookies around the sitting room,place,living room,cookies
+report what's there cookies inside the parlor,describe,living room,cookies
+find me some apple from the my room,get,bedroom,apple
+clear a water in the bathroom,place,bathroom,water
+put back a thing around the kitchen,place,kitchen,unknown
+identify an object from the parlor,get,living room,unknown
+express in details tomato by the bath,describe,bathroom,tomato
+question you tell cookies inside the parlor,question,living room,cookies
+fetch me some cookies close to the bath,get,bathroom,cookies
+question you do orange close to the kitchen,question,kitchen,orange
+present everything you see beverage from the my room,describe,bedroom,beverage
+go towards the carrots,go,unknown,carrots
+describe what's there tomato,describe,unknown,tomato
+would is the carrots,question,unknown,carrots
+how is the tomato inside the my room,question,bedroom,tomato
+explain what you see apple inside the my room,describe,bedroom,apple
+present in details orange in the bathroom,describe,bathroom,orange
+answer you tell apple inside the my room,question,bedroom,apple
+report every detail tomato near the my room,describe,bedroom,tomato
+place an apple in the bath,place,bathroom,apple
+go by the tuna,go,unknown,tuna
+clear a crackers inside the sitting room,place,living room,crackers
+describe in details object around the canteen,describe,kitchen,unknown
+put away the orange from the canteen,place,kitchen,orange
+search for the soda near the canteen,get,kitchen,soda
+go towards the water from the bedroom,go,bedroom,water
+fetch some tuna by the my room,get,bedroom,tuna
+store the corn by the parlor,place,living room,corn
+search for an apple from the canteen,get,kitchen,apple
+could are the beverage around the canteen,question,kitchen,beverage
+take the orange close to the living room,place,living room,orange
+get a soda in the bath,get,bathroom,soda
+drive over by the living room,go,living room,unknown
+navigate over by the parlor,go,living room,unknown
+retrieve an object inside the bath,get,bathroom,unknown
+how you tell water around the bedroom,question,bedroom,water
+tidy up an orange,place,unknown,orange
+take an orange in the bathroom,place,bathroom,orange
+what is you tell tomato in the living room,question,living room,tomato
+search for some banana by the kitchen,get,kitchen,banana
+clean up an apple in the bedroom,place,bedroom,apple
+put away an item close to the bedroom,place,bedroom,unknown
+tell every detail chips,describe,unknown,chips
+describe in details soda around the bedroom,describe,bedroom,soda
+locate the vegetables inside the living room,get,living room,vegetables
+how is the banana,question,unknown,banana
+get the thing near the bath,get,bathroom,unknown
+present what you see water around the parlor,describe,living room,water
+proceed over by the peas in the canteen,go,kitchen,peas
+navigate near the bedroom,go,bedroom,unknown
+go towards the beverage,go,unknown,beverage
+bring a banana from the parlor,get,living room,banana
+go near the vegetables,go,unknown,vegetables
+drive over by the apple inside the bath,go,bathroom,apple
+specify in details soda in the bedroom,describe,bedroom,soda
+answer you do carrots around the living room,question,living room,carrots
+navigate toward the apple close to the bathroom,go,bathroom,apple
+express in details item around the parlor,describe,living room,unknown
+would are the beverage around the my room,question,bedroom,beverage
+explain everything you see thing by the canteen,describe,kitchen,unknown
+grab me some item around the sitting room,get,living room,unknown
+express in details orange around the bedroom,describe,bedroom,orange
+present in details thing around the canteen,describe,kitchen,unknown
+tell everything you see vegetables close to the kitchen,describe,kitchen,vegetables
+explain what's there soda in the bedroom,describe,bedroom,soda
+what are is the cookies near the bedroom,question,bedroom,cookies
+locate a banana in the bath,get,bathroom,banana
+put back the chips in the kitchen,place,kitchen,chips
+find me the vegetables,get,unknown,vegetables
+tidy an orange,place,unknown,orange
+explain what's there beverage near the bath,describe,bathroom,beverage
+throw out the beverage from the pantry,place,kitchen,beverage
+get me the banana inside the bedroom,get,bedroom,banana
+express every detail cookies near the living room,describe,living room,cookies
+go to the bath,go,bathroom,unknown
+explain every detail vegetables inside the kitchen,describe,kitchen,vegetables
+store a tomato by the sitting room,place,living room,tomato
+proceed towards the chips close to the pantry,go,kitchen,chips
+identify some item in the bedroom,get,bedroom,unknown
+move towards the living room,go,living room,unknown
+what are you tell item in the kitchen,question,kitchen,unknown
+throw away an object in the pantry,place,kitchen,unknown
+proceed towards the tuna around the pantry,go,kitchen,tuna
+proceed by the soda in the bath,go,bathroom,soda
+identify an apple inside the pantry,get,kitchen,apple
+present every detail apple around the sitting room,describe,living room,apple
+how is the beverage,question,unknown,beverage
+put back the cookies near the bedroom,place,bedroom,cookies
+question are the tuna in the bedroom,question,bedroom,tuna
+proceed toward the chips,go,unknown,chips
+navigate toward the soda in the bedroom,go,bedroom,soda
+drive to the chips from the bedroom,go,bedroom,chips
+proceed toward the water,go,unknown,water
+would are the water near the canteen,question,kitchen,water
+find me a corn by the living room,get,living room,corn
+get me an item in the bedroom,get,bedroom,unknown
+present in details object near the my room,describe,bedroom,unknown
+where is the crackers around the my room,question,bedroom,crackers
+tell what's there crackers inside the my room,describe,bedroom,crackers
+pick up a chips inside the bath,get,bathroom,chips
+bring an apple around the parlor,get,living room,apple
+express what you see water from the bedroom,describe,bedroom,water
+what is you do water near the pantry,question,kitchen,water
+what are you do apple in the canteen,question,kitchen,apple
+search for the apple inside the bath,get,bathroom,apple
+retrieve some object around the pantry,get,kitchen,unknown
+identify some peas around the bedroom,get,bedroom,peas
+question is the apple by the bath,question,bathroom,apple
+move over by the carrots near the bathroom,go,bathroom,carrots
+what are are the cookies in the sitting room,question,living room,cookies
+what are are the cookies inside the kitchen,question,kitchen,cookies
+explain what you see object close to the living room,describe,living room,unknown
+specify what's there chips close to the sitting room,describe,living room,chips
+go toward the bathroom,go,bathroom,unknown
+take a chips in the kitchen,place,kitchen,chips
+how you do soda,question,unknown,soda
+would are the chips,question,unknown,chips
+could is the water,question,unknown,water
+pick up a chips from the bedroom,get,bedroom,chips
+specify everything you see cookies inside the parlor,describe,living room,cookies
+bring me the beverage in the my room,get,bedroom,beverage
+grab me the water from the bath,get,bathroom,water
+what is is the carrots inside the bathroom,question,bathroom,carrots
+pick up the chips by the bath,get,bathroom,chips
+throw out the crackers around the bathroom,place,bathroom,crackers
+move near the pantry,go,kitchen,unknown
+navigate to the chips by the bath,go,bathroom,chips
+find me a tuna from the canteen,get,kitchen,tuna
+describe everything you see item from the bathroom,describe,bathroom,unknown
+move by the crackers around the bedroom,go,bedroom,crackers
+specify in details thing in the bath,describe,bathroom,unknown
+where are the water,question,unknown,water
+specify every detail orange close to the sitting room,describe,living room,orange
+go near the crackers,go,unknown,crackers
+specify what's there tomato from the sitting room,describe,living room,tomato
+express every detail orange,describe,unknown,orange
+clear a cookies,place,unknown,cookies
+clear away the apple from the bathroom,place,bathroom,apple
+where you do peas close to the canteen,question,kitchen,peas
+how you do chips close to the bath,question,bathroom,chips
+head over by the corn,go,unknown,corn
+clear away a water close to the parlor,place,living room,water
+would you do soda in the canteen,question,kitchen,soda
+identify some corn inside the kitchen,get,kitchen,corn
+question are the banana in the kitchen,question,kitchen,banana
+bring some tuna from the bath,get,bathroom,tuna
+bring a soda,get,unknown,soda
+throw away a water around the pantry,place,kitchen,water
+grab me the soda,get,unknown,soda
+tidy up the crackers near the parlor,place,living room,crackers
+navigate towards the bathroom,go,bathroom,unknown
+go towards the living room,go,living room,unknown
+what are you tell water around the bath,question,bathroom,water
+look for a banana by the living room,get,living room,banana
+present in details apple around the kitchen,describe,kitchen,apple
+answer are the beverage near the pantry,question,kitchen,beverage
+describe everything you see water from the bath,describe,bathroom,water
+specify in details item inside the bathroom,describe,bathroom,unknown
+head by the cookies in the sitting room,go,living room,cookies
+express what you see soda from the bathroom,describe,bathroom,soda
+where you do tuna inside the bathroom,question,bathroom,tuna
+proceed towards the chips in the sitting room,go,living room,chips
+proceed near the orange near the kitchen,go,kitchen,orange
+clear a cookies from the canteen,place,kitchen,cookies
+what is is the beverage around the bedroom,question,bedroom,beverage
+specify in details vegetables from the sitting room,describe,living room,vegetables
+describe what's there beverage inside the my room,describe,bedroom,beverage
+tell what's there beverage close to the bathroom,describe,bathroom,beverage
+move over by the carrots inside the bath,go,bathroom,carrots
+explain everything you see apple inside the living room,describe,living room,apple
+answer are the banana around the bathroom,question,bathroom,banana
+pick up a beverage inside the sitting room,get,living room,beverage
+express every detail banana,describe,unknown,banana
+get the crackers close to the bedroom,get,bedroom,crackers
+describe what's there item in the canteen,describe,kitchen,unknown
+look for the apple inside the bath,get,bathroom,apple
+search for some orange around the my room,get,bedroom,orange
+tell every detail soda from the pantry,describe,kitchen,soda
+clear away the tomato near the my room,place,bedroom,tomato
+specify what you see water close to the parlor,describe,living room,water
+report in details tomato in the canteen,describe,kitchen,tomato
+drive towards the orange by the bathroom,go,bathroom,orange
+present everything you see chips by the living room,describe,living room,chips
+explain every detail item by the bathroom,describe,bathroom,unknown
+look for some water inside the bathroom,get,bathroom,water
+navigate near the banana,go,unknown,banana
+head over by the parlor,go,living room,unknown
+what are you do cookies,question,unknown,cookies
+take the item by the my room,place,bedroom,unknown
+what is you do chips from the bedroom,question,bedroom,chips
+clear away a corn in the sitting room,place,living room,corn
+get some apple in the canteen,get,kitchen,apple
+store an apple inside the canteen,place,kitchen,apple
+store a tuna from the bathroom,place,bathroom,tuna
+get a chips by the living room,get,living room,chips
+throw out an item close to the my room,place,bedroom,unknown
+search for the orange by the parlor,get,living room,orange
+proceed over by the carrots,go,unknown,carrots
+tell what's there peas,describe,unknown,peas
+throw away a thing from the parlor,place,living room,unknown
+grab a soda,get,unknown,soda
+clear a water in the my room,place,bedroom,water
+present every detail corn near the bedroom,describe,bedroom,corn
+what is you tell water by the pantry,question,kitchen,water
+answer you do object around the parlor,question,living room,unknown
+present what's there tomato from the my room,describe,bedroom,tomato
+find me an orange near the kitchen,get,kitchen,orange
+report what you see corn near the parlor,describe,living room,corn
+pick up the beverage by the bath,get,bathroom,beverage
+store the apple close to the sitting room,place,living room,apple
+place the beverage,place,unknown,beverage
+describe what you see banana by the canteen,describe,kitchen,banana
+get me a beverage in the sitting room,get,living room,beverage
+clear away a beverage in the bath,place,bathroom,beverage
+go by the chips close to the bath,go,bathroom,chips
+what is you do object near the my room,question,bedroom,unknown
+clear the corn from the bath,place,bathroom,corn
+tell what you see chips near the bath,describe,bathroom,chips
+store an item inside the bath,place,bathroom,unknown
+clean the carrots close to the my room,place,bedroom,carrots
+go near the soda,go,unknown,soda
+move near the apple from the bath,go,bathroom,apple
+locate an item inside the kitchen,get,kitchen,unknown
+proceed towards the corn inside the pantry,go,kitchen,corn
+grab some apple,get,unknown,apple
+drive by the apple in the my room,go,bedroom,apple
+would you do chips around the bath,question,bathroom,chips
+what are you tell tuna inside the my room,question,bedroom,tuna
+throw away a cookies near the kitchen,place,kitchen,cookies
+put away the object from the canteen,place,kitchen,unknown
+what are is the apple,question,unknown,apple
+move toward the orange by the bedroom,go,bedroom,orange
+retrieve some carrots near the bedroom,get,bedroom,carrots
+tell every detail cookies from the parlor,describe,living room,cookies
+throw out a chips near the kitchen,place,kitchen,chips
+tell in details banana close to the sitting room,describe,living room,banana
+explain what you see soda close to the canteen,describe,kitchen,soda
+specify everything you see item inside the pantry,describe,kitchen,unknown
+would you tell soda inside the bath,question,bathroom,soda
+bring me some soda from the my room,get,bedroom,soda
+fetch the banana inside the sitting room,get,living room,banana
+navigate near the chips near the parlor,go,living room,chips
+locate a peas near the bath,get,bathroom,peas
+pick up some thing by the pantry,get,kitchen,unknown
+present what you see chips near the kitchen,describe,kitchen,chips
+where you tell tuna,question,unknown,tuna
+how you tell chips around the living room,question,living room,chips
+put away the chips in the bedroom,place,bedroom,chips
+go over to the corn close to the my room,go,bedroom,corn
+would you do water in the bedroom,question,bedroom,water
+proceed over to the crackers around the pantry,go,kitchen,crackers
+clear away the beverage from the bathroom,place,bathroom,beverage
+specify every detail crackers by the bathroom,describe,bathroom,crackers
+drive towards the bedroom,go,bedroom,unknown
+grab me a tomato from the bath,get,bathroom,tomato
+put away the water in the canteen,place,kitchen,water
+proceed by the banana close to the bathroom,go,bathroom,banana
+pick up the tomato close to the bath,get,bathroom,tomato
+tidy up the corn,place,unknown,corn
+would is the vegetables around the bath,question,bathroom,vegetables
+tell every detail corn around the bath,describe,bathroom,corn
+answer you tell crackers,question,unknown,crackers
+how are the peas near the kitchen,question,kitchen,peas
+pick up some corn in the bathroom,get,bathroom,corn
+what is you tell orange,question,unknown,orange
+grab some orange from the canteen,get,kitchen,orange
+describe every detail water in the my room,describe,bedroom,water
+what is you tell apple from the parlor,question,living room,apple
+put back a thing around the my room,place,bedroom,unknown
+explain what's there item from the bedroom,describe,bedroom,unknown
+go towards the banana close to the sitting room,go,living room,banana
+look for a cookies near the bathroom,get,bathroom,cookies
+where is the apple,question,unknown,apple
+throw away a thing from the bath,place,bathroom,unknown
+head over by the tuna by the my room,go,bedroom,tuna
+find me a soda,get,unknown,soda
+explain every detail crackers,describe,unknown,crackers
+clean up an item close to the bathroom,place,bathroom,unknown
+how you do cookies,question,unknown,cookies
+move towards the tuna inside the my room,go,bedroom,tuna
+tidy up a crackers by the parlor,place,living room,crackers
+place the beverage around the parlor,place,living room,beverage
+present in details cookies by the living room,describe,living room,cookies
+tell what you see beverage by the kitchen,describe,kitchen,beverage
+get me a cookies around the bedroom,get,bedroom,cookies
+move by the beverage,go,unknown,beverage
+what is are the tomato,question,unknown,tomato
+proceed toward the crackers from the pantry,go,kitchen,crackers
+head by the orange from the bathroom,go,bathroom,orange
+question you tell carrots in the parlor,question,living room,carrots
+drive to the cookies close to the my room,go,bedroom,cookies
+would you do tomato close to the my room,question,bedroom,tomato
+identify the item in the kitchen,get,kitchen,unknown
+pick up the soda by the bathroom,get,bathroom,soda
+locate some water in the bedroom,get,bedroom,water
+question are the water inside the pantry,question,kitchen,water
+specify every detail cookies around the living room,describe,living room,cookies
+proceed over by the cookies from the bathroom,go,bathroom,cookies
+clean a chips close to the bathroom,place,bathroom,chips
+what is you tell crackers inside the bathroom,question,bathroom,crackers
+find a banana,get,unknown,banana
+specify in details corn from the living room,describe,living room,corn
+grab me a soda close to the living room,get,living room,soda
+how is the orange from the bathroom,question,bathroom,orange
+find some tuna inside the bath,get,bathroom,tuna
+place the thing inside the bathroom,place,bathroom,unknown
+answer you tell thing close to the canteen,question,kitchen,unknown
+specify everything you see tuna around the my room,describe,bedroom,tuna
+move by the apple inside the canteen,go,kitchen,apple
+store a corn inside the living room,place,living room,corn
+how are the water in the bedroom,question,bedroom,water
+tidy up the carrots inside the sitting room,place,living room,carrots
+what is you do apple by the parlor,question,living room,apple
+could are the vegetables by the kitchen,question,kitchen,vegetables
+grab the chips,get,unknown,chips
+put away a tuna by the bedroom,place,bedroom,tuna
+put back an object around the bath,place,bathroom,unknown
+grab me the crackers,get,unknown,crackers
+where are the thing in the living room,question,living room,unknown
+retrieve the apple near the bathroom,get,bathroom,apple
+would are the water in the bathroom,question,bathroom,water
+throw out the banana,place,unknown,banana
+navigate near the crackers,go,unknown,crackers
+clear the chips around the living room,place,living room,chips
+answer you tell chips close to the bath,question,bathroom,chips
+navigate by the bedroom,go,bedroom,unknown
+take the tomato near the bath,place,bathroom,tomato
+get me some crackers near the bath,get,bathroom,crackers
+drive over by the cookies,go,unknown,cookies
+fetch some vegetables near the bedroom,get,bedroom,vegetables
+head towards the chips,go,unknown,chips
+look for a cookies,get,unknown,cookies
+proceed toward the canteen,go,kitchen,unknown
+find a tomato around the parlor,get,living room,tomato
+find me some banana,get,unknown,banana
+throw out an orange close to the living room,place,living room,orange
+fetch me the peas close to the my room,get,bedroom,peas
+find me a soda in the my room,get,bedroom,soda
+clear the soda near the my room,place,bedroom,soda
+explain everything you see apple in the bathroom,describe,bathroom,apple
+question you tell apple,question,unknown,apple
+fetch me a crackers by the my room,get,bedroom,crackers
+present in details carrots close to the bathroom,describe,bathroom,carrots
+throw away a tomato by the bedroom,place,bedroom,tomato
+drive over by the tomato in the sitting room,go,living room,tomato
+express everything you see corn close to the canteen,describe,kitchen,corn
+tidy a cookies close to the living room,place,living room,cookies
+what are you do water in the bathroom,question,bathroom,water
+drive toward the vegetables,go,unknown,vegetables
+present every detail peas near the canteen,describe,kitchen,peas
+move near the banana from the parlor,go,living room,banana
+put away a carrots near the bath,place,bathroom,carrots
+place a vegetables by the living room,place,living room,vegetables
+bring me some chips from the bath,get,bathroom,chips
+navigate to the cookies from the kitchen,go,kitchen,cookies
+get some apple from the living room,get,living room,apple
+move toward the living room,go,living room,unknown
+put away the crackers from the bedroom,place,bedroom,crackers
+where you do chips in the parlor,question,living room,chips
+head over by the parlor,go,living room,unknown
+navigate by the soda around the living room,go,living room,soda
+tell in details thing from the kitchen,describe,kitchen,unknown
+find the crackers inside the sitting room,get,living room,crackers
+clear away a crackers,place,unknown,crackers
+would you do object from the bath,question,bathroom,unknown
+what are you tell banana near the sitting room,question,living room,banana
+move near the soda near the bath,go,bathroom,soda
+answer is the item inside the bath,question,bathroom,unknown
+grab me a carrots from the sitting room,get,living room,carrots
+grab me the thing inside the sitting room,get,living room,unknown
+fetch the banana from the kitchen,get,kitchen,banana
+tell what you see item from the bath,describe,bathroom,unknown
+what is you tell tuna near the pantry,question,kitchen,tuna
+move toward the crackers by the canteen,go,kitchen,crackers
+what are is the soda from the bathroom,question,bathroom,soda
+find me the carrots around the parlor,get,living room,carrots
+report what's there object around the kitchen,describe,kitchen,unknown
+place the carrots close to the my room,place,bedroom,carrots
+locate the thing by the canteen,get,kitchen,unknown
+proceed to the crackers by the kitchen,go,kitchen,crackers
+could you tell item close to the bathroom,question,bathroom,unknown
+question are the orange from the bathroom,question,bathroom,orange
+express what's there orange around the canteen,describe,kitchen,orange
+take the cookies,place,unknown,cookies
+move over to the crackers near the kitchen,go,kitchen,crackers
+navigate to the water,go,unknown,water
+take a carrots by the pantry,place,kitchen,carrots
+report what's there peas inside the my room,describe,bedroom,peas
+move near the cookies around the sitting room,go,living room,cookies
+express what's there soda close to the sitting room,describe,living room,soda
+head over by the chips close to the canteen,go,kitchen,chips
+clear the tomato inside the bath,place,bathroom,tomato
+what are you do tuna around the bedroom,question,bedroom,tuna
+what is you tell orange from the pantry,question,kitchen,orange
+explain in details object by the bath,describe,bathroom,unknown
+fetch the chips,get,unknown,chips
+look for some chips,get,unknown,chips
+describe every detail cookies,describe,unknown,cookies
+answer are the crackers by the sitting room,question,living room,crackers
+put away a corn in the living room,place,living room,corn
+answer is the vegetables in the parlor,question,living room,vegetables
+would is the tuna in the sitting room,question,living room,tuna
+how is the soda by the bathroom,question,bathroom,soda
+explain in details vegetables from the living room,describe,living room,vegetables
+throw out a crackers by the canteen,place,kitchen,crackers
+look for a beverage inside the kitchen,get,kitchen,beverage
+would you do corn close to the pantry,question,kitchen,corn
+move near the water,go,unknown,water
+look for some tuna near the pantry,get,kitchen,tuna
+throw out a thing in the sitting room,place,living room,unknown
+where you tell cookies,question,unknown,cookies
+grab some object close to the parlor,get,living room,unknown
+question you do apple,question,unknown,apple
+answer is the beverage near the bathroom,question,bathroom,beverage
+proceed toward the banana,go,unknown,banana
+drive near the beverage by the living room,go,living room,beverage
+describe everything you see orange,describe,unknown,orange
+take a carrots in the sitting room,place,living room,carrots
+clean the water close to the pantry,place,kitchen,water
+what are is the water around the my room,question,bedroom,water
+get the chips close to the bath,get,bathroom,chips
+proceed to the beverage by the pantry,go,kitchen,beverage
+express everything you see item around the bedroom,describe,bedroom,unknown
+head toward the pantry,go,kitchen,unknown
+navigate towards the orange in the pantry,go,kitchen,orange
+navigate over to the soda close to the kitchen,go,kitchen,soda
+fetch some corn,get,unknown,corn
+retrieve some beverage in the canteen,get,kitchen,beverage
+move toward the tuna around the my room,go,bedroom,tuna
+put away the water,place,unknown,water
+throw away a tomato around the bedroom,place,bedroom,tomato
+drive over by the banana inside the my room,go,bedroom,banana
+tidy up an apple near the parlor,place,living room,apple
+go to the crackers,go,unknown,crackers
+drive to the beverage by the bath,go,bathroom,beverage
+grab an orange around the bathroom,get,bathroom,orange
+identify a chips by the parlor,get,living room,chips
+proceed towards the water in the my room,go,bedroom,water
+navigate towards the tuna by the canteen,go,kitchen,tuna
+get me some crackers inside the bedroom,get,bedroom,crackers
+present what you see water close to the bedroom,describe,bedroom,water
+present what you see cookies in the pantry,describe,kitchen,cookies
+proceed toward the water by the kitchen,go,kitchen,water
+proceed near the cookies around the pantry,go,kitchen,cookies
+would you tell crackers,question,unknown,crackers
+answer you do banana around the bath,question,bathroom,banana
+proceed toward the bathroom,go,bathroom,unknown
+answer you do water,question,unknown,water
+place the object close to the my room,place,bedroom,unknown
+clean up a peas from the bath,place,bathroom,peas
+question is the object close to the canteen,question,kitchen,unknown
+store the beverage from the bathroom,place,bathroom,beverage
+would you tell cookies from the parlor,question,living room,cookies
+would are the soda close to the bath,question,bathroom,soda
+describe everything you see water,describe,unknown,water
+where you do cookies by the bath,question,bathroom,cookies
+tell what's there beverage inside the parlor,describe,living room,beverage
+pick up some beverage around the my room,get,bedroom,beverage
+drive over to the water inside the kitchen,go,kitchen,water
+tell in details carrots by the my room,describe,bedroom,carrots
+throw away a carrots,place,unknown,carrots
+tidy an orange inside the parlor,place,living room,orange
+describe what's there chips by the sitting room,describe,living room,chips
+present what's there chips around the bath,describe,bathroom,chips
+drive near the parlor,go,living room,unknown
+express what you see object in the sitting room,describe,living room,unknown
+search for some beverage in the my room,get,bedroom,beverage
+what is you tell water,question,unknown,water
+find the item near the my room,get,bedroom,unknown
+could are the carrots close to the parlor,question,living room,carrots
+could is the banana in the bedroom,question,bedroom,banana
+specify every detail banana,describe,unknown,banana
+grab me the vegetables from the parlor,get,living room,vegetables
+describe in details crackers in the bedroom,describe,bedroom,crackers
+how is the object close to the bathroom,question,bathroom,unknown
+look for the tuna by the living room,get,living room,tuna
+would you tell banana inside the parlor,question,living room,banana
+retrieve some beverage from the kitchen,get,kitchen,beverage
+explain everything you see apple,describe,unknown,apple
+could are the orange near the living room,question,living room,orange
+report what's there crackers by the bathroom,describe,bathroom,crackers
+clear away the object close to the bath,place,bathroom,unknown
+throw away a tuna,place,unknown,tuna
+go toward the tuna close to the bedroom,go,bedroom,tuna
+would you do apple inside the pantry,question,kitchen,apple
+what are are the beverage around the bedroom,question,bedroom,beverage
+put away a beverage from the living room,place,living room,beverage
+grab me an orange,get,unknown,orange
+question is the tomato in the parlor,question,living room,tomato
+put back a crackers,place,unknown,crackers
+tidy an object close to the my room,place,bedroom,unknown
+explain everything you see beverage from the bathroom,describe,bathroom,beverage
+bring me the banana,get,unknown,banana
+what is you tell water around the bathroom,question,bathroom,water
+tell what's there apple in the my room,describe,bedroom,apple
+tell everything you see orange,describe,unknown,orange
+throw away a water,place,unknown,water
+report what's there peas from the bath,describe,bathroom,peas
+search for some item in the bathroom,get,bathroom,unknown
+drive toward the cookies in the sitting room,go,living room,cookies
+where you do orange close to the parlor,question,living room,orange
+throw out a banana inside the kitchen,place,kitchen,banana
+tidy up a water near the parlor,place,living room,water
+drive by the kitchen,go,kitchen,unknown
+bring me a cookies close to the canteen,get,kitchen,cookies
+express what's there peas,describe,unknown,peas
+pick up the item in the kitchen,get,kitchen,unknown
+get some soda near the bedroom,get,bedroom,soda
+navigate toward the carrots from the living room,go,living room,carrots
+question is the apple,question,unknown,apple
+question are the thing in the living room,question,living room,unknown
+bring some chips from the bath,get,bathroom,chips
+get some corn,get,unknown,corn
+move towards the beverage near the kitchen,go,kitchen,beverage
+explain what's there cookies from the pantry,describe,kitchen,cookies
+bring an apple by the kitchen,get,kitchen,apple
+clear the thing from the bedroom,place,bedroom,unknown
+how you do banana close to the parlor,question,living room,banana
+move to the pantry,go,kitchen,unknown
+how you tell water around the my room,question,bedroom,water
+where you tell cookies from the bedroom,question,bedroom,cookies
+specify everything you see item by the sitting room,describe,living room,unknown
+specify everything you see soda from the bath,describe,bathroom,soda
+answer you do crackers,question,unknown,crackers
+what are you tell item from the bath,question,bathroom,unknown
+clear the orange,place,unknown,orange
+fetch some beverage inside the bath,get,bathroom,beverage
+go over to the chips inside the pantry,go,kitchen,chips
+get some tomato close to the pantry,get,kitchen,tomato
+search for the tuna in the bath,get,bathroom,tuna
+find the crackers,get,unknown,crackers
+describe what you see cookies around the kitchen,describe,kitchen,cookies
+describe every detail apple around the pantry,describe,kitchen,apple
+head by the chips near the canteen,go,kitchen,chips
+proceed over by the tomato around the sitting room,go,living room,tomato
+navigate over by the sitting room,go,living room,unknown
+drive toward the tuna near the my room,go,bedroom,tuna
+express what's there beverage,describe,unknown,beverage
+proceed over to the apple near the bathroom,go,bathroom,apple
+clear the water,place,unknown,water
+question are the apple,question,unknown,apple
+grab me the beverage by the pantry,get,kitchen,beverage
+head over to the vegetables around the canteen,go,kitchen,vegetables
+clean up the thing inside the sitting room,place,living room,unknown
+how you tell beverage,question,unknown,beverage
+report what you see item in the parlor,describe,living room,unknown
+report every detail crackers in the bath,describe,bathroom,crackers
+present what you see chips,describe,unknown,chips
+store the chips from the kitchen,place,kitchen,chips
+tell everything you see tomato close to the sitting room,describe,living room,tomato
+move toward the water in the bathroom,go,bathroom,water
+head toward the bathroom,go,bathroom,unknown
+take the tomato close to the sitting room,place,living room,tomato
+head towards the kitchen,go,kitchen,unknown
+could you do water inside the living room,question,living room,water
+store an object inside the sitting room,place,living room,unknown
+clear away the object around the parlor,place,living room,unknown
+explain everything you see crackers inside the canteen,describe,kitchen,crackers
+where are the crackers,question,unknown,crackers
+question you tell banana near the canteen,question,kitchen,banana
+search for the banana,get,unknown,banana
+could you tell banana close to the bath,question,bathroom,banana
+navigate towards the chips around the bathroom,go,bathroom,chips
+proceed toward the soda by the bath,go,bathroom,soda
+fetch me some thing in the sitting room,get,living room,unknown
+present every detail thing near the my room,describe,bedroom,unknown
+what is you tell crackers,question,unknown,crackers
+find me a soda around the pantry,get,kitchen,soda
+present everything you see apple,describe,unknown,apple
+go to the bedroom,go,bedroom,unknown
+describe every detail crackers in the sitting room,describe,living room,crackers
+question you tell water from the kitchen,question,kitchen,water
+clear a tomato,place,unknown,tomato
+report every detail banana,describe,unknown,banana
+identify the banana by the kitchen,get,kitchen,banana
+fetch the orange around the kitchen,get,kitchen,orange
+put away a beverage,place,unknown,beverage
+go to the carrots by the bath,go,bathroom,carrots
+drive to the orange,go,unknown,orange
+move towards the bedroom,go,bedroom,unknown
+could you do peas close to the pantry,question,kitchen,peas
+place a thing in the bedroom,place,bedroom,unknown
+throw away a thing in the pantry,place,kitchen,unknown
+express in details apple,describe,unknown,apple
+could is the thing close to the bathroom,question,bathroom,unknown
+could you do beverage near the bedroom,question,bedroom,beverage
+fetch the thing in the living room,get,living room,unknown
+clear the cookies from the bath,place,bathroom,cookies
+could are the item close to the pantry,question,kitchen,unknown
+explain everything you see cookies,describe,unknown,cookies
+put back a banana from the my room,place,bedroom,banana
+go to the kitchen,go,kitchen,unknown
+answer you do banana,question,unknown,banana
+get me a crackers by the canteen,get,kitchen,crackers
+go toward the living room,go,living room,unknown
+find an orange from the pantry,get,kitchen,orange
+could are the object from the bedroom,question,bedroom,unknown
+grab some tuna around the parlor,get,living room,tuna
+present everything you see cookies near the canteen,describe,kitchen,cookies
+clear the cookies close to the kitchen,place,kitchen,cookies
+grab a chips,get,unknown,chips
+take the crackers in the pantry,place,kitchen,crackers
+describe in details chips near the sitting room,describe,living room,chips
+clean up the peas around the living room,place,living room,peas
+would you tell apple in the kitchen,question,kitchen,apple
+navigate over to the banana around the canteen,go,kitchen,banana
+drive to the corn,go,unknown,corn
+question is the crackers inside the bedroom,question,bedroom,crackers
+drive to the crackers,go,unknown,crackers
+navigate over by the bath,go,bathroom,unknown
+tell every detail tomato from the bedroom,describe,bedroom,tomato
+answer you tell crackers near the living room,question,living room,crackers
+how you tell orange by the kitchen,question,kitchen,orange
+tidy the object by the sitting room,place,living room,unknown
+could you do water,question,unknown,water
+find me a beverage near the living room,get,living room,beverage
+present in details soda from the bedroom,describe,bedroom,soda
+head toward the cookies around the bathroom,go,bathroom,cookies
+move by the banana inside the bathroom,go,bathroom,banana
+move toward the chips around the bathroom,go,bathroom,chips
+describe in details item close to the bathroom,describe,bathroom,unknown
+fetch me an orange by the bedroom,get,bedroom,orange
+explain what you see orange,describe,unknown,orange
+put back an apple by the kitchen,place,kitchen,apple
+present every detail apple around the bedroom,describe,bedroom,apple
+find me the cookies close to the living room,get,living room,cookies
+clean an apple in the parlor,place,living room,apple
+move over by the orange by the bath,go,bathroom,orange
+express everything you see cookies from the living room,describe,living room,cookies
+find me some chips inside the parlor,get,living room,chips
+take a carrots,place,unknown,carrots
+take the water,place,unknown,water
+put away a thing close to the my room,place,bedroom,unknown
+clean up a corn,place,unknown,corn
+get me some item in the sitting room,get,living room,unknown
+clean up the banana by the bathroom,place,bathroom,banana
+tidy up an object from the living room,place,living room,unknown
+proceed near the banana,go,unknown,banana
+head near the apple by the my room,go,bedroom,apple
+head toward the corn near the kitchen,go,kitchen,corn
+throw away the beverage,place,unknown,beverage
+explain what you see apple in the canteen,describe,kitchen,apple
+throw away a crackers close to the bathroom,place,bathroom,crackers
+what are are the cookies near the bath,question,bathroom,cookies
+report everything you see orange from the living room,describe,living room,orange
+grab me some crackers from the bedroom,get,bedroom,crackers
+how you do peas,question,unknown,peas
+fetch me a chips,get,unknown,chips
+go toward the chips by the bath,go,bathroom,chips
+locate some banana,get,unknown,banana
+clean the chips from the bath,place,bathroom,chips
+take the corn in the bathroom,place,bathroom,corn
+navigate over to the beverage by the kitchen,go,kitchen,beverage
+navigate near the water by the bathroom,go,bathroom,water
+present in details beverage close to the parlor,describe,living room,beverage
+what are is the thing from the bedroom,question,bedroom,unknown
+navigate towards the bedroom,go,bedroom,unknown
+present in details cookies by the canteen,describe,kitchen,cookies
+what is you do corn in the bathroom,question,bathroom,corn
+what are you do apple by the pantry,question,kitchen,apple
+get a thing near the bath,get,bathroom,unknown
+clear a corn near the bedroom,place,bedroom,corn
+store the crackers in the my room,place,bedroom,crackers
+put back the object inside the parlor,place,living room,unknown
+describe everything you see water close to the parlor,describe,living room,water
+locate some beverage,get,unknown,beverage
+grab a banana inside the bath,get,bathroom,banana
+present what you see tuna from the canteen,describe,kitchen,tuna
+put back a thing near the bedroom,place,bedroom,unknown
+where you tell crackers,question,unknown,crackers
+what are is the soda by the living room,question,living room,soda
+answer you tell tuna close to the sitting room,question,living room,tuna
+bring the corn,get,unknown,corn
+retrieve a vegetables by the bedroom,get,bedroom,vegetables
+specify in details apple close to the parlor,describe,living room,apple
+fetch me the beverage near the my room,get,bedroom,beverage
+drive over to the soda inside the bath,go,bathroom,soda
+tidy the orange by the bedroom,place,bedroom,orange
+specify every detail banana close to the kitchen,describe,kitchen,banana
+pick up a tuna near the parlor,get,living room,tuna
+tell every detail corn in the kitchen,describe,kitchen,corn
+specify every detail thing in the bathroom,describe,bathroom,unknown
+clear away a cookies inside the kitchen,place,kitchen,cookies
+describe in details item close to the parlor,describe,living room,unknown
+question is the tuna,question,unknown,tuna
+go near the water,go,unknown,water
+present everything you see tuna,describe,unknown,tuna
+express what's there crackers inside the sitting room,describe,living room,crackers
+go to the water from the my room,go,bedroom,water
+express what's there apple,describe,unknown,apple
+move near the tomato inside the bath,go,bathroom,tomato
+navigate near the apple,go,unknown,apple
+get the banana near the bath,get,bathroom,banana
+report what you see corn near the bath,describe,bathroom,corn
+fetch me the crackers near the bathroom,get,bathroom,crackers
+could you do crackers from the pantry,question,kitchen,crackers
+fetch a corn around the my room,get,bedroom,corn
+what are you do chips around the kitchen,question,kitchen,chips
+proceed over by the crackers,go,unknown,crackers
+report what you see apple near the kitchen,describe,kitchen,apple
+express in details banana in the bedroom,describe,bedroom,banana
+head near the cookies near the bedroom,go,bedroom,cookies
+search for an orange from the bath,get,bathroom,orange
+express everything you see item close to the bathroom,describe,bathroom,unknown
+proceed to the peas inside the bathroom,go,bathroom,peas
+describe what's there soda close to the parlor,describe,living room,soda
+put back the beverage from the sitting room,place,living room,beverage
+go towards the bathroom,go,bathroom,unknown
+move toward the orange inside the bedroom,go,bedroom,orange
+get some thing around the my room,get,bedroom,unknown
+what is is the chips by the bedroom,question,bedroom,chips
+drive to the chips in the living room,go,living room,chips
+pick up some tomato,get,unknown,tomato
+specify what's there corn,describe,unknown,corn
+tidy up the tomato by the parlor,place,living room,tomato
+place the object inside the living room,place,living room,unknown
+drive over by the chips in the canteen,go,kitchen,chips
+present in details apple close to the living room,describe,living room,apple
+question you tell chips near the pantry,question,kitchen,chips
+answer is the thing around the pantry,question,kitchen,unknown
+express every detail water by the sitting room,describe,living room,water
+throw away a water inside the my room,place,bedroom,water
+describe what you see banana inside the sitting room,describe,living room,banana
+clean up a crackers from the sitting room,place,living room,crackers
+answer you do apple in the bedroom,question,bedroom,apple
+what are you tell cookies inside the living room,question,living room,cookies
+tell every detail corn close to the canteen,describe,kitchen,corn
+go over to the orange,go,unknown,orange
+navigate to the orange from the bathroom,go,bathroom,orange
+go toward the bathroom,go,bathroom,unknown
+fetch the water inside the bathroom,get,bathroom,water
+report every detail soda by the kitchen,describe,kitchen,soda
+clear away the beverage from the pantry,place,kitchen,beverage
+explain everything you see cookies,describe,unknown,cookies
+describe every detail item inside the my room,describe,bedroom,unknown
+what are are the item from the my room,question,bedroom,unknown
+move by the apple,go,unknown,apple
+bring the object by the sitting room,get,living room,unknown
+move to the vegetables,go,unknown,vegetables
+proceed towards the carrots around the bath,go,bathroom,carrots
+explain what's there chips in the bedroom,describe,bedroom,chips
+specify what you see beverage in the bedroom,describe,bedroom,beverage
+head over to the carrots,go,unknown,carrots
+express in details apple from the bathroom,describe,bathroom,apple
+place the banana from the canteen,place,kitchen,banana
+look for some chips close to the bath,get,bathroom,chips
+answer you tell item from the bathroom,question,bathroom,unknown
+clean the orange from the my room,place,bedroom,orange
+move over by the orange around the sitting room,go,living room,orange
+what is you tell beverage around the pantry,question,kitchen,beverage
+identify the crackers in the kitchen,get,kitchen,crackers
+tell every detail item by the parlor,describe,living room,unknown
+question you do beverage by the canteen,question,kitchen,beverage
+what are is the water by the sitting room,question,living room,water
+head over to the peas,go,unknown,peas
+describe what you see vegetables,describe,unknown,vegetables
+answer you do chips,question,unknown,chips
+throw out a soda near the canteen,place,kitchen,soda
+express every detail item inside the sitting room,describe,living room,unknown
+answer you do orange,question,unknown,orange
+how you tell orange,question,unknown,orange
+tidy up the corn,place,unknown,corn
+find me a tomato near the sitting room,get,living room,tomato
+express what's there beverage inside the sitting room,describe,living room,beverage
+answer are the peas in the bath,question,bathroom,peas
+report what's there orange inside the bedroom,describe,bedroom,orange
+report what's there crackers by the sitting room,describe,living room,crackers
+navigate near the crackers around the pantry,go,kitchen,crackers
+tidy up a soda near the bathroom,place,bathroom,soda
+what is you tell orange,question,unknown,orange
+fetch me some crackers inside the bedroom,get,bedroom,crackers
+specify everything you see orange,describe,unknown,orange
+present every detail tomato from the bathroom,describe,bathroom,tomato
+report what you see beverage in the bathroom,describe,bathroom,beverage
+explain everything you see crackers close to the bath,describe,bathroom,crackers
+express every detail crackers from the pantry,describe,kitchen,crackers
+where is the crackers by the bathroom,question,bathroom,crackers
+present what's there apple,describe,unknown,apple
+clear the cookies near the kitchen,place,kitchen,cookies
+specify in details beverage in the parlor,describe,living room,beverage
+answer you tell soda,question,unknown,soda
+tell everything you see orange from the my room,describe,bedroom,orange
+put back an item inside the parlor,place,living room,unknown
+report in details peas from the sitting room,describe,living room,peas
+proceed toward the pantry,go,kitchen,unknown
+tidy the object inside the bath,place,bathroom,unknown
+answer you do thing by the living room,question,living room,unknown
+how you do object near the sitting room,question,living room,unknown
+specify in details water in the sitting room,describe,living room,water
+answer is the corn from the my room,question,bedroom,corn
+go towards the water near the bathroom,go,bathroom,water
+look for an item around the bath,get,bathroom,unknown
+go towards the water from the sitting room,go,living room,water
+put back a cookies,place,unknown,cookies
+tell every detail tuna close to the bedroom,describe,bedroom,tuna
+go towards the my room,go,bedroom,unknown
+put back the vegetables,place,unknown,vegetables
+tell what you see cookies inside the canteen,describe,kitchen,cookies
+move towards the chips inside the sitting room,go,living room,chips
+move by the tomato close to the living room,go,living room,tomato
+report what you see beverage in the bathroom,describe,bathroom,beverage
+throw away a tuna around the sitting room,place,living room,tuna
+express what's there carrots by the parlor,describe,living room,carrots
+find me a beverage inside the living room,get,living room,beverage
+move over by the carrots,go,unknown,carrots
+proceed by the beverage inside the living room,go,living room,beverage
+clean an apple in the sitting room,place,living room,apple
+proceed to the bath,go,bathroom,unknown
+fetch me the banana by the bathroom,get,bathroom,banana
+what is are the corn inside the sitting room,question,living room,corn
+get a peas close to the pantry,get,kitchen,peas
+tidy up the water in the parlor,place,living room,water
+would are the banana close to the bedroom,question,bedroom,banana
+could you do orange,question,unknown,orange
+question you tell chips,question,unknown,chips
+what is you do thing close to the canteen,question,kitchen,unknown
+what is is the cookies near the living room,question,living room,cookies
+present every detail banana,describe,unknown,banana
+answer is the orange by the bedroom,question,bedroom,orange
+grab some crackers around the my room,get,bedroom,crackers
+move to the soda around the bathroom,go,bathroom,soda
+clean up the soda near the my room,place,bedroom,soda
+what is you do crackers in the bedroom,question,bedroom,crackers
+explain what you see carrots,describe,unknown,carrots
+store an orange from the my room,place,bedroom,orange
+tidy up the orange inside the canteen,place,kitchen,orange
+what is you tell beverage by the bathroom,question,bathroom,beverage
+proceed over by the corn,go,unknown,corn
+answer is the soda,question,unknown,soda
+get me the item in the bedroom,get,bedroom,unknown
+navigate over to the banana around the kitchen,go,kitchen,banana
+navigate toward the apple,go,unknown,apple
+would you tell vegetables close to the canteen,question,kitchen,vegetables
+throw away the cookies close to the kitchen,place,kitchen,cookies
+how you do water inside the canteen,question,kitchen,water
+clean the carrots inside the sitting room,place,living room,carrots
+move over to the crackers near the parlor,go,living room,crackers
+describe every detail tuna by the bathroom,describe,bathroom,tuna
+question are the water in the bath,question,bathroom,water
+proceed by the chips,go,unknown,chips
+tidy a banana around the my room,place,bedroom,banana
+drive near the bath,go,bathroom,unknown
+where are the thing in the bedroom,question,bedroom,unknown
+put away a thing close to the parlor,place,living room,unknown
+navigate toward the cookies around the sitting room,go,living room,cookies
+could you tell cookies by the sitting room,question,living room,cookies
+head over by the vegetables around the bedroom,go,bedroom,vegetables
+move over by the chips around the bathroom,go,bathroom,chips
+tell in details beverage,describe,unknown,beverage
+how are the thing in the sitting room,question,living room,unknown
+explain everything you see object by the bathroom,describe,bathroom,unknown
+specify what you see item around the kitchen,describe,kitchen,unknown
+pick up some cookies close to the bathroom,get,bathroom,cookies
+proceed over by the bedroom,go,bedroom,unknown
+put away a water,place,unknown,water
+move toward the banana by the bedroom,go,bedroom,banana
+what is you do beverage,question,unknown,beverage
+look for a soda,get,unknown,soda
+identify an orange by the pantry,get,kitchen,orange
+what are you do crackers,question,unknown,crackers
+what are are the banana close to the living room,question,living room,banana
+proceed over by the beverage near the bath,go,bathroom,beverage
+specify everything you see tuna from the bedroom,describe,bedroom,tuna
+clean up an item from the bath,place,bathroom,unknown
+could you tell beverage in the sitting room,question,living room,beverage
+move towards the water,go,unknown,water
+throw out a banana,place,unknown,banana
+describe what's there orange close to the bath,describe,bathroom,orange
+fetch me some orange by the living room,get,living room,orange
+fetch me a beverage inside the sitting room,get,living room,beverage
+drive to the soda close to the parlor,go,living room,soda
+tidy the peas close to the parlor,place,living room,peas
+identify some item in the bath,get,bathroom,unknown
+grab me some cookies,get,unknown,cookies
+fetch some beverage inside the bedroom,get,bedroom,beverage
+throw away the object near the bathroom,place,bathroom,unknown
+grab the orange near the bath,get,bathroom,orange
+throw out the corn by the kitchen,place,kitchen,corn
+bring some apple in the bath,get,bathroom,apple
+specify what's there beverage from the kitchen,describe,kitchen,beverage
+place a soda in the bathroom,place,bathroom,soda
+go over by the living room,go,living room,unknown
+tidy up a chips by the bathroom,place,bathroom,chips
+specify in details carrots close to the my room,describe,bedroom,carrots
+drive towards the bedroom,go,bedroom,unknown
+describe every detail item inside the parlor,describe,living room,unknown
+what are is the water around the bath,question,bathroom,water
+question you do beverage inside the my room,question,bedroom,beverage
+would you do peas,question,unknown,peas
+clear away a soda inside the parlor,place,living room,soda
+would you do peas around the living room,question,living room,peas
+clear the apple by the canteen,place,kitchen,apple
+get the orange in the parlor,get,living room,orange
+navigate by the canteen,go,kitchen,unknown
+proceed towards the water by the bath,go,bathroom,water
+move by the pantry,go,kitchen,unknown
+clean an object close to the kitchen,place,kitchen,unknown
+move near the beverage around the parlor,go,living room,beverage
+clear away the thing near the sitting room,place,living room,unknown
+proceed near the chips in the bath,go,bathroom,chips
+question you do beverage near the bath,question,bathroom,beverage
+proceed towards the beverage,go,unknown,beverage
+look for some apple near the my room,get,bedroom,apple
+place a peas around the canteen,place,kitchen,peas
+specify what's there banana near the parlor,describe,living room,banana
+navigate over to the water from the sitting room,go,living room,water
+go toward the vegetables in the my room,go,bedroom,vegetables
+look for the carrots,get,unknown,carrots
+navigate near the banana,go,unknown,banana
+where is the carrots in the kitchen,question,kitchen,carrots
+throw out the orange close to the bedroom,place,bedroom,orange
+head over by the bedroom,go,bedroom,unknown
+answer you do cookies in the my room,question,bedroom,cookies
+describe every detail orange by the my room,describe,bedroom,orange
+what are are the item around the pantry,question,kitchen,unknown
+describe everything you see cookies around the parlor,describe,living room,cookies
+fetch me the soda inside the kitchen,get,kitchen,soda
+question are the water,question,unknown,water
+question are the tuna,question,unknown,tuna
+find a beverage,get,unknown,beverage
+clear a soda,place,unknown,soda
+how you tell object around the canteen,question,kitchen,unknown
+report everything you see water,describe,unknown,water
+proceed over by the banana in the kitchen,go,kitchen,banana
+put away the cookies in the kitchen,place,kitchen,cookies
+drive to the carrots around the sitting room,go,living room,carrots
+specify in details thing around the canteen,describe,kitchen,unknown
+move to the bath,go,bathroom,unknown
+tell what's there crackers inside the bathroom,describe,bathroom,crackers
+express every detail thing inside the parlor,describe,living room,unknown
+throw away a thing in the pantry,place,kitchen,unknown
+get me some carrots around the canteen,get,kitchen,carrots
+report every detail thing inside the my room,describe,bedroom,unknown
+navigate towards the cookies by the bathroom,go,bathroom,cookies
+tell what's there crackers in the pantry,describe,kitchen,crackers
+describe in details vegetables inside the canteen,describe,kitchen,vegetables
+present in details apple close to the my room,describe,bedroom,apple
+how you do peas,question,unknown,peas
+store the thing near the bathroom,place,bathroom,unknown
+grab a banana,get,unknown,banana
+tidy the chips,place,unknown,chips
+place a banana,place,unknown,banana
+drive by the corn from the sitting room,go,living room,corn
+move by the beverage near the bath,go,bathroom,beverage
+question are the soda near the bath,question,bathroom,soda
+tell in details apple by the bath,describe,bathroom,apple
+drive near the water near the bath,go,bathroom,water
+navigate toward the cookies close to the pantry,go,kitchen,cookies
+bring me the item by the pantry,get,kitchen,unknown
+what is are the chips in the bedroom,question,bedroom,chips
+navigate by the chips,go,unknown,chips
+bring a banana,get,unknown,banana
+get a vegetables by the parlor,get,living room,vegetables
+clear away a tomato near the my room,place,bedroom,tomato
+would you tell crackers from the parlor,question,living room,crackers
+tidy up a vegetables around the bathroom,place,bathroom,vegetables
+go over by the cookies close to the bathroom,go,bathroom,cookies
+go toward the bathroom,go,bathroom,unknown
+express everything you see chips close to the my room,describe,bedroom,chips
+navigate to the cookies,go,unknown,cookies
+throw away the corn around the living room,place,living room,corn
+store the cookies,place,unknown,cookies
+clear away the banana by the sitting room,place,living room,banana
+navigate over to the corn close to the bedroom,go,bedroom,corn
+head by the chips from the my room,go,bedroom,chips
+report what you see orange inside the pantry,describe,kitchen,orange
+question are the cookies around the bedroom,question,bedroom,cookies
+store the cookies close to the kitchen,place,kitchen,cookies
+what is you do vegetables close to the kitchen,question,kitchen,vegetables
+express in details cookies,describe,unknown,cookies
+where are the object inside the bathroom,question,bathroom,unknown
+where you do chips close to the pantry,question,kitchen,chips
+go to the banana by the bath,go,bathroom,banana
+present what you see peas,describe,unknown,peas
+move over by the water in the bathroom,go,bathroom,water
+head toward the banana in the bedroom,go,bedroom,banana
+put back the thing around the bath,place,bathroom,unknown
+describe what you see cookies near the canteen,describe,kitchen,cookies
+clear a chips in the parlor,place,living room,chips
+head towards the apple close to the my room,go,bedroom,apple
+put back the carrots,place,unknown,carrots
+explain every detail object around the bath,describe,bathroom,unknown
+express what's there crackers from the bedroom,describe,bedroom,crackers
+proceed to the crackers in the canteen,go,kitchen,crackers
+drive over to the apple inside the my room,go,bedroom,apple
+express everything you see banana,describe,unknown,banana
+put back a carrots from the parlor,place,living room,carrots
+specify what's there crackers from the my room,describe,bedroom,crackers
+throw away the object around the bath,place,bathroom,unknown
+move over by the my room,go,bedroom,unknown
+grab the water,get,unknown,water
+answer you tell banana near the bathroom,question,bathroom,banana
+specify in details soda around the living room,describe,living room,soda
+express what's there soda by the bedroom,describe,bedroom,soda
+explain in details crackers from the bedroom,describe,bedroom,crackers
+take the vegetables inside the sitting room,place,living room,vegetables
+grab me an apple near the parlor,get,living room,apple
+move over by the cookies around the living room,go,living room,cookies
+report what's there apple by the living room,describe,living room,apple
+express what you see soda from the bath,describe,bathroom,soda
+could are the corn near the bath,question,bathroom,corn
+get a crackers from the bedroom,get,bedroom,crackers
+answer you do apple,question,unknown,apple
+clean up the water,place,unknown,water
+bring some crackers around the parlor,get,living room,crackers
+specify what's there chips near the kitchen,describe,kitchen,chips
+specify every detail item near the parlor,describe,living room,unknown
+what are is the beverage close to the living room,question,living room,beverage
+tidy the water by the bath,place,bathroom,water
+describe every detail banana near the bathroom,describe,bathroom,banana
+present every detail corn,describe,unknown,corn
+what are is the beverage,question,unknown,beverage
+specify what you see soda close to the bath,describe,bathroom,soda
+navigate near the orange close to the bathroom,go,bathroom,orange
+put back the item close to the pantry,place,kitchen,unknown
+would you do chips inside the bathroom,question,bathroom,chips
+go near the bathroom,go,bathroom,unknown
+could are the water,question,unknown,water
+move near the cookies close to the pantry,go,kitchen,cookies
+specify in details thing in the bath,describe,bathroom,unknown
+head near the beverage,go,unknown,beverage
+clean up a chips inside the sitting room,place,living room,chips
+describe everything you see beverage by the parlor,describe,living room,beverage
+retrieve a beverage around the bathroom,get,bathroom,beverage
+tell every detail orange in the bathroom,describe,bathroom,orange
+clear away the corn from the sitting room,place,living room,corn
+proceed over to the tomato by the canteen,go,kitchen,tomato
+bring a corn,get,unknown,corn
+specify what's there banana in the sitting room,describe,living room,banana
+head by the crackers in the canteen,go,kitchen,crackers
+would you do tuna from the pantry,question,kitchen,tuna
+tell in details chips from the bathroom,describe,bathroom,chips
+head over by the carrots in the canteen,go,kitchen,carrots
+take the thing near the bath,place,bathroom,unknown
+what are you tell orange inside the living room,question,living room,orange
+go toward the soda,go,unknown,soda
+drive by the sitting room,go,living room,unknown
+move near the peas inside the parlor,go,living room,peas
+specify every detail cookies,describe,unknown,cookies
+go towards the beverage,go,unknown,beverage
+navigate by the apple,go,unknown,apple
+where is the apple inside the pantry,question,kitchen,apple
+tell everything you see crackers in the bedroom,describe,bedroom,crackers
+put away the thing around the bedroom,place,bedroom,unknown
+store the thing inside the parlor,place,living room,unknown
+what are you do apple around the bath,question,bathroom,apple
+where you do item from the my room,question,bedroom,unknown
+pick up a soda in the bedroom,get,bedroom,soda
+tidy an object in the bathroom,place,bathroom,unknown
+clean up the thing close to the bath,place,bathroom,unknown
+report every detail crackers in the kitchen,describe,kitchen,crackers
+fetch some crackers,get,unknown,crackers
+proceed over to the banana around the bath,go,bathroom,banana
+specify what you see tomato from the kitchen,describe,kitchen,tomato
+express what you see banana around the bedroom,describe,bedroom,banana
+retrieve some cookies in the bath,get,bathroom,cookies
+what are are the carrots,question,unknown,carrots
+throw out an object near the sitting room,place,living room,unknown
+fetch me the peas inside the kitchen,get,kitchen,peas
+find me some thing in the kitchen,get,kitchen,unknown
+find some soda in the bedroom,get,bedroom,soda
+head over to the corn in the sitting room,go,living room,corn
+proceed by the banana,go,unknown,banana
+head over to the peas around the kitchen,go,kitchen,peas
+how is the cookies in the canteen,question,kitchen,cookies
+drive near the water,go,unknown,water
+move over to the parlor,go,living room,unknown
+report in details carrots,describe,unknown,carrots
+navigate over by the peas in the kitchen,go,kitchen,peas
+specify in details water inside the my room,describe,bedroom,water
+tidy up the soda in the sitting room,place,living room,soda
+could are the tomato near the pantry,question,kitchen,tomato
+answer you tell crackers,question,unknown,crackers
+throw out the tuna in the my room,place,bedroom,tuna
+clear a carrots close to the kitchen,place,kitchen,carrots
+present everything you see beverage near the canteen,describe,kitchen,beverage
+move near the water in the sitting room,go,living room,water
+fetch me the item in the pantry,get,kitchen,unknown
+find me some orange,get,unknown,orange
+proceed towards the chips by the kitchen,go,kitchen,chips
+present in details orange from the bath,describe,bathroom,orange
+question you tell cookies in the parlor,question,living room,cookies
+report every detail orange close to the my room,describe,bedroom,orange
+report what you see chips,describe,unknown,chips
+navigate towards the tomato,go,unknown,tomato
+navigate over to the cookies,go,unknown,cookies
+grab the peas in the my room,get,bedroom,peas
+proceed by the carrots,go,unknown,carrots
+move over to the tomato around the canteen,go,kitchen,tomato
+go to the chips,go,unknown,chips
+navigate by the bedroom,go,bedroom,unknown
+take the corn near the my room,place,bedroom,corn
+present everything you see carrots from the my room,describe,bedroom,carrots
+search for some cookies in the pantry,get,kitchen,cookies
+search for a soda from the bath,get,bathroom,soda
+specify everything you see carrots near the living room,describe,living room,carrots
+place the chips inside the bath,place,bathroom,chips
+what are is the beverage from the canteen,question,kitchen,beverage
+fetch me a soda near the parlor,get,living room,soda
+throw away the soda near the bath,place,bathroom,soda
+put away a banana near the bath,place,bathroom,banana
+find me an item near the bedroom,get,bedroom,unknown
+tell in details item in the kitchen,describe,kitchen,unknown
+specify in details orange near the pantry,describe,kitchen,orange
+navigate near the bath,go,bathroom,unknown
+place a crackers,place,unknown,crackers
+navigate to the crackers near the bedroom,go,bedroom,crackers
+look for the water around the bathroom,get,bathroom,water
+where is the beverage in the parlor,question,living room,beverage
+throw away the tomato around the parlor,place,living room,tomato
+clear the apple by the parlor,place,living room,apple
+question are the cookies near the pantry,question,kitchen,cookies
+how you do chips,question,unknown,chips
+navigate towards the corn in the my room,go,bedroom,corn
+specify what's there tuna from the my room,describe,bedroom,tuna
+navigate over to the carrots near the kitchen,go,kitchen,carrots
+clear away a tuna close to the bathroom,place,bathroom,tuna
+put away the crackers by the living room,place,living room,crackers
+report everything you see beverage close to the my room,describe,bedroom,beverage
+what are are the cookies inside the kitchen,question,kitchen,cookies
+report in details banana inside the bath,describe,bathroom,banana
+clear a beverage around the sitting room,place,living room,beverage
+express everything you see carrots by the living room,describe,living room,carrots
+present everything you see apple around the bathroom,describe,bathroom,apple
+specify what's there cookies in the living room,describe,living room,cookies
+tell every detail banana near the bedroom,describe,bedroom,banana
+head toward the soda around the canteen,go,kitchen,soda
+drive towards the corn inside the canteen,go,kitchen,corn
+navigate by the soda,go,unknown,soda
+specify in details cookies inside the bath,describe,bathroom,cookies
+report what you see soda from the pantry,describe,kitchen,soda
+put away the tomato close to the bathroom,place,bathroom,tomato
+could are the banana near the my room,question,bedroom,banana
+could you tell thing inside the my room,question,bedroom,unknown
+describe every detail beverage by the bedroom,describe,bedroom,beverage
+what are you do chips close to the living room,question,living room,chips
+search for the apple close to the sitting room,get,living room,apple
+go over to the soda,go,unknown,soda
+clear a chips from the pantry,place,kitchen,chips
+answer are the crackers near the my room,question,bedroom,crackers
+tidy up the orange inside the bathroom,place,bathroom,orange
+would you tell thing inside the bath,question,bathroom,unknown
+how is the object from the my room,question,bedroom,unknown
+question you tell soda close to the pantry,question,kitchen,soda
+grab me some corn near the my room,get,bedroom,corn
+present in details vegetables around the bath,describe,bathroom,vegetables
+explain every detail tuna inside the kitchen,describe,kitchen,tuna
+move by the corn in the pantry,go,kitchen,corn
+navigate near the apple from the my room,go,bedroom,apple
+tidy a soda close to the pantry,place,kitchen,soda
+report what's there thing near the bath,describe,bathroom,unknown
+report in details soda near the parlor,describe,living room,soda
+where are the cookies around the pantry,question,kitchen,cookies
+would you do soda near the bedroom,question,bedroom,soda
+proceed toward the orange from the bathroom,go,bathroom,orange
+head toward the chips around the bath,go,bathroom,chips
+describe what you see soda,describe,unknown,soda
+throw away a tuna around the pantry,place,kitchen,tuna
+explain what you see orange,describe,unknown,orange
+what is are the banana from the living room,question,living room,banana
+bring me the soda,get,unknown,soda
+present every detail soda close to the parlor,describe,living room,soda
+report what's there thing from the canteen,describe,kitchen,unknown
+retrieve some banana by the bath,get,bathroom,banana
+what is are the beverage around the bathroom,question,bathroom,beverage
+how you tell orange,question,unknown,orange
+fetch me the thing in the my room,get,bedroom,unknown
+fetch the apple inside the living room,get,living room,apple
+express every detail thing in the bathroom,describe,bathroom,unknown
+head toward the living room,go,living room,unknown
+look for an apple in the my room,get,bedroom,apple
+where is the peas in the living room,question,living room,peas
+where you do item close to the living room,question,living room,unknown
+explain everything you see vegetables inside the bedroom,describe,bedroom,vegetables
+express in details beverage,describe,unknown,beverage
+head towards the banana,go,unknown,banana
+move by the peas inside the my room,go,bedroom,peas
+take a peas near the living room,place,living room,peas
+move by the banana near the parlor,go,living room,banana
+clear a tuna close to the sitting room,place,living room,tuna
+tidy up the carrots inside the pantry,place,kitchen,carrots
+would you do beverage from the parlor,question,living room,beverage
+express what's there carrots in the kitchen,describe,kitchen,carrots
+what are you do crackers by the bedroom,question,bedroom,crackers
+take the object close to the parlor,place,living room,unknown
+tidy up the thing in the living room,place,living room,unknown
+get me some thing near the bath,get,bathroom,unknown
+search for an apple inside the kitchen,get,kitchen,apple
+put back the soda around the sitting room,place,living room,soda
+how is the vegetables close to the bedroom,question,bedroom,vegetables
+clean a carrots by the parlor,place,living room,carrots
+put away the crackers by the bathroom,place,bathroom,crackers
+present what you see object from the kitchen,describe,kitchen,unknown
+search for an orange close to the canteen,get,kitchen,orange
+head to the soda near the bedroom,go,bedroom,soda
+grab the banana,get,unknown,banana
+tidy a crackers,place,unknown,crackers
+grab a beverage near the bathroom,get,bathroom,beverage
+would is the object by the kitchen,question,kitchen,unknown
+could is the carrots near the canteen,question,kitchen,carrots
+go near the vegetables around the bathroom,go,bathroom,vegetables
+how are the soda,question,unknown,soda
+grab some soda,get,unknown,soda
+clean the apple around the bathroom,place,bathroom,apple
+specify every detail soda,describe,unknown,soda
+report what you see object by the bathroom,describe,bathroom,unknown
+store a beverage around the my room,place,bedroom,beverage
+answer you tell chips,question,unknown,chips
+clear the object from the pantry,place,kitchen,unknown
+where you tell corn,question,unknown,corn
+clear the cookies by the my room,place,bedroom,cookies
+go over by the apple near the parlor,go,living room,apple
+tell every detail cookies,describe,unknown,cookies
+drive by the apple inside the pantry,go,kitchen,apple
+put away an object close to the bathroom,place,bathroom,unknown
+describe every detail orange in the bath,describe,bathroom,orange
+what is is the soda from the bath,question,bathroom,soda
+describe what's there cookies around the my room,describe,bedroom,cookies
+take the tomato,place,unknown,tomato
+question is the soda by the bath,question,bathroom,soda
+fetch me the chips,get,unknown,chips
+tell everything you see orange,describe,unknown,orange
+answer are the cookies,question,unknown,cookies
+put away an item inside the kitchen,place,kitchen,unknown
+pick up some crackers from the my room,get,bedroom,crackers
+tell what's there tuna,describe,unknown,tuna
+report what you see corn by the bathroom,describe,bathroom,corn
+answer is the orange inside the bathroom,question,bathroom,orange
+go near the beverage near the pantry,go,kitchen,beverage
+specify every detail thing in the bathroom,describe,bathroom,unknown
+navigate to the orange near the parlor,go,living room,orange
+question you tell soda by the bath,question,bathroom,soda
+retrieve some crackers in the parlor,get,living room,crackers
+what is you do tuna from the parlor,question,living room,tuna
+get the banana,get,unknown,banana
+pick up a peas by the bathroom,get,bathroom,peas
+bring an orange near the bedroom,get,bedroom,orange
+present every detail banana,describe,unknown,banana
+describe what's there orange from the sitting room,describe,living room,orange
+locate the soda inside the bathroom,get,bathroom,soda
+tell every detail tuna from the bath,describe,bathroom,tuna
+store a thing near the my room,place,bedroom,unknown
+pick up some vegetables,get,unknown,vegetables
+clear a thing by the pantry,place,kitchen,unknown
+head by the cookies by the canteen,go,kitchen,cookies
+what are you tell tomato close to the bath,question,bathroom,tomato
+bring me the banana from the bathroom,get,bathroom,banana
+report what's there soda near the living room,describe,living room,soda
+answer are the water inside the bath,question,bathroom,water
+move toward the chips by the bedroom,go,bedroom,chips
+specify what's there water close to the bath,describe,bathroom,water
+tell what you see tuna,describe,unknown,tuna
+head near the crackers near the my room,go,bedroom,crackers
+proceed towards the chips from the sitting room,go,living room,chips
+head towards the water close to the canteen,go,kitchen,water
+clean the chips near the bath,place,bathroom,chips
+tidy up the banana in the bathroom,place,bathroom,banana
+specify in details banana by the bath,describe,bathroom,banana
+clean up the thing around the bedroom,place,bedroom,unknown
+throw away the water in the my room,place,bedroom,water
+specify what's there tomato close to the my room,describe,bedroom,tomato
+tidy up a soda from the my room,place,bedroom,soda
+go toward the apple near the bathroom,go,bathroom,apple
+move over to the crackers inside the bathroom,go,bathroom,crackers
+what are you tell carrots near the sitting room,question,living room,carrots
+fetch me some cookies by the pantry,get,kitchen,cookies
+what is is the orange around the bath,question,bathroom,orange
+proceed over by the apple by the living room,go,living room,apple
+question are the thing close to the bedroom,question,bedroom,unknown
+present in details beverage inside the pantry,describe,kitchen,beverage
+explain in details chips inside the canteen,describe,kitchen,chips
+tell everything you see banana around the kitchen,describe,kitchen,banana
+tell every detail corn close to the pantry,describe,kitchen,corn
+clean up the water close to the parlor,place,living room,water
+report everything you see apple in the parlor,describe,living room,apple
+move over to the carrots inside the my room,go,bedroom,carrots
+tidy up the crackers near the my room,place,bedroom,crackers
+store a cookies,place,unknown,cookies
+clear away a cookies,place,unknown,cookies
+go over by the corn in the bathroom,go,bathroom,corn
+answer you do cookies close to the kitchen,question,kitchen,cookies
+head towards the beverage around the bedroom,go,bedroom,beverage
+tell what's there chips,describe,unknown,chips
+present everything you see chips in the bedroom,describe,bedroom,chips
+tidy a carrots close to the my room,place,bedroom,carrots
+move to the tuna,go,unknown,tuna
+grab some orange,get,unknown,orange
+place an item by the parlor,place,living room,unknown
+move over by the water around the bath,go,bathroom,water
+go by the cookies close to the pantry,go,kitchen,cookies
+clean up the cookies close to the my room,place,bedroom,cookies
+report every detail beverage around the kitchen,describe,kitchen,beverage
+what is you do beverage around the bedroom,question,bedroom,beverage
+tell what you see water,describe,unknown,water
+report every detail tuna close to the pantry,describe,kitchen,tuna
+specify everything you see crackers in the bedroom,describe,bedroom,crackers
+answer you tell beverage close to the bath,question,bathroom,beverage
+how you do carrots from the canteen,question,kitchen,carrots
+explain what you see crackers from the bathroom,describe,bathroom,crackers
+retrieve some chips close to the bedroom,get,bedroom,chips
+tell everything you see vegetables,describe,unknown,vegetables
+get a water from the bedroom,get,bedroom,water
+report every detail object close to the parlor,describe,living room,unknown
+clean up the chips,place,unknown,chips
+present in details soda in the pantry,describe,kitchen,soda
+proceed toward the tuna,go,unknown,tuna
+tidy an orange around the canteen,place,kitchen,orange
+go by the crackers by the bedroom,go,bedroom,crackers
+drive towards the soda around the bedroom,go,bedroom,soda
+bring the corn by the my room,get,bedroom,corn
+place a beverage,place,unknown,beverage
+clean a water in the living room,place,living room,water
+proceed over by the carrots near the kitchen,go,kitchen,carrots
+describe what you see thing around the bath,describe,bathroom,unknown
+express what's there tomato around the sitting room,describe,living room,tomato
+fetch some tomato from the bathroom,get,bathroom,tomato
+head over to the crackers,go,unknown,crackers
+look for a vegetables in the bath,get,bathroom,vegetables
+drive over to the apple by the parlor,go,living room,apple
+clean a crackers inside the bathroom,place,bathroom,crackers
+head over by the soda,go,unknown,soda
+pick up the beverage near the kitchen,get,kitchen,beverage
+move towards the bath,go,bathroom,unknown
+proceed near the corn from the living room,go,living room,corn
+place a beverage in the sitting room,place,living room,beverage
+grab me the chips by the my room,get,bedroom,chips
+store an item close to the my room,place,bedroom,unknown
+would you do item by the sitting room,question,living room,unknown
+tidy up a water near the canteen,place,kitchen,water
+drive over to the crackers,go,unknown,crackers
+specify in details cookies inside the bath,describe,bathroom,cookies
+what are is the carrots around the sitting room,question,living room,carrots
+clean up the peas,place,unknown,peas
+answer is the thing close to the bathroom,question,bathroom,unknown
+present every detail corn from the bathroom,describe,bathroom,corn
+grab me a peas near the parlor,get,living room,peas
+place the soda near the pantry,place,kitchen,soda
+retrieve a crackers near the bath,get,bathroom,crackers
+clear away the item close to the bedroom,place,bedroom,unknown
+fetch some item in the my room,get,bedroom,unknown
+express what's there orange,describe,unknown,orange
+place the cookies close to the sitting room,place,living room,cookies
+fetch the thing in the bath,get,bathroom,unknown
+describe what's there water around the bath,describe,bathroom,water
+drive toward the cookies near the sitting room,go,living room,cookies
+find me the water,get,unknown,water
+locate the cookies near the parlor,get,living room,cookies
+report everything you see vegetables,describe,unknown,vegetables
+get an apple from the canteen,get,kitchen,apple
+tell in details tuna close to the bathroom,describe,bathroom,tuna
+take the chips from the parlor,place,living room,chips
+put away a water around the canteen,place,kitchen,water
+would you tell beverage inside the pantry,question,kitchen,beverage
+what are is the crackers,question,unknown,crackers
+drive to the beverage,go,unknown,beverage
+get me a tomato by the pantry,get,kitchen,tomato
+describe what's there peas by the bath,describe,bathroom,peas
+fetch me a thing inside the parlor,get,living room,unknown
+navigate towards the beverage around the parlor,go,living room,beverage
+store a crackers in the living room,place,living room,crackers
+pick up the orange inside the bedroom,get,bedroom,orange
+find me the apple,get,unknown,apple
+find a water by the parlor,get,living room,water
+get me the cookies,get,unknown,cookies
+how are the object in the bedroom,question,bedroom,unknown
+would are the water in the my room,question,bedroom,water
+drive over to the orange,go,unknown,orange
+present in details orange close to the bath,describe,bathroom,orange
+locate a chips inside the bath,get,bathroom,chips
+report what you see soda inside the bathroom,describe,bathroom,soda
+store the banana around the pantry,place,kitchen,banana
+where is the soda in the bathroom,question,bathroom,soda
+where are the crackers,question,unknown,crackers
+where is the cookies close to the bathroom,question,bathroom,cookies
+throw away an orange near the parlor,place,living room,orange
+throw out the peas in the bath,place,bathroom,peas
+head over to the crackers from the my room,go,bedroom,crackers
+grab me some corn around the bath,get,bathroom,corn
+specify everything you see water near the canteen,describe,kitchen,water
+drive towards the tuna near the sitting room,go,living room,tuna
+where you tell apple near the pantry,question,kitchen,apple
+what are are the thing by the my room,question,bedroom,unknown
+would you do water from the parlor,question,living room,water
+what are is the cookies in the my room,question,bedroom,cookies
+express everything you see vegetables close to the kitchen,describe,kitchen,vegetables
+pick up the apple close to the living room,get,living room,apple
+tell what you see water in the parlor,describe,living room,water
+could are the thing close to the kitchen,question,kitchen,unknown
+retrieve some item from the pantry,get,kitchen,unknown
+proceed to the soda inside the bedroom,go,bedroom,soda
+locate the banana,get,unknown,banana
+explain what's there chips near the my room,describe,bedroom,chips
+how are the banana from the living room,question,living room,banana
+where you tell peas near the bathroom,question,bathroom,peas
+explain every detail item near the living room,describe,living room,unknown
+report what's there banana,describe,unknown,banana
+what are are the apple inside the sitting room,question,living room,apple
+question you tell cookies close to the canteen,question,kitchen,cookies
+could you do banana by the bathroom,question,bathroom,banana
+specify every detail tuna close to the my room,describe,bedroom,tuna
+express what you see soda by the living room,describe,living room,soda
+drive by the water from the bath,go,bathroom,water
+could are the apple,question,unknown,apple
+retrieve a vegetables near the bedroom,get,bedroom,vegetables
+what are you tell tuna from the living room,question,living room,tuna
+fetch me some apple near the bedroom,get,bedroom,apple
+specify everything you see cookies from the my room,describe,bedroom,cookies
+explain everything you see water,describe,unknown,water
+tell what's there cookies near the bath,describe,bathroom,cookies
+report everything you see thing by the kitchen,describe,kitchen,unknown
+question are the orange near the sitting room,question,living room,orange
+describe what's there peas inside the bathroom,describe,bathroom,peas
+how you tell tomato around the bedroom,question,bedroom,tomato
+tidy a chips near the my room,place,bedroom,chips
+bring some tuna near the my room,get,bedroom,tuna
+get me some crackers by the bedroom,get,bedroom,crackers
+locate the cookies inside the bathroom,get,bathroom,cookies
+grab some apple,get,unknown,apple
+go towards the beverage around the parlor,go,living room,beverage
+go towards the beverage from the bathroom,go,bathroom,beverage
+locate some chips inside the bedroom,get,bedroom,chips
+fetch me the banana inside the sitting room,get,living room,banana
+tell everything you see crackers in the living room,describe,living room,crackers
+grab me some soda inside the my room,get,bedroom,soda
+go to the tomato inside the bedroom,go,bedroom,tomato
+navigate over by the living room,go,living room,unknown
+what is you tell chips inside the bath,question,bathroom,chips
+question you do item from the bedroom,question,bedroom,unknown
+explain every detail peas in the kitchen,describe,kitchen,peas
+move towards the soda by the my room,go,bedroom,soda
+report what's there item near the bedroom,describe,bedroom,unknown
+explain every detail chips close to the sitting room,describe,living room,chips
+store a tomato by the parlor,place,living room,tomato
+find some peas,get,unknown,peas
+tell everything you see banana in the kitchen,describe,kitchen,banana
+store the soda in the my room,place,bedroom,soda
+tell everything you see orange from the living room,describe,living room,orange
+where you do soda,question,unknown,soda
+go toward the cookies by the kitchen,go,kitchen,cookies
+clean up a soda in the living room,place,living room,soda
+answer are the thing from the my room,question,bedroom,unknown
+find some banana by the bedroom,get,bedroom,banana
+drive toward the tomato near the kitchen,go,kitchen,tomato
+present everything you see carrots from the bathroom,describe,bathroom,carrots
+get me some tomato,get,unknown,tomato
+drive over by the cookies,go,unknown,cookies
+move toward the orange in the bedroom,go,bedroom,orange
+store a crackers inside the sitting room,place,living room,crackers
+explain every detail beverage close to the pantry,describe,kitchen,beverage
+present every detail beverage close to the bedroom,describe,bedroom,beverage
+question you tell soda close to the sitting room,question,living room,soda
+tell everything you see crackers from the parlor,describe,living room,crackers
+question is the crackers by the my room,question,bedroom,crackers
+find me the carrots,get,unknown,carrots
+go to the water from the bathroom,go,bathroom,water
+express everything you see chips in the kitchen,describe,kitchen,chips
+drive near the bedroom,go,bedroom,unknown
+drive by the chips close to the bathroom,go,bathroom,chips
+explain what's there crackers near the bedroom,describe,bedroom,crackers
+move to the soda,go,unknown,soda
+could you tell apple close to the bedroom,question,bedroom,apple
+throw away the chips in the bath,place,bathroom,chips
+move by the sitting room,go,living room,unknown
+tell everything you see crackers close to the sitting room,describe,living room,crackers
+pick up some tomato,get,unknown,tomato
+head toward the cookies by the pantry,go,kitchen,cookies
+place a soda,place,unknown,soda
+clean a tuna,place,unknown,tuna
+search for the orange by the sitting room,get,living room,orange
+clean the vegetables near the bath,place,bathroom,vegetables
+get me the beverage inside the bedroom,get,bedroom,beverage
+grab the crackers near the bedroom,get,bedroom,crackers
+move toward the canteen,go,kitchen,unknown
+describe everything you see soda from the bathroom,describe,bathroom,soda
+throw out the beverage close to the my room,place,bedroom,beverage
+throw out the banana in the my room,place,bedroom,banana
+move by the beverage by the bathroom,go,bathroom,beverage
+head over by the chips near the bedroom,go,bedroom,chips
+put away a crackers inside the my room,place,bedroom,crackers
+express what you see cookies in the bedroom,describe,bedroom,cookies
+tidy up the water close to the kitchen,place,kitchen,water
+report every detail apple inside the my room,describe,bedroom,apple
+move near the water close to the canteen,go,kitchen,water
+bring some water around the kitchen,get,kitchen,water
+express everything you see water by the bath,describe,bathroom,water
+describe what you see apple inside the my room,describe,bedroom,apple
+could you do crackers,question,unknown,crackers
+tidy a beverage in the pantry,place,kitchen,beverage
+navigate over by the cookies,go,unknown,cookies
+describe in details soda close to the living room,describe,living room,soda
+get me an apple in the living room,get,living room,apple
+tell every detail banana in the bath,describe,bathroom,banana
+put back the tomato inside the my room,place,bedroom,tomato
+grab me the beverage,get,unknown,beverage
+search for the orange,get,unknown,orange
+retrieve an apple,get,unknown,apple
+tell what you see tuna by the bath,describe,bathroom,tuna
+go toward the vegetables by the bedroom,go,bedroom,vegetables
+question is the cookies near the bedroom,question,bedroom,cookies
+navigate towards the cookies,go,unknown,cookies
+present everything you see vegetables close to the bedroom,describe,bedroom,vegetables
+what are are the soda in the bathroom,question,bathroom,soda
+where is the thing around the kitchen,question,kitchen,unknown
+tell every detail apple,describe,unknown,apple
+question is the beverage by the bathroom,question,bathroom,beverage
+put back the cookies from the bedroom,place,bedroom,cookies
+place the banana around the bedroom,place,bedroom,banana
+look for an item around the sitting room,get,living room,unknown
+proceed by the cookies,go,unknown,cookies
+express in details beverage by the bedroom,describe,bedroom,beverage
+question you do item from the bath,question,bathroom,unknown
+specify everything you see chips by the bath,describe,bathroom,chips
+find me the water,get,unknown,water
+move over to the water by the living room,go,living room,water
+answer you do soda near the bathroom,question,bathroom,soda
+question are the beverage close to the my room,question,bedroom,beverage
+present what you see soda,describe,unknown,soda
+navigate near the crackers inside the parlor,go,living room,crackers
+find me some item in the pantry,get,kitchen,unknown
+specify what's there tuna,describe,unknown,tuna
+tidy up the apple,place,unknown,apple
+where is the object near the kitchen,question,kitchen,unknown
+throw away an object close to the bathroom,place,bathroom,unknown
+describe what you see orange,describe,unknown,orange
+proceed by the my room,go,bedroom,unknown
+move toward the crackers inside the sitting room,go,living room,crackers
+identify the banana close to the canteen,get,kitchen,banana
+how is the orange around the parlor,question,living room,orange
+move towards the water near the sitting room,go,living room,water
+pick up the carrots from the my room,get,bedroom,carrots
+clean a chips in the bedroom,place,bedroom,chips
+could is the object by the bath,question,bathroom,unknown
+throw out an item from the canteen,place,kitchen,unknown
+pick up the thing from the kitchen,get,kitchen,unknown
+drive over by the vegetables close to the bedroom,go,bedroom,vegetables
+where are the tuna by the pantry,question,kitchen,tuna
+find the cookies in the sitting room,get,living room,cookies
+move over by the tomato inside the bathroom,go,bathroom,tomato
+report what you see water,describe,unknown,water
+express what's there soda near the bath,describe,bathroom,soda
+what are you do cookies inside the pantry,question,kitchen,cookies
+throw away an orange from the my room,place,bedroom,orange
+drive over by the carrots,go,unknown,carrots
+search for the item in the parlor,get,living room,unknown
+store a peas close to the bathroom,place,bathroom,peas
+navigate toward the orange by the canteen,go,kitchen,orange
+retrieve the orange,get,unknown,orange
+drive toward the tuna by the bedroom,go,bedroom,tuna
+tell everything you see chips by the parlor,describe,living room,chips
+move toward the vegetables by the kitchen,go,kitchen,vegetables
+describe what's there thing in the sitting room,describe,living room,unknown
+place the peas by the bedroom,place,bedroom,peas
+present everything you see object inside the canteen,describe,kitchen,unknown
+go by the peas from the canteen,go,kitchen,peas
+go over to the apple,go,unknown,apple
+navigate toward the beverage in the bath,go,bathroom,beverage
+express in details cookies,describe,unknown,cookies
+express everything you see chips near the bath,describe,bathroom,chips
+look for the item close to the bathroom,get,bathroom,unknown
+head towards the crackers inside the bath,go,bathroom,crackers
+throw out the item close to the canteen,place,kitchen,unknown
+would you do chips,question,unknown,chips
+place an orange by the bathroom,place,bathroom,orange
+would you do object around the parlor,question,living room,unknown
+look for a banana,get,unknown,banana
+go by the bath,go,bathroom,unknown
+drive to the my room,go,bedroom,unknown
+would is the soda by the parlor,question,living room,soda
+head over by the apple,go,unknown,apple
+store a carrots,place,unknown,carrots
+head to the tuna,go,unknown,tuna
+describe everything you see water from the my room,describe,bedroom,water
+pick up the beverage inside the my room,get,bedroom,beverage
+find the chips in the living room,get,living room,chips
+present what you see crackers close to the living room,describe,living room,crackers
+find me an apple inside the living room,get,living room,apple
+proceed near the banana around the canteen,go,kitchen,banana
+explain what's there vegetables from the bedroom,describe,bedroom,vegetables
+bring me some object close to the canteen,get,kitchen,unknown
+proceed toward the crackers around the bathroom,go,bathroom,crackers
+tell everything you see orange inside the bath,describe,bathroom,orange
+report what's there chips near the pantry,describe,kitchen,chips
+report what's there orange close to the living room,describe,living room,orange
+would you do thing by the living room,question,living room,unknown
+answer are the cookies close to the my room,question,bedroom,cookies
+express everything you see peas in the canteen,describe,kitchen,peas
+clear the tuna near the my room,place,bedroom,tuna
+answer you tell soda from the my room,question,bedroom,soda
+throw away a tuna,place,unknown,tuna
+tell everything you see soda from the canteen,describe,kitchen,soda
+report everything you see water close to the kitchen,describe,kitchen,water
+move to the tuna around the living room,go,living room,tuna
+what are you tell peas from the bedroom,question,bedroom,peas
+place the apple,place,unknown,apple
+find me some water in the bath,get,bathroom,water
+take a chips close to the my room,place,bedroom,chips
+report what's there crackers,describe,unknown,crackers
+specify what's there banana from the bath,describe,bathroom,banana
+head towards the kitchen,go,kitchen,unknown
+where is the orange,question,unknown,orange
+find me a water inside the my room,get,bedroom,water
+describe what's there water near the parlor,describe,living room,water
+fetch me the item by the bathroom,get,bathroom,unknown
+answer is the crackers,question,unknown,crackers
+head over by the soda in the bath,go,bathroom,soda
+describe what's there soda from the bath,describe,bathroom,soda
+go over to the living room,go,living room,unknown
+clear a water,place,unknown,water
+report in details tuna in the bath,describe,bathroom,tuna
+clean an apple near the bedroom,place,bedroom,apple
+present in details tomato from the sitting room,describe,living room,tomato
+explain everything you see crackers,describe,unknown,crackers
+would you tell tomato in the my room,question,bedroom,tomato
+tidy up a cookies near the bedroom,place,bedroom,cookies
+search for the soda close to the bath,get,bathroom,soda
+tidy a vegetables close to the bedroom,place,bedroom,vegetables
+would you do apple in the parlor,question,living room,apple
+express what's there beverage close to the bedroom,describe,bedroom,beverage
+throw out a banana,place,unknown,banana
+store the banana,place,unknown,banana
+move by the banana,go,unknown,banana
+would you tell apple by the pantry,question,kitchen,apple
+locate some tuna,get,unknown,tuna
+specify every detail banana near the sitting room,describe,living room,banana
+describe what you see beverage,describe,unknown,beverage
+take a peas close to the bath,place,bathroom,peas
+describe every detail orange inside the kitchen,describe,kitchen,orange
+get an apple by the canteen,get,kitchen,apple
+get a chips in the bath,get,bathroom,chips
+bring a tomato from the pantry,get,kitchen,tomato
+place the tomato close to the parlor,place,living room,tomato
+clean up the banana around the bath,place,bathroom,banana
+head near the beverage by the my room,go,bedroom,beverage
+move over to the crackers,go,unknown,crackers
+describe in details item close to the pantry,describe,kitchen,unknown
+present in details banana inside the bath,describe,bathroom,banana
+move by the cookies by the bathroom,go,bathroom,cookies
+tell what's there soda near the bedroom,describe,bedroom,soda
+what is you do thing in the sitting room,question,living room,unknown
+where is the corn close to the parlor,question,living room,corn
+what are is the tuna from the bathroom,question,bathroom,tuna
+drive near the corn in the bathroom,go,bathroom,corn
+get me the beverage,get,unknown,beverage
+answer you tell crackers inside the bedroom,question,bedroom,crackers
+put away an orange inside the pantry,place,kitchen,orange
+fetch a cookies from the bedroom,get,bedroom,cookies
+express in details cookies near the bath,describe,bathroom,cookies
+throw out the apple in the kitchen,place,kitchen,apple
+search for a beverage by the my room,get,bedroom,beverage
+report what you see tomato,describe,unknown,tomato
+go toward the crackers in the bedroom,go,bedroom,crackers
+clean the soda around the my room,place,bedroom,soda
+locate some apple by the my room,get,bedroom,apple
+fetch the thing in the living room,get,living room,unknown
+find me the orange from the parlor,get,living room,orange
+describe what's there banana around the bedroom,describe,bedroom,banana
+answer are the crackers from the canteen,question,kitchen,crackers
+tidy up the object near the parlor,place,living room,unknown
+could is the corn near the bathroom,question,bathroom,corn
+clean up the carrots near the parlor,place,living room,carrots
+store the beverage by the bath,place,bathroom,beverage
+proceed to the beverage in the parlor,go,living room,beverage
+search for some chips inside the sitting room,get,living room,chips
+move toward the banana inside the sitting room,go,living room,banana
+present everything you see object inside the bathroom,describe,bathroom,unknown
+bring the peas around the bathroom,get,bathroom,peas
+present what you see beverage,describe,unknown,beverage
+bring me the object around the living room,get,living room,unknown
+tidy up a banana inside the my room,place,bedroom,banana
+describe what you see item by the my room,describe,bedroom,unknown
+report in details soda from the sitting room,describe,living room,soda
+clean the crackers around the kitchen,place,kitchen,crackers
+drive near the my room,go,bedroom,unknown
+fetch me an object around the my room,get,bedroom,unknown
+would you tell corn,question,unknown,corn
+identify some thing inside the pantry,get,kitchen,unknown
+report every detail water near the living room,describe,living room,water
+identify the cookies,get,unknown,cookies
+tidy a beverage inside the bathroom,place,bathroom,beverage
+express every detail beverage close to the pantry,describe,kitchen,beverage
+answer you do orange close to the pantry,question,kitchen,orange
+clear the water in the bath,place,bathroom,water
+bring me a beverage from the sitting room,get,living room,beverage
+look for a carrots near the canteen,get,kitchen,carrots
+where is the banana,question,unknown,banana
+put back an apple around the bathroom,place,bathroom,apple
+proceed near the cookies by the bedroom,go,bedroom,cookies
+head over by the water around the bath,go,bathroom,water
+find me a thing inside the canteen,get,kitchen,unknown
+find a crackers around the my room,get,bedroom,crackers
+what are is the object from the canteen,question,kitchen,unknown
+find the banana in the bedroom,get,bedroom,banana
+where is the beverage near the sitting room,question,living room,beverage
+head over to the banana inside the sitting room,go,living room,banana
+drive over by the soda,go,unknown,soda
+navigate toward the orange around the bath,go,bathroom,orange
+what are are the peas from the living room,question,living room,peas
+put back the object inside the bedroom,place,bedroom,unknown
+what is you tell apple around the pantry,question,kitchen,apple
+specify everything you see vegetables by the sitting room,describe,living room,vegetables
+proceed over by the soda near the pantry,go,kitchen,soda
+tell what you see item by the my room,describe,bedroom,unknown
+place a tomato around the my room,place,bedroom,tomato
+what is are the soda in the living room,question,living room,soda
+could you do banana,question,unknown,banana
+proceed towards the corn around the bathroom,go,bathroom,corn
+throw away a soda near the sitting room,place,living room,soda
+would is the orange in the my room,question,bedroom,orange
+fetch me some tomato,get,unknown,tomato
+move near the beverage from the bath,go,bathroom,beverage
+tidy up the water,place,unknown,water
+what is is the carrots by the living room,question,living room,carrots
+answer you tell beverage from the sitting room,question,living room,beverage
+explain every detail orange close to the bedroom,describe,bedroom,orange
+take a corn by the bath,place,bathroom,corn
+put back the corn near the bathroom,place,bathroom,corn
+describe everything you see thing in the living room,describe,living room,unknown
+clear an item inside the kitchen,place,kitchen,unknown
+find some vegetables,get,unknown,vegetables
+fetch me some crackers,get,unknown,crackers
+navigate toward the apple from the bath,go,bathroom,apple
+navigate to the kitchen,go,kitchen,unknown
+tell in details chips around the canteen,describe,kitchen,chips
+fetch a carrots,get,unknown,carrots
+describe everything you see item close to the living room,describe,living room,unknown
+what are you do crackers near the bath,question,bathroom,crackers
+tell everything you see soda by the pantry,describe,kitchen,soda
+would are the soda in the parlor,question,living room,soda
+specify in details thing by the bath,describe,bathroom,unknown
+could is the peas by the parlor,question,living room,peas
+go near the canteen,go,kitchen,unknown
+proceed toward the peas,go,unknown,peas
+tell what's there apple from the pantry,describe,kitchen,apple
+present what's there thing near the my room,describe,bedroom,unknown
+head over to the cookies close to the bathroom,go,bathroom,cookies
+pick up the beverage close to the bath,get,bathroom,beverage
+navigate over to the chips in the bath,go,bathroom,chips
+search for some cookies in the pantry,get,kitchen,cookies
+proceed by the my room,go,bedroom,unknown
+proceed over by the apple from the pantry,go,kitchen,apple
+move over to the orange,go,unknown,orange
+what is you tell apple in the pantry,question,kitchen,apple
+drive near the water,go,unknown,water
+explain every detail corn inside the bedroom,describe,bedroom,corn
+go toward the soda near the sitting room,go,living room,soda
+locate the beverage,get,unknown,beverage
+question you tell crackers near the canteen,question,kitchen,crackers

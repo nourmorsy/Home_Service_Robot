@@ -1,0 +1,1 @@
+[['navigate', 'bathroom', 'kitchen'], ['pick', 'can', 'kitchen'], ['navigate', 'kitchen', 'bedroom'], ['place', 'can', 'bedroom']]

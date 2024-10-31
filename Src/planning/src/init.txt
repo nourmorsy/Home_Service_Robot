@@ -1,0 +1,2 @@
+[('Robot', 'robot'), ('Location', 'kitchen'), ('Location', 'bathroom'), ('Location', 'bedroom'), ('Obj', 'apple'), ('Obj', 'banana'), ('Obj', 'water'), ('Obj', 'can'), ('HandEmpty', 'robot'), ('CanMove', 'robot'), ('At', 'robot', 'bathroom'), ('At', 'can', 'kitchen')]
+[('At', 'can', 'bedroom')]

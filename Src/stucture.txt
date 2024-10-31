@@ -1,0 +1,62 @@
+
+llm:
+    llm+comuminication node:
+        conda activate project_env
+        rosrun llm llm.py
+        5GB
+NLU:
+    NLU node:
+        conda activate project_env
+        rosrun grounding rnn_classification.py
+        *GB
+
+planning:
+    planning node:
+        conda activate project_env
+        rosrun planning main_node.py
+
+Navigation:
+    Navigation node:
+	conda deactivate
+        roslaunch jupiterobot_bringup jupiterobot_bringup.launch
+
+        roslaunch jupiterobot_navigation rplidar_amcl_demo.launch map_file:=/home/mustar/test_ws/maps/simple2.yaml
+
+        roslaunch turtlebot_rviz_launchers view_navigation.launch
+
+        rosrun navigation navigation_node.py
+
+
+object detection:
+    object detection node :
+	conda deactivate
+	roslaunch astra_camera astra.launch
+	rosrun detection read_camera.py
+	rosrun navigation move_motors_node.py
+        conda activate project_env
+	rosrun detection dino.py
+        **************************
+        *GB
+
+Vilt:
+    vision language node (VQA):
+	conda activate project_env
+        rosrun vqa vqa_unit_test_ros.py
+        ***************
+        *GB 
+
+manipulation:
+    setup arm and camera:
+        conda deactivate
+        roslaunch turtlebot_arm_bringup arm_with_group.launch
+        roslaunch turtlebot_arm_bringup moveit_bringup.launch 
+        roslaunch astra_camera astra.launch
+        rosrun  tf static_transform_publisher 0.075 0.0 0.055 0 0 -0.71 camera_top_rgb_optical_frame camera_rgb_optical_frame 10
+    DOPE:
+        conda activate dope
+        source Desktop/dope/devel/setup.bash
+        roslaunch dope dope.launch
+        2GB
+    manipulation node :
+        rosrun turtlebot_arm_moveit_demos grasp.py
+
