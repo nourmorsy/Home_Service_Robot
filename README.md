@@ -1,13 +1,14 @@
 # Home Service Robot Project
 
 ## Table of Contents
-- [Project Goal and Overview](#project-overview)
-- [System Architecture](#system-architecture)
-- [Directory Structure](#directory-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Future Improvements](#future-Improvements)
-- [Acknowledgments](#acknowledgments)
+- [Project Goal and Overview](#Project-Overview)
+- [System Architecture](#System-Architecture)
+- [Hardware Setup](#Hardware-Setup)
+- [Directory Structure](#Directory-Structure)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Future Improvements](#Future-Improvements)
+- [Acknowledgments](#Acknowledgments)
 ---
 
 ## Project Goal and Overview
@@ -20,6 +21,7 @@ The **Home Service Robot** is a groundbreaking project aimed at assisting the el
 - **PDDL-based Planning** for decision-making and task execution
 - **MoveIt with 6DOF** for robotic arm manipulation
 
+
 ---
 
 ## System Architecture
@@ -31,6 +33,18 @@ The **Home Service Robot** is a groundbreaking project aimed at assisting the el
 - **Object Manipulation**: Uses MoveIt and a 5DOF robotic arm for complex object handling.
 
 ![System Architecture](./System-arch.png)
+
+---
+
+## Hardware Setup
+
+- **RGBD Camera**: Provides color (RGB) and depth information for object detection, and human-robot interaction.
+- **4DOF Arm**: A 4-degree-of-freedom robotic arm that allows for object manipulation and grasping tasks.
+- **RPLidar**: Used for precise environment mapping and obstacle avoidance, ensuring safe navigation.
+- **Mobile Base**: The mobile platform that enables movement across the environment.
+- **Onboard Computer**: Handles all processing tasks, running the robot's software stack, vision models, and navigation algorithms.
+
+![Hardware Setup](./robot.png)
 
 ---
 ## Directory Structure
