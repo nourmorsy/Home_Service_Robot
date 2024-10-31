@@ -39,10 +39,10 @@ The **Home Service Robot** is a groundbreaking project aimed at assisting the el
 ## Hardware Setup
 
 ---
+
 <p align="left">
   <img src="./robot.png" alt="Home Service Robot Hardware" width="150" align="right"/>
 </p>
-
 
 
 - **RGBD Camera**: Provides color (RGB) and depth information for object detection, and human-robot interaction.
