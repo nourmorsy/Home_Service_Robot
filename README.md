@@ -60,7 +60,7 @@ Ensure the following software is installed on your system:
 - **Python 3.x**: The project requires Python 3 for compatibility with various models and libraries.
 - **Anaconda**: Recommended for managing Python environments.
   - Installation instructions: [Anaconda Installation Guide](https://docs.anaconda.com/anaconda/install/)
---- 
+
 ### 2. Clone the Repository
 
 Start by cloning this repository to your local machine:
@@ -69,7 +69,7 @@ git clone https://github.com/yourusername/Home_Service_robot.git
 cd Home_Service_robot
 catkin make 
 ```
----
+
 ### 3. Set Up the Conda Environments
 
 The project uses multiple Conda environments to manage dependencies for different modules.
@@ -77,7 +77,7 @@ The project uses multiple Conda environments to manage dependencies for differen
 conda env create -f Project_environment.yml #This file includes dependencies for NLP, navigation, and general utilities.
 conda env create -f dope.yml # This environment specifically handles the DOPE (Deep Object Pose Estimation) model dependencies.
 ```
----
+
 ### 4.  Download robot packages and AI Models
 
 - **Turtlebot package**: Required for robot control and navigation.
@@ -101,15 +101,15 @@ conda env create -f dope.yml # This environment specifically handles the DOPE (D
 -  **Finally**: in the main directory : ```catkin make ```
 
 ---
-### 5.  Usage
+## Usage
 ---
-### 6.  Future Improvements
+## Future Improvements
 
  - **Decision Trees for Improved Planning**: We plan to incorporate decision trees to enhance task-planning capabilities, allowing the       robot to make smarter choices when performing tasks.
  - **Additional Multi-Modal Models**: Adding other vision and language models for improved perception and interaction.
 
 ---
-### 7.  Acknowledgments
+## Acknowledgments
 
 
   - This project is inspired by the work of [**Sebastian Castro**](https://github.com/sea-bass). His contributions and insightful blog       post, [2020 Review: Service Robotics – MIT CSAIL](https://roboticseabass.com/2020/12/30/2020-review-service-robotics-mit-csail/),       provided invaluable inspiration and guidance for our team.
